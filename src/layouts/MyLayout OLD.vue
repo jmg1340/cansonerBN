@@ -28,12 +28,10 @@
             >
               <q-icon name="info" color="blue-10"/>
         </q-btn>
-        <div class="text-caption text-brown-9">v 3.1</div>
-      </q-toolbar>
 
-      <div v-if="!isOnline" class="q-pa-sm bg-negative text-white round-borders row flex-center">
-        OFFLINE: no funcionarà el reproductor de les cançons
-      </div>
+
+        <div class="text-caption text-brown-9">v.3</div>
+      </q-toolbar>
 
       <q-dialog v-model="mostrarAbout" class="q-ma-md q-pa-md" position="top">
         <q-card >
@@ -111,26 +109,10 @@
 export default {
   name: 'MyLayout',
 
-  mounted () {
-    window.addEventListener("online", () => {
-      this.setIsOnline(true)
-    })
-    window.addEventListener("offline", () => {
-      this.setIsOnline(false)
-    })
-  },
-
   data () {
     return {
       leftDrawerOpen: false,
-      mostrarAbout: false,
-      isOnline: true,
-    }
-  },
-
-  methods: {
-    setIsOnline: function(truefalse){
-      this.isOnline = truefalse
+      mostrarAbout: false
     }
   }
 }

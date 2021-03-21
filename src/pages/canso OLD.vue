@@ -43,11 +43,11 @@
 
 
           <div class="">
-            <div class="row justify-between items-center">
+            <div class="row justify-between items-center q-gutter-md">
 
               
               <!-- numero canço - llibre -->
-              <div class="col block " >
+              <div class="col block" >
                 <q-chip 
                   :color="(objCanso[idioma].cansoner.nom == 'vermell') ? 'red-8' : (objCanso[idioma].cansoner.nom == 'blau') ? 'blue-8' : 'grey-8'" 
                   text-color="white"
@@ -61,7 +61,7 @@
               </div>
 
               <!-- icona cor -->
-              <div class="col-auto text-center ">
+              <div class="col text-center">
                 <q-icon
                   v-if="esCansoFavorita == false"
                   style= "color: #545454; font-size: 1.5rem;"
@@ -595,10 +595,6 @@ export default {
   }
 
 */
-
-.borde {
-  border: 1px solid blue;
-}
 
 .bounce-enter-active {
   animation: bounce-in .5s;

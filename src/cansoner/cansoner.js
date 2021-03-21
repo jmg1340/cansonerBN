@@ -31326,6 +31326,9 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
+              "'Diles cuánto les quiero,",
+              "diles cuánto les amo,",
+              "si se sienten lejos de mí,",
               "diles que estoy aquí'"
             ]
           },
@@ -31364,9 +31367,6 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "'Diles cuánto les quiero,",
-              "diles cuánto les amo,",
-              "si se sienten lejos de mí,",
               "Aleluya, aleluya (3)",
               "el Señor resucitó.  "
             ]
@@ -31820,7 +31820,47 @@ cansoner=
             ]
           }
         ]
-      }
+      },
+      "CAT": {
+        "titol": "PROCLAMO LA TEVA GLÒRIA",
+        "audio": null,
+        "estat": null,
+        "preferida":  false,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 508
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Proclamo la teva glòria",
+              "com més et conec",
+              "jo vull saber més de tu.",
+              "Tal com fa el terrissaire",
+              "renova’m, transfor-ma’m",
+              "fes-me a imatge teva, Senyor.",
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Jo vull ser / més com tu",
+              "veure-ho tot / tal com tu",
+              "sadollar-me del teu Esperit",
+              "reflectir al món l’amor.   (BIS)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "(final)",
+              "reflectir al món el Teu amor.       (BIS)",
+              "reflectir al món l’amor."
+            ]
+          }
+        ]
+      },
     },
     "622": {
       "ES": {
@@ -32331,6 +32371,7 @@ cansoner=
               "Por amor se entregó,",
               "por amor Él murió, ",
               "por amor quiso que yo ",
+              "naciera de nuevo.",
               "Gracias Jesús",
               "por salir a mi encuentro,",
               "por ese día en que oí tu voz",
@@ -32343,6 +32384,7 @@ cansoner=
               "Y haz que nunca se me olvide",
               "que yo vivo para ti, ",
               "que mis ojos deben estar",
+              "fijos en tí.",
               "Y haz que nunca se me olvide",
               "que Tú eres para mí ",
               "como el aire que respiro, ",
