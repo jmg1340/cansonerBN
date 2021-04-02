@@ -31351,6 +31351,27 @@ cansoner=
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "Digues quan els estimo",
+        "audio": null,
+        "estat": null,
+        "preferida":  false,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 500
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Digues com els estimo,",
+              "digues quan els estimo,",
+              "si estan allunyats de mi,",
+              "digues que sóc aquí",
+            ]
+          },
+        ]
       }
     },
     "615": {
