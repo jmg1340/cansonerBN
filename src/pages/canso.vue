@@ -281,14 +281,6 @@ export default {
     
     if (this.$q.localStorage.getItem("CansonerBN_key_opcions"))
       this.opcions = this.$q.localStorage.getItem("CansonerBN_key_opcions");
-    // if (this.$q.sessionStorage.getItem("key_tamanyLletra"))
-    //   this.pfontSize = this.$q.sessionStorage.getItem("key_tamanyLletra");
-    // if (this.$q.sessionStorage.getItem("key_negreta"))
-    //   this.pbold = this.$q.sessionStorage.getItem("key_negreta");
-    // if (this.$q.sessionStorage.getItem("key_amagaReproductor"))
-    //   this.amagaReproductor = this.$q.sessionStorage.getItem("key_amagaReproductor");
-
-
 
     this.strIdioma = this.idiomaCansoSeleccionada
     this.windowHeight = window.innerHeight + 'px'
@@ -300,9 +292,15 @@ export default {
         value: idioma
       })
     },this)
+
+
+    this.codiCanso = "";
+    
+
   },
 
   destroyed () {
+    // guardem les opcions
     this.$q.localStorage.set("CansonerBN_key_opcions", this.opcions);
   },
 
@@ -318,7 +316,7 @@ export default {
         pbold: false,
         amagaReproductor: false,
         amagaSocialLinks: false       
-      }
+      },
 
 
     }
@@ -368,6 +366,7 @@ export default {
   },
 
   methods: {
+
 
     afegirFavorits: function () {
       let objecte = {

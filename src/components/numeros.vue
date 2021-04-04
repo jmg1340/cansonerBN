@@ -136,10 +136,16 @@ export default {
     if (this.$q.sessionStorage.getItem("key_seleccioCansoner"))
       this.seleccioCansoner = this.$q.sessionStorage.getItem( "key_seleccioCansoner" );
 
+    // eventListener per grabar pulsacions de tecles per a nous codis de cançons
+    document.addEventListener("keypress", this.funcEventKeydown)
+
   },
 
   destroyed(){
     this.guardarVariablesSessio();
+    // eliminem eventListener
+    document.removeEventListener("keypress", this.funcEventKeydown)
+
   },
 
   data() {
@@ -159,6 +165,45 @@ export default {
   },
 
   methods: {
+
+    funcEventKeydown: function(event){
+      // if (event.) return
+      
+      switch( event.key ){
+        case "Enter":
+          console.log(`codiCanso: ${this.inputNumero}`);
+          this.mostrarCansoNumero();
+          break;
+
+        case "Delete":
+          this.inputNumero = "";
+          break;
+
+        case "V":
+        case "v":
+          this.seleccioCansoner = "vermell";
+          this.inputNumero = "";
+          break;
+
+        case "B":
+        case "b":
+          this.seleccioCansoner = "blau";
+          this.inputNumero = "";
+          break;
+
+        default:
+          if (this.inputNumero.length < 3 && !isNaN(event.key)) this.inputNumero = this.inputNumero.concat(event.key);
+          // this.inputNumero += event.key;
+          console.log(`tecla ${event.key}`)
+          break;
+      } 
+
+    },
+
+
+
+
+
     teclejar: function(numero) {
       let x = this.inputNumero;
       if (x.length < 3) this.inputNumero = x.concat(numero);
@@ -180,7 +225,7 @@ export default {
       );
       console.log("state.llibre MODIFICAT");
 
-      // Un cop actualitzat, miro si existeixen les 2 propietats:
+      // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma:
       
       if (
         ! this.$store.getters["modulCansoner/getObjCansonsLlibre"][
