@@ -68,12 +68,37 @@
 export default {
   name: 'MyLayout',
 
+  created (){
+    document.addEventListener("keydown", this.funcEventKeydown)
+  },
+
+  destroyed(){
+    // eliminem eventListener
+    document.removeEventListener("keydown", this.funcEventKeydown)
+  },
+
   data () {
     return {
       leftDrawerOpen: false
     }
   },
   methods: {
+
+  funcEventKeydown: function(event){
+      // if (event.) return
+      
+      switch( event.key ){
+
+        case "T":
+        case "t":
+          this.tornarAlBuscador()
+          break;
+
+      } 
+
+    },
+
+
     tornarAlBuscador: function(){
       //this.$emit("tornaAlBuscador");
       this.$router.push({ name: 'cercar' });

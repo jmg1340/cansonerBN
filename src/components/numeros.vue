@@ -137,14 +137,14 @@ export default {
       this.seleccioCansoner = this.$q.sessionStorage.getItem( "key_seleccioCansoner" );
 
     // eventListener per grabar pulsacions de tecles per a nous codis de cançons
-    document.addEventListener("keypress", this.funcEventKeydown)
+    document.addEventListener("keydown", this.funcEventKeydown)
 
   },
 
   destroyed(){
     this.guardarVariablesSessio();
     // eliminem eventListener
-    document.removeEventListener("keypress", this.funcEventKeydown)
+    document.removeEventListener("keydown", this.funcEventKeydown)
 
   },
 
@@ -170,11 +170,15 @@ export default {
       // if (event.) return
       
       switch( event.key ){
+        case "VK_RETURN":   //windows
+        case "kVK_Return":  // MAC
         case "Enter":
           console.log(`codiCanso: ${this.inputNumero}`);
           this.mostrarCansoNumero();
           break;
 
+        case "VK_DELETE":   //windows
+        case "kVK_ForwardDelete":  // MAC        
         case "Delete":
           this.inputNumero = "";
           break;
@@ -182,13 +186,13 @@ export default {
         case "V":
         case "v":
           this.seleccioCansoner = "vermell";
-          this.inputNumero = "";
+          //this.inputNumero = "";
           break;
 
         case "B":
         case "b":
           this.seleccioCansoner = "blau";
-          this.inputNumero = "";
+          //this.inputNumero = "";
           break;
 
         default:
