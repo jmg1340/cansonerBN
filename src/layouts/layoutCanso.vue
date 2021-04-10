@@ -1,4 +1,5 @@
 <template>
+
   <q-layout view="lHh Lpr lFf">
     <q-header elevated color="black" class="bg-yellow-3">
       <q-toolbar class="glossy">
@@ -21,14 +22,14 @@
         />
 
         <q-btn
-           color="brown-7" 
-           label="Tornar"
-           no-caps
-           rounded
-           push
-           @click="tornarAlBuscador"
-           >
-         </q-btn>
+          color="brown-7" 
+          label="Tornar"
+          no-caps
+          rounded
+          push
+          @click="tornarAlBuscador"
+          >
+        </q-btn>
 
 
         <!-- <div>Cançoner grup Bona Nova</div> -->
@@ -57,11 +58,17 @@
 
       </q-list>
     </q-drawer>
- -->
+-->
     <q-page-container>
       <router-view />
     </q-page-container>
   </q-layout>
+
+
+
+
+
+
 </template>
 
 <script>
@@ -69,22 +76,22 @@ export default {
   name: 'MyLayout',
 
   created (){
-    document.addEventListener("keydown", this.funcEventKeydown)
+    document.addEventListener("keydown", this.funcEventTornar)
   },
 
   destroyed(){
     // eliminem eventListener
-    document.removeEventListener("keydown", this.funcEventKeydown)
+    document.removeEventListener("keydown", this.funcEventTornar)
   },
 
   data () {
     return {
-      leftDrawerOpen: false
+      leftDrawerOpen: false,
     }
   },
   methods: {
 
-  funcEventKeydown: function(event){
+    funcEventTornar: function(event){
       // if (event.) return
       
       switch( event.key ){
@@ -115,5 +122,10 @@ export default {
 <style>
   divs{
     border: 1px solid black;
+  }
+
+  .negre{
+    height: 100%;
+    width: 100%;
   }
 </style>

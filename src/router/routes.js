@@ -13,6 +13,13 @@ const routes = [
     children: [
       { name: "canso", path: '', component: () => import('pages/canso.vue') }
     ]
+  },
+  {
+    path: '/negre',
+    component: () => import('layouts/layoutCanso.vue'),
+    children: [
+      { name: "negre", path: '', component: () => import('pages/negre.vue') }
+    ]
   }
 ]
 

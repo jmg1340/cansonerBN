@@ -120,15 +120,48 @@ export default {
     })
   },
 
+
+  created (){
+    document.addEventListener("keydown", this.funcEventNegre)
+  },
+
+  destroyed(){
+    // eliminem eventListener
+    document.removeEventListener("keydown", this.funcEventNegre)
+  },
+
+
+
+
   data () {
     return {
       leftDrawerOpen: false,
       mostrarAbout: false,
       isOnline: true,
+
     }
   },
 
   methods: {
+
+  funcEventNegre: function(event){
+      // if (event.) return
+      
+      switch( event.key ){
+
+        case "N":
+        case "n":
+          this.$router.push({ name: "negre" });         
+          break;
+
+      } 
+
+    },
+
+
+
+
+
     setIsOnline: function(truefalse){
       this.isOnline = truefalse
     }

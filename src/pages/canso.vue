@@ -296,12 +296,13 @@ export default {
 
     this.codiCanso = "";
     
-
+    document.addEventListener("keydown", this.funcEventNegre)
   },
 
   destroyed () {
     // guardem les opcions
     this.$q.localStorage.set("CansonerBN_key_opcions", this.opcions);
+    document.removeEventListener("keydown", this.funcEventNegre)
   },
 
   data () {
@@ -366,6 +367,17 @@ export default {
   },
 
   methods: {
+
+    funcEventNegre: function(event){     
+      switch( event.key ){
+        case "N":
+        case "n":
+          this.$router.push({ name: "negre" });         
+          break;
+      } 
+    },
+
+
 
 
     afegirFavorits: function () {
