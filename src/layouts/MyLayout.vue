@@ -28,7 +28,7 @@
             >
               <q-icon name="info" color="blue-10"/>
         </q-btn>
-        <div class="text-caption text-brown-9">v 3.1</div>
+        <div class="text-caption text-brown-9">v 3.2</div>
       </q-toolbar>
 
       <div v-if="!isOnline" class="q-pa-sm bg-negative text-white round-borders row flex-center">

@@ -173,7 +173,7 @@ export default {
         case "VK_RETURN":   //windows
         case "kVK_Return":  // MAC
         case "Enter":
-          console.log(`codiCanso: ${this.inputNumero}`);
+          console.log(`inputNumero: ${this.inputNumero}`);
           this.mostrarCansoNumero();
           break;
 
@@ -229,7 +229,7 @@ export default {
       );
       console.log("state.llibre MODIFICAT");
 
-      // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma:
+      // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma, segons el numero:
       
       if (
         ! this.$store.getters["modulCansoner/getObjCansonsLlibre"][
@@ -239,7 +239,7 @@ export default {
           this.inputNumero + "_ES"
         ]
       ) {
-        // this.animateCSS('#idResultat', 'shakeX');
+        
         console.log("No existeix numero al llibre")
         this.$q.notify({
           message: 'El número ' + this.inputNumero + ' no existeix',
