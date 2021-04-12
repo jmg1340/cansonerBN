@@ -144,14 +144,19 @@ export default {
 
   methods: {
 
-  funcEventNegre: function(event){
+    funcEventNegre: function(event){
       // if (event.) return
       
       switch( event.key ){
 
         case "N":
         case "n":
-          this.$router.push({ name: "negre" });         
+          // Object.keys(event.target).forEach( prop => console.log( prop ))
+          // console.log("event.target: " + event.target.tagName )
+          
+          // activació de la pagina "negre" excepte si la N es pulsada des del Q-input
+          if ( event.target.tagName.toLowerCase() !== "input" ) 
+            this.$router.push({ name: "negre" });         
           break;
 
       } 

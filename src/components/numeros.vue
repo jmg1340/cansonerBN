@@ -195,6 +195,11 @@ export default {
           //this.inputNumero = "";
           break;
 
+        // case "N":
+        // case "n":
+        //   this.$router.push({ name: "negre" });         
+        //   break;
+
         default:
           if (this.inputNumero.length < 3 && !isNaN(event.key)) this.inputNumero = this.inputNumero.concat(event.key);
           // this.inputNumero += event.key;
