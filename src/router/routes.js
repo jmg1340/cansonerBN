@@ -16,7 +16,8 @@ const routes = [
   },
   {
     path: '/negre',
-    component: () => import('layouts/layoutCanso.vue'),
+    component: () => import('layouts/layoutNegre.vue'),
+    // component: () => import('pages/negre.vue'),
     children: [
       { name: "negre", path: '', component: () => import('pages/negre.vue') }
     ]

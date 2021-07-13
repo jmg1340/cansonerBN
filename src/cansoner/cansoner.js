@@ -6,7 +6,7 @@ cansoner=
       "ES": {
         "titol": "Abro mi ser",
         "audio": null,
-        "estat": null,   //possibels valors: "nova" o null
+        "estat": null,   //possibles valors: "nova" o null
         "preferida":  false,
         "cansoner": {
           "nom": "blau",
@@ -2332,7 +2332,12 @@ cansoner=
     "44": {
       "ES": {
         "titol": "Cuando escuches la voz del Señor",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1AbbbX3yAdRa7BazMU5Lw0AYhEfuBEToB",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -12596,7 +12601,12 @@ cansoner=
     "265": {
       "ES": {
         "titol": "Si yo confío en el Señor",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1yCsjTaGNz4wYVtdohgNjKYgh2OrqW8fG",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -12608,22 +12618,96 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Si yo confío en el Señor",
-              "no me va a fallar puedo confiar en el Señor, no me va a fallar."
+              "no me va a fallar",
+              "puedo confiar en el Señor, ",
+              "no me va a fallar."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Si el sol llegara a oscurecer",
+              "y no brillara más",
+              "yo igual confío en el Señor,",
+              "no me va a fallar.",
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "",
-              "• Si el sol llegara a oscurecer",
+              "No me va a fallar,",
+              "puedo descansar,",
+              "una mansión",
+              "Cristo me dará."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Si el sol llegara a oscurecer",
               "y no brillara más",
-              "yo igual confío en el Señor, no me va a fallar.",
-              "",
-              "• No me va a fallar, puedo descansar, una mansión Cristo me dará."
+              "yo igual confío en el Señor,",
+              "no me va a fallar."
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Si jo confio en el Senyor",
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=18gETzrrvreJICc2Vqu9Rh4njn7gSoJOs",
+            type: "audio/mp3"
+          }
+        ],
+        "estat": "nova",
+        "preferida":  false,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 245
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Si jo confio en el Senyor",
+              "Ell no em pot fallar.",
+              "Puc ben confiar en el Senyor",
+              "no em pot fallar."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Malgrat que el sol no brillés",
+              "i no sortís mai més",
+              "en el Senyor confiaré",
+              "no em pot fallar.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "No em pot fallar,",
+              "ja puc reposar:",
+              "una mansió",
+              "Crist em donarà."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Malgrat que el sol no brillés",
+              "i no sortís mai més",
+              "en el Senyor confiaré",
+              "no em pot fallar.",
             ]
           }
         ]
       }
+ 
+      
+
     },
     "266": {
       "ES": {
@@ -14590,19 +14674,6 @@ cansoner=
               "Vine damunt meu."
             ]
           },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Ven, Espíritu, ven",
-              "Y lléname, Señor, con tu preciosa unción (2)",
-              "Purifícame y lávame,",
-              "Renuévame, restáurame, Señor,",
-              "Con tu poder.",
-              "Purifícame y lávame,",
-              "Renuévame, restáurame, Señor.",
-              "Te quiero conocer"
-            ]
-          }
         ]
       }
     },
@@ -15881,7 +15952,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Jo soc el pa de vida",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1EosWd_DYj5HUN3MHsddbeWu7YQZFRjKg",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -27782,7 +27858,12 @@ cansoner=
     "549": {
       "CAT": {
         "titol": "Sant Esperit de Deu vivent",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1xLukYhHQdQMBfT7Z-9Tn4q-gmTBpt1Su",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -29128,7 +29209,12 @@ cansoner=
     "578": {
       "CAT": {
         "titol": "JESUS (Comunitat Emmanuel - cànon)",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -35008,7 +35094,12 @@ cansoner=
     "682": {
       "CAT": {
         "titol": "MARIA VERGE I MARE",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1s305XPhvVSYRalD7a-mWwuO0AvhaR21Y",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {

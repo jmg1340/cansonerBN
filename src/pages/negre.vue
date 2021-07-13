@@ -1,14 +1,16 @@
 <template >
   <q-page class="negre text-h4">
 
-    <div class="column q-mb-xl ">
-      <div class="col text-caption">{{seleccioCansoner}} - {{inputNumero}}</div>
+    <div class="column  ">
+      <div class="col text-right text-caption">{{seleccioCansoner}} - {{inputNumero}}</div>
     </div>
     
-    <div class="column items-center q-mt-xl">
-      <div class="col q-mt-xl q-gutter-lg ">
+    <div class="column items-center ">
+      <div class="col q-gutter-lg ">
 
-        <div class="row">
+        <img v-if="imatgeJesus" class="col q-mr-md" src="~assets/Jesus.png" style="width: 89%"/>
+
+        <!-- <div class="row">
           <img class="col q-mr-md" style="height: 50px; max-width: 50px" src="~assets/www.png" />
           <div class="col">www.bonanova.cat</div> 
         </div>
@@ -23,8 +25,9 @@
         <div class="row">
           <q-img class="col q-mr-md" style="height: 50px; max-width: 75px" src="~assets/youtube.png" />
           <div class="col">canal "grup Bona Nova"</div> 
-        </div>
-      </div>
+        </div>-->
+
+      </div> 
 
     </div>
 
@@ -50,7 +53,8 @@ export default {
   data () {
     return {
       seleccioCansoner: "",
-      inputNumero: ""
+      inputNumero: "",
+      imatgeJesus: false
     }
   },
 
@@ -58,6 +62,11 @@ export default {
     funcEventNegre: function(event){
       
       switch( event.key ){
+
+        case "J":
+        case "j":
+          this.imatgeJesus = !this.imatgeJesus
+          break;
 
         case "N":
         case "n":

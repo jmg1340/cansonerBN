@@ -94,7 +94,7 @@ module.exports = function (ctx) {
       // workboxOptions: {}, // only for NON InjectManifest
       manifest: {
         // name: 'Cançoner BN',
-        // short_name: 'Cançoner BN',
+        short_name: 'Cançoner BN',
         // description: 'cançoner unic BN',
         display: 'standalone',
         orientation: 'portrait',
