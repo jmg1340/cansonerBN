@@ -39,7 +39,7 @@
         <q-card >
           <q-card-section class="text-white bg-grey-8">
             Si vols pregar a Déu tot cantant amb nosaltres, pots venir al 
-            <a href="https://bonanova.cat/contacte/" target="_blank" class="text-weight-bold text-blue-2 text-uppercase">lloc</a> on ens trobem cada dimarts de 19:30 a 21:30.
+            <a href="https://bonanova.cat/contacte/" target="_blank" class="text-weight-bold text-blue-2 text-uppercase">lloc</a> on ens trobem cada dimarts de 18:30 a 20:30.
           </q-card-section>
 <!-- 
         </q-card>
@@ -51,7 +51,7 @@
           </q-card-section>
           <q-separator color="red-8" inset />
           <q-card-section class="text-black">
-            <q-list>
+            <q-list dense>
               <q-item>
                 <q-item-section>
                   1. A Déu
@@ -69,6 +69,17 @@
               </q-item>
             </q-list>
           </q-card-section>
+
+
+          
+
+          <q-card-section class="text-white bg-grey-8 text-center">
+            <q-img src="~assets/codiQRCansoner.png" style="width: 200px" class="q-mt-sm"></q-img>
+          </q-card-section>
+
+
+
+
         </q-card>
       </q-dialog>
 

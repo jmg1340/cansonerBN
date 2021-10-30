@@ -3421,7 +3421,12 @@ cansoner=
     "62": {
       "ES": {
         "titol": "El Espíritu de Dios está en este lugar",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=12jBNvqGNtSqAJbTYSkCxavW98_k9gqY_",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -9990,7 +9995,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Pare, Pare, Pare",
-        "audio": null,
+        "audio": [
+          {
+            src: "https://docs.google.com/uc?export=&id=1TxDMZfLdvzXJK9vb26NDwdc7Q_2nXhc2",
+            type: "audio/mp3"
+          }
+        ],
         "estat": null,
         "preferida":  false,
         "cansoner": {
@@ -13390,6 +13400,48 @@ cansoner=
       }
     },
     "281": {
+      "CAT": {
+        "titol": "Tocare l'extrem del teu vestit, Jesus",
+        "audio": null,
+        "estat": null,
+        "preferida":  false,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 185
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tocaré l’extrem del teu vestit, Jesús;",
+              "sentiràs que algú és al teu costat: sóc jo.",
+              "Mira bé tot el que sóc",
+              "i perdona’m, oh Senyor,",
+              "he pecat, necessito la salvació!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Guareix-me ara,",
+              "toca el meu jo malalt.",
+              "Jo proclamo la teva victòria.",
+              "Guareix-me ara, a tu em lliuro",
+              "i et glorificaré tota la vida.",
+              "Tu em diràs: la fe t’ha salvat, ves en pau."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tocaré l’extrem del teu vestit, Jesús;",
+              "sentiràs que algú és al teu costat: sóc jo.",
+              "Tocaré l’extrem del teu vestit, Jesús;",
+              "sentiràs que algú és al teu costat: vés en pau."
+            ]
+          }
+        ]
+      },
       "ES": {
         "titol": "Tocaré el borde de tu manto",
         "audio": null,
@@ -29010,50 +29062,6 @@ cansoner=
         ]
       }
     },
-    "573": {
-      "CAT": {
-        "titol": "Tocare l'extrem del teu vestit, Jesus",
-        "audio": null,
-        "estat": null,
-        "preferida":  false,
-        "cansoner": {
-          "nom": "vermell",
-          "numero": 185
-        },
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Tocaré l’extrem del teu vestit, Jesús;",
-              "sentiràs que algú és al teu costat: sóc jo.",
-              "Mira bé tot el que sóc",
-              "i perdona’m, oh Senyor,",
-              "he pecat, necessito la salvació!"
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Guareix-me ara,",
-              "toca el meu jo malalt.",
-              "Jo proclamo la teva victòria.",
-              "Guareix-me ara, a tu em lliuro",
-              "i et glorificaré tota la vida.",
-              "Tu em diràs: la fe t’ha salvat, ves en pau."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Tocaré l’extrem del teu vestit, Jesús;",
-              "sentiràs que algú és al teu costat: sóc jo.",
-              "Tocaré l’extrem del teu vestit, Jesús;",
-              "sentiràs que algú és al teu costat: vés en pau."
-            ]
-          }
-        ]
-      }
-    },
     "574": {
       "CAT": {
         "titol": "Vine Esperit, omple'ns de goig",
@@ -33345,7 +33353,7 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Alzad las manos, y dadle la gloria a Dios (2)",
-              "Alzad las manos      y alabadle ",
+              "Alzad las manos y alabadle como niños del Señor",
               "Dios dijo a Noé construye una barca, (bis)",
               "hazla toda de madera, como niños del Señor."
             ]
