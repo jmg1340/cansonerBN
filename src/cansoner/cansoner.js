@@ -1,5 +1,5 @@
 cansoner= 
-  // Els IDs 568, 527, 535, 563  estan lliures
+  // Els IDs 568, 563  estan lliures
 
   {
     "1": {
@@ -17224,7 +17224,7 @@ cansoner=
               "parece mentira que te hayan clavado.",
               "Que seas el pequeño al que he acunado",
               "y que se dormía tan pronto en mis brazos;",
-              "el que se reía al niirar el cielo",
+              "el que se reía al mirar al cielo",
               "y cuando rezaba se ponía serio."
             ]
           },
@@ -17233,9 +17233,9 @@ cansoner=
             "paragraf": [
               "Sobre ese madero, veo a aquel pequeño",
               "que entre los doctores hablaba en el templo;",
-              "que cuando pre unté respondió con calma",
-              "ue de los asun os de Dios se encargaba.",
-              "Ese mismo niíio, el que está en la cruz,",
+              "que cuando pregunté respondió con calma",
+              "que de los asuntos de Dios se encargaba.",
+              "Ese mismo niñio, el que está en la cruz,",
               "el Rey de los hombres, se llama Jesús."
             ]
           },
@@ -17244,7 +17244,7 @@ cansoner=
             "paragraf": [
               "Ese mismo hombre, ya no era un niño",
               "cuando en esa boda le pedí más vino.",
-              "Que dio de comer a un millar de gente",
+              "Que dió de comer a un millar de gente",
               "a pobres y enfermos los miró de frente.",
               "Rió con aquéllos a quienes más quiso",
               "y lloró en silencio al morir su amigo."
@@ -17254,7 +17254,7 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Ya cae la tarde, se nublan los cielos:",
-              "ronto volverás a tu Padre Eterno.",
+              "pronto volverás a tu Padre Eterno.",
               "Duérmete, pequeño, duérmete, mi niño,",
               "que yo te he entregado todo mi cariño.",
               "Como en Nazaret, aquella mañana,",
@@ -26912,6 +26912,121 @@ cansoner=
       }
     },
     "527": {
+      "ES": {
+        "titol": "Cambiaré mi tristeza",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "573"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cambiaré mi tristeza",
+              "Cambiaré mi vergüenza",
+              "Los entregaré por el gozo de Dios",
+              "Cambiaré mi dolor",
+              "Y mi enfermedad",
+              "Los entregaré por el gozo de Dios (Oh-oh-oh-oh)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cambiaré",
+              "(Cambiaré mi vergüenza) Los entregaré",
+              "(Los entregaré por el gozo de Dios)",
+              "Cambiaré mi dolor (Cambiaré mi dolor)",
+              "Y mi enfermedad (Y mi enfermedad)",
+              "Los entregaré (Los entregaré) por el gozo de Dios, oh-oh-oh"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sí, Señor; sí, sí, Señor (Sí)",
+              "Sí, Señor; sí, sí, Señor (Sí)",
+              "Sí, Señor; sí, sí, Señor (Sí)",
+              "Amén (Oh-oh-oh-oh)",
+              "(2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Estando atribulado, pero nunca derrotado",
+              "Y perseguido esté hoy",
+              "Maldiciones no me afectan, pues yo sé a quien voy",
+              "En su gozo, fuerte soy"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aunque triste en la noche yo esté",
+              "Gozo viene en la mañana"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cambiaré (Cambiaré mi tristeza)",
+              "Cambiaré (Cambiaré mi vergüenza)",
+              "(Los entregaré por el gozo de Dios)",
+              "Cambiaré (Cambiaré mi dolor)",
+              "Y mi enfermedad (Y mi enfermedad)",
+              "Los entregaré (Los entregaré) por el gozo de Dios, oh-oh-oh"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Gozo viene en la mañana",
+              "Tu mañana, tu gozo",
+              "Empienza cuando despiertas"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Despierta, hay gozo aquí",
+              "Despierta, hay gozo aquí",
+              "(Despierta, hay gozo aquí) Oh-oh",
+              "(Despierta, hay gozo aquí) Despierta",
+              "(Despierta, hay gozo aquí)",
+              "(Despierta, hay gozo aquí) Oh-uh, buenos días",
+              "(Despierta, hay gozo aquí) Buenos días, wooh (Despierta)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sí, Señor; sí, sí, Señor (Oh)",
+              "(Sí, Señor; sí, sí, Señor)",
+              "Sí, Señor; sí, sí, Señor",
+              "(Amén) Amén, amén (Uoh-oh)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+            "Amén, amén"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sí, Señor, amén",
+              "(Sí, Señor, amén) Sí, Señor, amén",
+              "(Sí, Señor, amén) Oh-oh-oh-uh-uh",
+              "(Sí, Señor, amén)",
+              "Amén"
+            ]
+          }
+        ]
+      }
     },
     "528": {
       "CAT": {
@@ -27305,6 +27420,34 @@ cansoner=
       }
     },
     "535": {
+      "ES": {
+        "titol": "Cuan hermosas son tus moradas",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "574"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cuan hermosas son tus moradas (G)",
+              "Cuan hermosas son tus moradas",
+              "mi alma clama a ti oh Señor",
+              "todo mi ser canta alegre",
+              " al eterno Dios."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú eres mi Dios, Tú eres mi Dios,",
+              "Tú eres mi Dios y mi Rey"
+            ]
+          }
+        ]
+      }
     },
     "536": {
       "CAT": {
@@ -30521,7 +30664,7 @@ cansoner=
             "paragraf": [
               "Beneiré el teu nom",
               "Amb el sol brillant sobre el meu cap",
-              "Quan tot sigui com jo he desitjat",
+              "Quan tot sigui com tu has desitjat",
               "Et beneiré."
             ]
           },

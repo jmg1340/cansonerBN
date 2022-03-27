@@ -82,9 +82,11 @@ export default {
         llistat.push(objTemp);
       });
 
-      return llistat.sort(function(a, b) {
-        return a.numero - b.numero;
-      });
+      // return llistat.sort(function(a, b) {
+      //   return a.numero - b.numero;
+      // });
+
+      return llistat;
     }
   },
 
