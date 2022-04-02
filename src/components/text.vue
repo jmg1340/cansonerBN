@@ -64,6 +64,8 @@
           <q-chip text-color="black" color="yellow-6" dense>{{ llistaCansonsTrobades.length }}</q-chip>
         </div>
       </div>
+
+
       <q-markup-table
         
         dense

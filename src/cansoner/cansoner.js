@@ -29098,7 +29098,7 @@ cansoner=
     },
     "568": {
       "ES": {
-        "titol": "Cuan hermosas son tus moradas",
+        "titol": "Preciosa sangre",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -29109,17 +29109,47 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Cuan hermosas son tus moradas",
-              "mi alma clama a tí oh Señor,",
-              "todo mi ser canta alegre al eterno Dios",
-              "Tú eres mi Dios y mi Rey"
+              "Preciosa sangre",
+              "Que mi vida cambió",
+              "Mis pecados mis culpas lavó",
+              "A quedado atrás el pasado sin Dios",
+              "Fue en esa cruz",
+              "Donde la historia cambió",
+              "Donde mi vida tomó otro sentido",
+              "Donde yo encontré la razón de vivir"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Jesús, Jesús",
+              "//Mi corazón te canta//",
+              "Jesús, Jesús",
+              "//Mi corazón te canta//",
+              "Jesús..."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Tú eres mi Dios, Tú eres mi Dios",
-              "Tú eres mi Dios y mi Rey."
+              "Preciosa sangre",
+              "Que mi vida cambió",
+              "Mis pecados mis culpas lavó",
+              "A quedado atrás el pasado sin Dios",
+              "Fue en esa cruz",
+              "Donde la historia cambió",
+              "Donde mi vida tomó otro sentido",
+              "Donde yo encontré la razón de vivir"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Jesús, Jesús",
+              "//Mi corazón te canta//",
+              "Jesús, Jesús",
+              "//Mi corazón te canta//",
+              "Jesús..."
             ]
           }
         ]
@@ -36314,6 +36344,388 @@ cansoner=
           },
         ]
       }
+    },
+    "670": {
+      "ES": {
+        "titol": "El corazón de Dios",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "577"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Entra en el corazón de Dios,",
+              "mira y siente su infinito amor.",
+              "Abre bien tus ojos, déjate sanar por Él,",
+              "siente sus latidos, su misericordia."
+            ]
+          }
+        ]
+      }
+    },
+    "671": {
+      "ES": {
+        "titol": "Tú, Señor",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "578"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú me susurras al oído,",
+              "me hablas muy bajito, Señor.",
+              "Tú me recuerdas que me amas",
+              "que sin Ti yo no soy nada, Señor.",
+              "Tú eres como brisa suave",
+              "que acaricia cada instante, Señor.",
+              "Tú siendo Dios te haces pequeño",
+              "y me eliges cada día, Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú me hablas con ternura al corazón,",
+              "llenas mi vacío con tu amor,",
+              "Sanas mis heridas, oh Señor.",
+              "Tú iluminas toda oscuridad,",
+              "a tu lado siempre quiero estar,",
+              "te entrego mi vida, oh Señor."
+            ]
+          }
+        ]
+      }
+    },
+    "672": {
+      "ES": {
+        "titol": "Jesús, Señor",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "579"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¿Quién dirige tu vida?",
+              "¿A quién permites que reine en ti?",
+              "¿Quién llena tus vacíos?",
+              "¿En quién confías para ser feliz?"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Jesús, Señor,",
+              "siéntate en el trono de mi corazón.",
+              "Jesús, Señor,",
+              "guía tu mi vida hoy (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¿Quién llena hoy tu alma?",
+              "¿Quién te da fuerzas para continuar?",
+              "¿Quién consuela tus penas?",
+              "¿Quién te ama sin medida hasta morir por ti?"
+            ]
+          }
+        ]
+      }
+    },
+    "673": {
+      "ES": {
+        "titol": "Cómo puedes no creer",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "580"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cómo puedes no creer, ",
+              "si te hablo cada día.",
+              "Cómo puedes no creer, ",
+              "si morí por ti en la cruz.",
+              "Cómo puedes no creer, ",
+              "si te abrazo en tus hermanos.",
+              "Cómo puedes no creer ",
+              "si camino junto a ti."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cómo puedes no creer ",
+              "si Yo soy misericordia.",
+              "Cómo puedes no creer ",
+              "si mi esencia es el amor.",
+              "Cómo puedes no creer ",
+              "si en tus miedos te acompaño.",
+              "Cómo puedes no creer ",
+              "si en las dudas te doy luz."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cómo puedes no creer ",
+              "si en tu llanto te consuelo.",
+              "Cómo puedes no creer ",
+              "si en tu vacío estoy yo.",
+              "Cómo puedes no creer ",
+              "si te inspiro mi palabra,",
+              "Cómo puedes no creer ",
+              "si tu risa es mi don."
+            ]
+          }
+        ]
+      }
+    },
+    "674": {
+      "ES": {
+        "titol": "Me levantas",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "581"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú me levantas Jesús de mis caídas,",
+              "me coges de la mano y me miras con amor.",
+              "Tú me perdonas Jesús, me das la vida,",
+              "y tu mirada me sana y me renueva en Ti."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Quiero amarte Señor, alabarte mi Dios,",
+              "darte gracias por tu misericordia.",
+              "A Ti sea la Gloria, el poder y la honra,",
+              "tu Palabra, Señor, es eterna (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tu me levantas Jesús cada día,",
+              "coges mis heridas y las transformas en luz.",
+              "Me abrazas en mi dolor, en mi pecado,",
+              "tan solo ves mi pobreza ",
+              "y así me amas, mi Dios."
+            ]
+          }
+        ]
+      }
+    },
+    "675": {
+      "ES": {
+        "titol": "Eres amor",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "582"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hija, eres amor, amor que sana, ",
+              "amor que libera y limpia el corazón (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Llévame dónde no hay amor,",
+              "abraza a mis hijos, pues siento su dolor.",
+              "Quiero entrar en su corazón ",
+              "y darles mi consuelo y mi luz."
+            ]
+          }
+        ]
+      }
+    },
+    "676": {
+      "ES": {
+        "titol": "Cuando te miro",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "583"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cuando te miro, Madre;",
+              "cuando te siento, Madre;",
+              "cuando te escucho, Madre, ",
+              "soy tan feliz."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cuando te abrazo, Madre;",
+              "cuando te hablo, Madre;",
+              "en tu presencia, Madre, ",
+              "quiero vivir."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú me conduces a Jesús,",
+              "eres el sagrario del Señor,",
+              "Madre del cielo, Tú me sostienes."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "En tu mirada veo a Dios,",
+              "su misericordia vive en Ti,",
+              "su amor y ternura Tú me das."
+            ]
+          }
+        ]
+      }
+    },
+    "677": {
+      "ES": {
+        "titol": "Madre de Dios",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "584"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Madre de Dios, Santa María, ",
+              "a ti cantamos de corazón.",
+              "Reina del cielo, Madre admirable,",
+              "Casa de oro, Refugio de amor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Tú brillas para el Señor, ",
+              "abrazas su voluntad, ",
+              "madre del pobre, del humilde y sencillo.",
+              "Acoges su voz en ti, ",
+              "la guardas en tu interior, ",
+              "nos llevas a Dios, Madre del Salvador."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Puerta del cielo, Salud del enfermo, ",
+              "Madre Inmaculada, Virgen fiel al Señor.",
+              "Reina de la paz, Arca de alianza, ",
+              "Estrella en la noche, digna de devoción."
+            ]
+          }
+        ]
+      }
+    },
+    "678": {
+      "ES": {
+        "titol": "Tu Majestad",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "585"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Dios, ante Ti quiero estar.",
+              "Tu presencia, Señor, me da la vida.",
+              "Sólo en Ti me gozaré y cantaré, Señor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Tu majestad, tu bondad",
+              "me sanará al decir tu nombre.",
+              "Tu poder, tu esplendor",
+              "brillará con mi alabanza."
+            ]
+          }
+        ]
+      }
+    },
+    "679": {
+      "ES": {
+        "titol": "Ven Espíritu de Dios sobre mí",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "586"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "VEN, ESPÍRITU DE DIOS, SOBRE MÍ.",
+              "ME ABRO A TU PRESENCIA,",
+              "CAMBIARÁS MI CORAZÓN.  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Toca mi debilidad, toma todo lo que soy;",
+              "pongo mi vida en tus manos y mi fe.",
+              "Poco a poco llegarás a inundarme de tu luz;",
+              "Tú cambiarás mi pasado. ¡Cantaré!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Quiero ser signo de paz, quiero compartir mi ser.",
+              "Yo necesito tu fuerza, tu valor.",
+              "Quiero proclamarte a Ti, ser testigo de tu amor.",
+              "Entra y transforma mi vida. ¡Ven a mí!"
+            ]
+          }
+        ]
+      }
     }
+
+
+
 
   }
