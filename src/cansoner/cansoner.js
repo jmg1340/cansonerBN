@@ -1,5 +1,5 @@
 cansoner= 
-  // Els IDs 568, 563  estan lliures
+  // Els IDs xxx  estan lliures
 
   {
     "1": {
@@ -12808,10 +12808,16 @@ cansoner=
               "el gozo de tu presencia,",
               "que está dentro",
               "de mi corazón.",
-              "• Cantaré para Ti",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cantaré para Ti",
               "porque a tu lado",
               "por siempre estaré",
-              "caminaré siempre contigo,"
+              "caminaré siempre contigo,",
+              "me gozaré en tu verdad"
             ]
           }
         ]
@@ -28700,9 +28706,105 @@ cansoner=
           }
         ]
       }
-
     },
     "563": {
+      "ES": {
+        "titol": "Ya no soy esclavo",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "575"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Me envuelves hoy con una canción",
+              "Melodia de tu amor",
+              "Cantas libertad",
+              "En mi adversidad",
+              "Hasta que huya el temor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Ya no soy un esclavo del temor",
+              "Yo soy hijo de Dios",
+              "Ya no soy un esclavo del temor",
+              "Yo soy hijo de Dios"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Desde el Vientre fuí escogido en tí",
+              "Me llamó el amor",
+              "De nuevo nací",
+              "Recibido en ti",
+              "Tu sangre en mi fluyó"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Ya no soy un esclavo del temor",
+              "Yo soy hijo de Dios          (4)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Estoy rodeado por los brazos del padre",
+              "Estoy rodeado por canciones de libertad",
+              "Fuimos liberados",
+              "De ataduras",
+              "Somos los hijos y las hijas",
+              "Cantaremos libres",
+              "Hoo hoo hoooo"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Abriste el mar para que yo camine",
+              "Tu amor ahogó todo el temor",
+              "Me rescataste y hoy yo te cantaré",
+              "Yo soy hijo de Dios"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Abriste el mar para que yo camine",
+              "Tu amor ahogó todo el temor",
+              "Me rescataste y hoy yo cantaré",
+              "Yo soy hijo de Dios",
+              "Por tu gracia yo soy hijo de Dios",
+              "Yo soy hijo de Dios"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Yo solo sé que yo soy su hijo",
+              "Y El es mi padre y mi padre me ama       (5)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Abriste el mar para que yo camine",
+              "Tu amor ahogó todo el temor",
+              "Me rescataste y hoy yo cantaré",
+              "Yo soy hijo de Dios",
+              "Por tu gracia yo soy hijo de Dios",
+              "Yo soy hijo de Dios"
+            ]
+          }
+        ]
+      }
     },
     "564": {
       "CAT": {
@@ -28995,6 +29097,33 @@ cansoner=
       }
     },
     "568": {
+      "ES": {
+        "titol": "Cuan hermosas son tus moradas",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "576"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cuan hermosas son tus moradas",
+              "mi alma clama a tí oh Señor,",
+              "todo mi ser canta alegre al eterno Dios",
+              "Tú eres mi Dios y mi Rey"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tú eres mi Dios, Tú eres mi Dios",
+              "Tú eres mi Dios y mi Rey."
+            ]
+          }
+        ]
+      }
     },
     "569": {
       "CAT": {
