@@ -233,6 +233,7 @@ export default {
         this.seleccioCansoner
       );
       console.log("state.llibre MODIFICAT");
+      console.log("getObjCansonsLlibre", this.$store.getters["modulCansoner/getObjCansonsLlibre"])
 
       // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma, segons el numero:
       
@@ -247,7 +248,7 @@ export default {
         
         console.log("No existeix numero al llibre")
         this.$q.notify({
-          message: 'El número ' + this.inputNumero + ' no existeix',
+          message: 'La cançó amb nº ' + this.inputNumero + ' no existeix',
           icon: 'sentiment_very_dissatisfied',
           position: 'top',
           timeout: 1000

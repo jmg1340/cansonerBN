@@ -1,5 +1,5 @@
 cansoner= 
-  // Els IDs xxx  estan lliures
+  // nou id: 707
 
   {
     "1": {
@@ -7,7 +7,6 @@ cansoner=
         "titol": "Abro mi ser",
         "audio": null,
         "estat": null,   //possibles valors: "nova" o null
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 124
@@ -84,7 +83,6 @@ cansoner=
         "titol": "Aclamad al Señor. Sal 100",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 109
@@ -144,7 +142,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 209
@@ -191,7 +188,6 @@ cansoner=
         "titol": "Al estar en la presencia Al estar aquí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 190
@@ -242,7 +238,6 @@ cansoner=
         "titol": "Al que esta sentado",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 205
@@ -268,7 +263,6 @@ cansoner=
         "titol": "Alabad a Yahvé desde los cielos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 386
@@ -330,7 +324,6 @@ cansoner=
         "titol": "Alabad al Señor en su templo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 253
@@ -378,7 +371,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 14
@@ -442,7 +434,6 @@ cansoner=
         "titol": "Alabaré, alabaré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 179
@@ -510,7 +501,6 @@ cansoner=
         "titol": "Us lloare, us lloare",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 189
@@ -575,7 +565,6 @@ cansoner=
         "titol": "Amor loco",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 94
@@ -598,7 +587,6 @@ cansoner=
         "titol": "Amor tan grande",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 155
@@ -643,7 +631,6 @@ cansoner=
         "titol": "Ante su nombre todo caerá",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 363
@@ -705,7 +692,6 @@ cansoner=
         "titol": "Ante ti venimos Abba Padre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 365
@@ -748,7 +734,6 @@ cansoner=
         "titol": "Anunciamos con poder",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 212
@@ -833,7 +818,6 @@ cansoner=
         "titol": "Aquí se alaba",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 231
@@ -866,7 +850,6 @@ cansoner=
         "titol": "Arranca de mi pecho",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 332
@@ -907,7 +890,6 @@ cansoner=
         "titol": "Ay de mí si no evangelizara",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 213
@@ -947,7 +929,6 @@ cansoner=
         "titol": "Bendecid al Señor servidores del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 53
@@ -980,7 +961,6 @@ cansoner=
         "titol": "Bendecid al Señor, todos los siervos del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 320
@@ -1017,7 +997,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 133
@@ -1050,7 +1029,6 @@ cansoner=
         "titol": "Bendigamos al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 325
@@ -1136,7 +1114,6 @@ cansoner=
         "titol": "Bendita entre las mujeres",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 62
@@ -1180,7 +1157,6 @@ cansoner=
         "titol": "Bendita la nación",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 185
@@ -1204,7 +1180,6 @@ cansoner=
         "titol": "Bienvenidos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 252
@@ -1229,7 +1204,6 @@ cansoner=
         "titol": "Brilla Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 12
@@ -1270,7 +1244,6 @@ cansoner=
         "titol": "Cantemos al Señor un canto nuevo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 331
@@ -1351,7 +1324,6 @@ cansoner=
         "titol": "Castellà. Entra en la presencia del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 389
@@ -1448,7 +1420,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 57
@@ -1501,7 +1472,6 @@ cansoner=
         "titol": "Clamamos a ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 350
@@ -1529,7 +1499,6 @@ cansoner=
         "titol": "Clamaremos al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 199
@@ -1553,7 +1522,6 @@ cansoner=
         "titol": "Clamarem al nostre Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 27
@@ -1577,7 +1545,6 @@ cansoner=
         "titol": "Como corre un río",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 236
@@ -1638,7 +1605,6 @@ cansoner=
         "titol": "Como el ciervo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 6
@@ -1667,7 +1633,6 @@ cansoner=
         "titol": "Como el Padre me amó",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 239
@@ -1733,7 +1698,6 @@ cansoner=
         "titol": "Como las tiendas de Quedar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 141
@@ -1765,7 +1729,6 @@ cansoner=
         "titol": "Con gozo al Señor cantaré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 366
@@ -1818,7 +1781,6 @@ cansoner=
         "titol": "Con mis manos alzadas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 3
@@ -1844,7 +1806,6 @@ cansoner=
         "titol": "Conviene que Cristo crezca",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 260
@@ -1888,7 +1849,6 @@ cansoner=
         "titol": "Cree y verás",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 307
@@ -1986,7 +1946,6 @@ cansoner=
         "titol": "Creo en Ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 171
@@ -2027,7 +1986,6 @@ cansoner=
         "titol": "Criaturas del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 268
@@ -2130,7 +2088,6 @@ cansoner=
         "titol": "Cristo, aunque era Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 300
@@ -2184,7 +2141,6 @@ cansoner=
         "titol": "Cristo, heme aquí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 15
@@ -2220,7 +2176,6 @@ cansoner=
         "titol": "Cristo, maravilloso eres Tú",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 330
@@ -2246,7 +2201,6 @@ cansoner=
         "titol": "Cuando con el corazón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 166
@@ -2287,7 +2241,6 @@ cansoner=
         "titol": "Cuando Cristo venga en gloria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 391
@@ -2339,7 +2292,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 92
@@ -2385,7 +2337,6 @@ cansoner=
         "titol": "Cuida de mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 251
@@ -2425,7 +2376,6 @@ cansoner=
         "titol": "Cómo podré agradecer Alabandote",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 291
@@ -2489,7 +2439,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 311
@@ -2550,7 +2499,6 @@ cansoner=
         "titol": "De rodillas, madre, inclinado en oración",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 411
@@ -2634,7 +2582,6 @@ cansoner=
         "titol": "Desde cualquier rincón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 344
@@ -2661,7 +2608,6 @@ cansoner=
         "titol": "Despertemos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 131
@@ -2715,7 +2661,6 @@ cansoner=
         "titol": "Digno eres, digno eres",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 294
@@ -2755,7 +2700,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 30
@@ -2820,7 +2764,6 @@ cansoner=
         "titol": "Dios ,el mas grande de alabar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 302
@@ -2872,7 +2815,6 @@ cansoner=
         "titol": "Dios está aquí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 338
@@ -2904,7 +2846,6 @@ cansoner=
         "titol": "Dios me ama y yo le amo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 347
@@ -2958,7 +2899,6 @@ cansoner=
         "titol": "Dios te salve María",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 76
@@ -2997,7 +2937,6 @@ cansoner=
         "titol": "Deu vos salve, Maria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 50
@@ -3029,7 +2968,6 @@ cansoner=
         "titol": "Dios precisa de ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 148
@@ -3061,7 +2999,6 @@ cansoner=
         "titol": "Deu vol fer-te servir mes i mes",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 40
@@ -3091,7 +3028,6 @@ cansoner=
         "titol": "El agua del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 22
@@ -3176,7 +3112,6 @@ cansoner=
         "titol": "L'aigua del Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 100
@@ -3245,7 +3180,6 @@ cansoner=
         "titol": "El amor de Dios ha sido derramado",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 183
@@ -3270,7 +3204,6 @@ cansoner=
         "titol": "El amor del Señor es maravilloso",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 281
@@ -3306,7 +3239,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 394
@@ -3428,7 +3360,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 194
@@ -3465,7 +3396,6 @@ cansoner=
         "titol": "El Espíritu del Señor llena la tierra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 102
@@ -3490,7 +3420,6 @@ cansoner=
         "titol": "El gran amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 238
@@ -3519,7 +3448,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 53
@@ -3543,7 +3471,6 @@ cansoner=
         "titol": "El Señor es mi pastor (ningun mal temere)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 122
@@ -3586,7 +3513,6 @@ cansoner=
         "titol": "El Señor está en medio de tí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 99
@@ -3615,7 +3541,6 @@ cansoner=
         "titol": "El Señor os dará su Espíritu Santo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 210
@@ -3667,7 +3592,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 337
@@ -3702,7 +3626,6 @@ cansoner=
         "titol": "El Senyor, el Senyor ressuscitat de la mort",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 66
@@ -3726,7 +3649,6 @@ cansoner=
         "titol": "El vendrá y te salvará",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 303
@@ -3775,7 +3697,6 @@ cansoner=
         "titol": "Digues a qui pateix en solitud / ell vindra i et salvara",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 211
@@ -3870,7 +3791,6 @@ cansoner=
         "titol": "En el cielo se oye",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 374
@@ -3910,7 +3830,6 @@ cansoner=
         "titol": "En la oscuridad de la noche. Asi es Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 383
@@ -3953,7 +3872,6 @@ cansoner=
         "titol": "En la tierra habrá conocimiento",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 369
@@ -3984,7 +3902,6 @@ cansoner=
         "titol": "En momentos así",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 269
@@ -4013,7 +3930,6 @@ cansoner=
         "titol": "En presencia de mi Santo Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 367
@@ -4065,7 +3981,6 @@ cansoner=
         "titol": "En quien me fijaré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 34
@@ -4096,7 +4011,6 @@ cansoner=
         "titol": "En torno a tu mesa estamos hoy",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 273
@@ -4146,7 +4060,6 @@ cansoner=
         "titol": "En tu presencia oh Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 275
@@ -4183,7 +4096,6 @@ cansoner=
         "titol": "Soc davant teu, oh Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 180
@@ -4231,7 +4143,6 @@ cansoner=
         "titol": "Enciende una luz",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 436
@@ -4281,7 +4192,6 @@ cansoner=
         "titol": "Encen una llum, deixa-la brillar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 62
@@ -4326,7 +4236,6 @@ cansoner=
         "titol": "Enséñame tu camino Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 221
@@ -4359,7 +4268,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 69
@@ -4424,7 +4332,6 @@ cansoner=
         "titol": "Eres el Señor de Señores",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 245
@@ -4468,7 +4375,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 420
@@ -4554,7 +4460,6 @@ cansoner=
         "titol": "Es la confianza",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 413
@@ -4591,7 +4496,6 @@ cansoner=
         "titol": "Oh, que n’es de dolç dir a Deu “Pare”",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 205
@@ -4623,7 +4527,6 @@ cansoner=
         "titol": "Es necesario morir",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 279
@@ -4657,7 +4560,6 @@ cansoner=
         "titol": "Escucha nuestra oración",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 61
@@ -4704,7 +4606,6 @@ cansoner=
         "titol": "Escucha oh Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 159
@@ -4750,7 +4651,6 @@ cansoner=
         "titol": "Escucha, Señor, mi oración",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 50
@@ -4776,7 +4676,6 @@ cansoner=
         "titol": "Escolta Senyor la meva veu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 214
@@ -4803,7 +4702,6 @@ cansoner=
         "titol": "Espíritu Santo de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 70
@@ -4829,7 +4727,6 @@ cansoner=
         "titol": "Espíritu Santo ven, ven",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 44
@@ -4862,7 +4759,6 @@ cansoner=
         "titol": "Esta alegría no va a pasar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 147
@@ -4890,7 +4786,6 @@ cansoner=
         "titol": "Estamos de fiesta con Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 8
@@ -4958,7 +4853,6 @@ cansoner=
         "titol": "Estem tots de festa amb Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 72
@@ -5006,7 +4900,6 @@ cansoner=
         "titol": "Este es mi deseo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 439
@@ -5052,7 +4945,6 @@ cansoner=
         "titol": "Esto es mi Cuerpo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 426
@@ -5102,7 +4994,6 @@ cansoner=
         "titol": "Estoy alegre porque soy de Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 188
@@ -5135,7 +5026,6 @@ cansoner=
         "titol": "Estoy cantando alegre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 167
@@ -5171,7 +5061,6 @@ cansoner=
         "titol": "Evangelio",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 170
@@ -5227,7 +5116,6 @@ cansoner=
         "titol": "Exaltad",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 348
@@ -5252,7 +5140,6 @@ cansoner=
         "titol": "Exaltando a Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 362
@@ -5296,7 +5183,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 108
@@ -5363,7 +5249,6 @@ cansoner=
         "titol": "Gloria a Dios en el cielo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 333
@@ -5407,7 +5292,6 @@ cansoner=
         "titol": "Gloria a Deu a dalt del cel",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 82
@@ -5447,7 +5331,6 @@ cansoner=
         "titol": "Hay que volver a nacer de nuevo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 444
@@ -5512,7 +5395,6 @@ cansoner=
         "titol": "Gloria a Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 284
@@ -5538,7 +5420,6 @@ cansoner=
         "titol": "Gloria a ti por siempre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 227
@@ -5582,7 +5463,6 @@ cansoner=
         "titol": "Gloria al cordero",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 385
@@ -5631,7 +5511,6 @@ cansoner=
         "titol": "Sea la gloria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 33
@@ -5655,7 +5534,6 @@ cansoner=
         "titol": "Gloria gloria Aleluya Yo soy libre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 37
@@ -5686,7 +5564,6 @@ cansoner=
         "titol": "Gloriosa luz de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 282
@@ -5709,7 +5586,6 @@ cansoner=
         "titol": "Gracias por lo que haces por mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 314
@@ -5738,7 +5614,6 @@ cansoner=
         "titol": "Gracias yo te daré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 387
@@ -5777,7 +5652,6 @@ cansoner=
         "titol": "Has cambiado mi lamento en baile",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 359
@@ -5816,7 +5690,6 @@ cansoner=
         "titol": "Hasta los confines de la tierra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 334
@@ -5858,7 +5731,6 @@ cansoner=
         "titol": "Hay momentos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 182
@@ -5891,7 +5763,6 @@ cansoner=
         "titol": "Hay poder",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 82
@@ -5977,7 +5848,6 @@ cansoner=
         "titol": "hay un tren",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 154
@@ -6005,7 +5875,6 @@ cansoner=
         "titol": "Hay una fuente en mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 352
@@ -6037,7 +5906,6 @@ cansoner=
         "titol": "Hay una promesa en la Biblia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 322
@@ -6083,7 +5951,6 @@ cansoner=
         "titol": "Haz de mi una ofrenda",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 327
@@ -6123,7 +5990,6 @@ cansoner=
         "titol": "Hazme instrumento de tu paz",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 63
@@ -6157,7 +6023,6 @@ cansoner=
         "titol": "Feu de mi un instrument de pau",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 76
@@ -6236,7 +6101,6 @@ cansoner=
         "titol": "He decidido seguir a Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 52
@@ -6263,7 +6127,6 @@ cansoner=
         "titol": "Heme aquí yo iré Envíame Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 7
@@ -6286,7 +6149,6 @@ cansoner=
         "titol": "Soc aqui, hi anire Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 159
@@ -6309,7 +6171,6 @@ cansoner=
         "titol": "Hemos venido a este lugar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 38
@@ -6368,7 +6229,6 @@ cansoner=
         "titol": "Hermano deja ya Aleluya Cristo Vive",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 136
@@ -6417,7 +6277,6 @@ cansoner=
         "titol": "Hermano tú que buscas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 168
@@ -6462,7 +6321,6 @@ cansoner=
         "titol": "Hijo de David",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 412
@@ -6491,7 +6349,6 @@ cansoner=
         "titol": "Honor y Gloria a tu nombre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 264
@@ -6569,7 +6426,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 326
@@ -6629,7 +6485,6 @@ cansoner=
         "titol": "HOSANNA",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 238
@@ -6653,7 +6508,6 @@ cansoner=
         "titol": "Hoy canto para ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 254
@@ -6690,7 +6544,6 @@ cansoner=
         "titol": "Hoy el Señor me llamó",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 66
@@ -6718,7 +6571,6 @@ cansoner=
         "titol": "Hoy el Señor resucitó",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 354
@@ -6751,7 +6603,6 @@ cansoner=
         "titol": "Hoy perdóname",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 54
@@ -6803,7 +6654,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 339
@@ -6843,7 +6693,6 @@ cansoner=
         "titol": "Hágase en nosotros la vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 120
@@ -6886,7 +6735,6 @@ cansoner=
         "titol": "Inunda mi ser",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 23
@@ -6912,7 +6760,6 @@ cansoner=
         "titol": "Inúndame Señor con tu Espiritu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 112
@@ -6938,7 +6785,6 @@ cansoner=
         "titol": "Jesucristo es tan grande",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 178
@@ -6968,7 +6814,6 @@ cansoner=
         "titol": "Jesús es mi luz y mi salvación",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 353
@@ -6999,7 +6844,6 @@ cansoner=
         "titol": "Jesús está en ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 107
@@ -7028,7 +6872,6 @@ cansoner=
         "titol": "Jesús está entre nosotros",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 11
@@ -7075,7 +6918,6 @@ cansoner=
         "titol": "Jesús quiero agradecer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 201
@@ -7103,7 +6945,6 @@ cansoner=
         "titol": "Jesús quédate aquí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 163
@@ -7129,7 +6970,6 @@ cansoner=
         "titol": "Tu eres mi Dios. Jesús Salvador",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 298
@@ -7165,7 +7005,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 128
@@ -7216,7 +7055,6 @@ cansoner=
         "titol": "La pancita",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 200
@@ -7244,7 +7082,6 @@ cansoner=
         "titol": "La paz esté con nosotros",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 403
@@ -7271,7 +7108,6 @@ cansoner=
         "titol": "La tierra está llena de la misericordia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 405
@@ -7305,7 +7141,6 @@ cansoner=
         "titol": "Las aguas no podrán apagar el amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 226
@@ -7341,7 +7176,6 @@ cansoner=
         "titol": "Laudato sii, o mi Signore",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 204
@@ -7383,7 +7217,6 @@ cansoner=
         "titol": "Levantaré mis manos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 217
@@ -7416,7 +7249,6 @@ cansoner=
         "titol": "Lo que agrada a Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 187
@@ -7443,7 +7275,6 @@ cansoner=
         "titol": "Madre, benditos brazos de madre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 126
@@ -7487,7 +7318,6 @@ cansoner=
         "titol": "Maestro te seguiré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 229
@@ -7530,7 +7360,6 @@ cansoner=
         "titol": "Magnificat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 68
@@ -7552,7 +7381,6 @@ cansoner=
         "titol": "Lloa el Senyor (Magnificat)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 75
@@ -7577,7 +7405,6 @@ cansoner=
         "titol": "Majestad",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 219
@@ -7618,7 +7445,6 @@ cansoner=
         "titol": "Majestat, gloriosa Majestat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 117
@@ -7646,7 +7472,6 @@ cansoner=
         "titol": "Manos abiertas ante Ti Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 211
@@ -7678,7 +7503,6 @@ cansoner=
         "titol": "Manos vacias",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 222
@@ -7703,7 +7527,6 @@ cansoner=
         "titol": "Les mans ben buides",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 105
@@ -7730,7 +7553,6 @@ cansoner=
         "titol": "Maranatha",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 250
@@ -7757,7 +7579,6 @@ cansoner=
         "titol": "Maravilloso",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 65
@@ -7787,7 +7608,6 @@ cansoner=
         "titol": "Maravilloso Jesús es para mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 59
@@ -7821,7 +7641,6 @@ cansoner=
         "titol": "María, madre, condúcenos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 49
@@ -7846,7 +7665,6 @@ cansoner=
         "titol": "Mas el Dios de toda gracia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 316
@@ -7882,7 +7700,6 @@ cansoner=
         "titol": "Me alegraré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 43
@@ -7908,7 +7725,6 @@ cansoner=
         "titol": "Me basta tu presencia y tu figura",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 295
@@ -7940,7 +7756,6 @@ cansoner=
         "titol": "Me gozaré, me alegraré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 289
@@ -7968,7 +7783,6 @@ cansoner=
         "titol": "Me quedé sin voz",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 31
@@ -8013,7 +7827,6 @@ cansoner=
         "titol": "Me sedujiste Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 256
@@ -8073,7 +7886,6 @@ cansoner=
         "titol": "Mejestuoso,poderoso",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 382
@@ -8100,7 +7912,6 @@ cansoner=
         "titol": "Mejor que la vida es tu misericordia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 10
@@ -8138,7 +7949,6 @@ cansoner=
         "titol": "Mi alma alaba al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 132
@@ -8168,7 +7978,6 @@ cansoner=
         "titol": "Mi alma está sedienta de ti. Sal 63",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 51
@@ -8199,7 +8008,6 @@ cansoner=
         "titol": "Mi alma tiene sed de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 257
@@ -8225,7 +8033,6 @@ cansoner=
         "titol": "Mi Cristo, mi Rey",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 373
@@ -8269,7 +8076,6 @@ cansoner=
         "titol": "Mi Dios está vivo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 104
@@ -8352,7 +8158,6 @@ cansoner=
         "titol": "Mi fuerza y mi poder es el Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 232
@@ -8416,7 +8221,6 @@ cansoner=
         "titol": "Deu es el meu ajut i el meu poder",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 47
@@ -8482,7 +8286,6 @@ cansoner=
         "titol": "Mi paz te doy a ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 345
@@ -8508,7 +8311,6 @@ cansoner=
         "titol": "Mi pensamiento eres Tú",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 378
@@ -8537,7 +8339,6 @@ cansoner=
         "titol": "Mi ser alaba al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 381
@@ -8569,7 +8370,6 @@ cansoner=
         "titol": "Mira el rostro de Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 243
@@ -8600,7 +8400,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 112
@@ -8630,7 +8429,6 @@ cansoner=
         "titol": "Mira oh Dios mi pecado",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 111
@@ -8660,7 +8458,6 @@ cansoner=
         "titol": "Mirad, levantad vuestros ojos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 372
@@ -8693,7 +8490,6 @@ cansoner=
         "titol": "Mirad, despertad ya del sueño. Resucito",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 308
@@ -8724,7 +8520,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 116
@@ -8757,7 +8552,6 @@ cansoner=
         "titol": "Moviste mi corazón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 79
@@ -8802,7 +8596,6 @@ cansoner=
         "titol": "Muchos hermanos aquí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 95
@@ -8889,7 +8682,6 @@ cansoner=
         "titol": "Más de Ti, menos de mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 101
@@ -8916,7 +8708,6 @@ cansoner=
         "titol": "Mes de tu i menys de mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 121
@@ -8953,7 +8744,6 @@ cansoner=
         "titol": "Nada nos separará",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 317
@@ -8976,7 +8766,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 148
@@ -9005,7 +8794,6 @@ cansoner=
         "titol": "Nada te turbe",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 447
@@ -9031,7 +8819,6 @@ cansoner=
         "titol": "Nadie hay tan grande como tu Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 206
@@ -9073,7 +8860,6 @@ cansoner=
         "titol": "Oh Senyor, ningu es tan gran com Vos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 190
@@ -9117,7 +8903,6 @@ cansoner=
         "titol": "Nadie te quiere como Él",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 267
@@ -9158,7 +8943,6 @@ cansoner=
         "titol": "No adoréis a nadie",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 91
@@ -9230,7 +9014,6 @@ cansoner=
         "titol": "No hay nadie como mi Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 335
@@ -9274,7 +9057,6 @@ cansoner=
         "titol": "No puede estar triste",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 274
@@ -9301,7 +9083,6 @@ cansoner=
         "titol": "No puedo parar de alabar tu nombre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 355
@@ -9327,7 +9108,6 @@ cansoner=
         "titol": "No se como alabarte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 241
@@ -9405,7 +9185,6 @@ cansoner=
         "titol": "No se pas com lloar-vos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 118
@@ -9456,7 +9235,6 @@ cansoner=
         "titol": "No temáis si con vosotros estoy",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 228
@@ -9520,7 +9298,6 @@ cansoner=
         "titol": "No tengo Señor alabanza",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 376
@@ -9546,7 +9323,6 @@ cansoner=
         "titol": "Nombra a Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 88
@@ -9589,7 +9365,6 @@ cansoner=
         "titol": "Nos dejaste Señor una palabra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 384
@@ -9642,7 +9417,6 @@ cansoner=
         "titol": "Oh Dios, tú has sido fiel",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 216
@@ -9670,7 +9444,6 @@ cansoner=
         "titol": "Oh Dios, tú mereces un himno. Sal 64",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 36
@@ -9722,7 +9495,6 @@ cansoner=
         "titol": "Oh Padre, yo te amo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 25
@@ -9749,7 +9521,6 @@ cansoner=
         "titol": "Oh ven, ven y deléitate",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 78
@@ -9780,7 +9551,6 @@ cansoner=
         "titol": "Oh, aleluya",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 240
@@ -9804,7 +9574,6 @@ cansoner=
         "titol": "Oh,oh,oh, Padre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 83
@@ -9831,7 +9600,6 @@ cansoner=
         "titol": "Padre nuestro, tu que estas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 203
@@ -9868,7 +9636,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 114
@@ -9903,7 +9670,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 129
@@ -9935,7 +9701,6 @@ cansoner=
         "titol": "Padre únenos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 5
@@ -9956,7 +9721,6 @@ cansoner=
         "titol": "Padre (me pongo en tus manos)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 137
@@ -10002,7 +9766,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 127
@@ -10039,7 +9802,6 @@ cansoner=
         "titol": "Padre, te adoramos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 323
@@ -10063,7 +9825,6 @@ cansoner=
         "titol": "Pare us adorem",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 154
@@ -10092,7 +9853,6 @@ cansoner=
         "titol": "Para que comprendas que Él te ama. Alegrate",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 9
@@ -10136,7 +9896,6 @@ cansoner=
         "titol": "Pasa por aquí Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 130
@@ -10164,7 +9923,6 @@ cansoner=
         "titol": "Pequeño como brisa",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 225
@@ -10197,7 +9955,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 263
@@ -10224,7 +9981,6 @@ cansoner=
         "titol": "Pon tu mano en la mano del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 191
@@ -10264,7 +10020,6 @@ cansoner=
         "titol": "Ponte ya de pie",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 310
@@ -10322,7 +10077,6 @@ cansoner=
         "titol": "Porque para siempre,oh Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 230
@@ -10353,7 +10107,6 @@ cansoner=
         "titol": "Porque Tú eres bueno",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 399
@@ -10384,7 +10137,6 @@ cansoner=
         "titol": "Postrado ante Ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 110
@@ -10411,7 +10163,6 @@ cansoner=
         "titol": "Preparad el camino al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 215
@@ -10439,7 +10190,6 @@ cansoner=
         "titol": "Prepareu els camins al Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 138
@@ -10464,7 +10214,6 @@ cansoner=
         "titol": "Pueblo de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 81
@@ -10502,7 +10251,6 @@ cansoner=
         "titol": "Que bueno es alabarte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 189
@@ -10528,7 +10276,6 @@ cansoner=
         "titol": "Que deseables son tus moradas. Sal 84",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 140
@@ -10571,7 +10318,6 @@ cansoner=
         "titol": "Que nuestro Dios te guarde",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 358
@@ -10601,7 +10347,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 143
@@ -10624,7 +10369,6 @@ cansoner=
         "titol": "Que nuestros ojos no se pierdan",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 290
@@ -10655,7 +10399,6 @@ cansoner=
         "titol": "que n ets de gran senyor cuan bello es el señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 286
@@ -10698,7 +10441,6 @@ cansoner=
         "titol": "Que te puedo dar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 401
@@ -10729,7 +10471,6 @@ cansoner=
         "titol": "Que et puc donar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 142
@@ -10760,7 +10501,6 @@ cansoner=
         "titol": "Queremos a Cristo proclamar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 422
@@ -10843,7 +10583,6 @@ cansoner=
         "titol": "Quiero alabarte más y más aún",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 299
@@ -10873,7 +10612,6 @@ cansoner=
         "titol": "Quiero decir que sí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 14
@@ -10903,7 +10641,6 @@ cansoner=
         "titol": "Quiero levantar mis manos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 234
@@ -10939,7 +10676,6 @@ cansoner=
         "titol": "Quiero llenar tu trono de alabanza",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 343
@@ -10964,7 +10700,6 @@ cansoner=
         "titol": "Vull proclamar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 195
@@ -10990,7 +10725,6 @@ cansoner=
         "titol": "Qué hermoso en los montes. Nuestro Dios reina",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 340
@@ -11023,7 +10757,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 437
@@ -11065,7 +10798,6 @@ cansoner=
         "titol": "Que seria de mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 537
@@ -11094,7 +10826,6 @@ cansoner=
         "titol": "Reina en mi soberano",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 356
@@ -11121,7 +10852,6 @@ cansoner=
         "titol": "Renuevame",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 134
@@ -11153,7 +10883,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 176
@@ -11180,7 +10909,6 @@ cansoner=
         "titol": "Resucitaremos con Él",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 233
@@ -11227,7 +10955,6 @@ cansoner=
         "titol": "Rey de Reyes",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 28
@@ -11250,7 +10977,6 @@ cansoner=
         "titol": "Rei de reis i Senyor de senyors",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 144
@@ -11305,7 +11031,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 97
@@ -11348,7 +11073,6 @@ cansoner=
         "titol": "Santo es el Señor, Dios del universo (Handel)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 74
@@ -11377,7 +11101,6 @@ cansoner=
         "titol": "Santo es el Señor, Dios del universo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 161
@@ -11403,7 +11126,6 @@ cansoner=
         "titol": "Sant, sant, sant, sant es el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 150
@@ -11435,7 +11157,6 @@ cansoner=
         "titol": "Santo es el Señor, Dios de fuerza y de poder",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 71
@@ -11462,7 +11183,6 @@ cansoner=
         "titol": "Santo es el Señor, Dios de los hombres",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 72
@@ -11496,7 +11216,6 @@ cansoner=
         "titol": "Santo los cielos te proclaman",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 45
@@ -11542,7 +11261,6 @@ cansoner=
         "titol": "Santo Tú eres Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 18
@@ -11570,7 +11288,6 @@ cansoner=
         "titol": "Santo  Hosanna hey Zaire",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 379
@@ -11598,7 +11315,6 @@ cansoner=
         "titol": "Sant, sant, sant, sant (Zaire)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 162
@@ -11634,7 +11350,6 @@ cansoner=
         "titol": "Se encienden las velas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 388
@@ -11683,7 +11398,6 @@ cansoner=
         "titol": "Se exalta a nuestro Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 396
@@ -11713,7 +11427,6 @@ cansoner=
         "titol": "Se fue pero a nuestro lado está",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 4
@@ -11742,7 +11455,6 @@ cansoner=
         "titol": "Se siente una paz tan grande",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 361
@@ -11770,7 +11482,6 @@ cansoner=
         "titol": "Seguid unidos a Mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 29
@@ -11813,7 +11524,6 @@ cansoner=
         "titol": "Sendas Dios hará",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 121
@@ -11845,7 +11555,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 52
@@ -11913,7 +11622,6 @@ cansoner=
         "titol": "Señor de Señores",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 138
@@ -11944,7 +11652,6 @@ cansoner=
         "titol": "Señor Dios nuestro.Sal.8",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 17
@@ -11989,7 +11696,6 @@ cansoner=
         "titol": "Señor llévame a tus atrios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 398
@@ -12023,7 +11729,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 170
@@ -12060,7 +11765,6 @@ cansoner=
         "titol": "Señor seduce mi corazón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 248
@@ -12087,7 +11791,6 @@ cansoner=
         "titol": "Señor ten piedad porque sólo pienso en mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 103
@@ -12120,7 +11823,6 @@ cansoner=
         "titol": "Señor, mi corazón no es ambicioso. Como un niño",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 409
@@ -12170,7 +11872,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 213
@@ -12220,7 +11921,6 @@ cansoner=
         "titol": "Señor, ten piedad de mí pecador",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 127
@@ -12259,7 +11959,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 21
@@ -12287,7 +11986,6 @@ cansoner=
         "titol": "Sh'ma Israel adoshem elokhenu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 168
@@ -12315,7 +12013,6 @@ cansoner=
         "titol": "Si el Espíritu de Dios se mueve en mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 156
@@ -12340,7 +12037,6 @@ cansoner=
         "titol": "Quan l'Esperit de Deu es mou en mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 149
@@ -12369,7 +12065,6 @@ cansoner=
         "titol": "Si en verdad eres salvo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 174
@@ -12404,7 +12099,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 96
@@ -12474,7 +12168,6 @@ cansoner=
         "titol": "Si lo que buscas no encuentras aún",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 19
@@ -12509,7 +12202,6 @@ cansoner=
         "titol": "Si quieres venir conmigo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 142
@@ -12554,7 +12246,6 @@ cansoner=
         "titol": "Si tuvieras fe como un granito",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 24
@@ -12618,7 +12309,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 42
@@ -12671,7 +12361,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 245
@@ -12724,7 +12413,6 @@ cansoner=
         "titol": "Si, con vosotros estoy",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 160
@@ -12751,7 +12439,6 @@ cansoner=
         "titol": "Siento que tus ojos me miran",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 397
@@ -12792,7 +12479,6 @@ cansoner=
         "titol": "Siento que Tú eres Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 169
@@ -12828,7 +12514,6 @@ cansoner=
         "titol": "soy yo conozco tu vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 296
@@ -12862,7 +12547,6 @@ cansoner=
         "titol": "Cansado del camino. Sumérgeme",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 435
@@ -12940,7 +12624,6 @@ cansoner=
         "titol": "Sálvame",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 244
@@ -12965,7 +12648,6 @@ cansoner=
         "titol": "Salva'm",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 165
@@ -12988,7 +12670,6 @@ cansoner=
         "titol": "Sé que voy contigo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 13
@@ -13028,7 +12709,6 @@ cansoner=
         "titol": "Tan cerca de mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 26
@@ -13073,7 +12753,6 @@ cansoner=
         "titol": "Es tant a prop meu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 69
@@ -13142,7 +12821,6 @@ cansoner=
         "titol": "Te amo Rey",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 123
@@ -13169,7 +12847,6 @@ cansoner=
         "titol": "Te cubriré con mi sangre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 118
@@ -13210,7 +12887,6 @@ cansoner=
         "titol": "Te damos gloria y poder",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 371
@@ -13236,7 +12912,6 @@ cansoner=
         "titol": "Te damos gracias Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 329
@@ -13304,7 +12979,6 @@ cansoner=
         "titol": "Te saludamos, Regina",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 285
@@ -13351,7 +13025,6 @@ cansoner=
         "titol": "Temprano yo te buscaré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 89
@@ -13380,7 +13053,6 @@ cansoner=
         "titol": "Tenemos tanto",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 27
@@ -13410,7 +13082,6 @@ cansoner=
         "titol": "Tocare l'extrem del teu vestit, Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 185
@@ -13452,7 +13123,6 @@ cansoner=
         "titol": "Tocaré el borde de tu manto",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 341
@@ -13483,7 +13153,6 @@ cansoner=
         "titol": "Todo es de mi Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 430
@@ -13505,7 +13174,6 @@ cansoner=
         "titol": "Tot es pel meu Crist",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 175
@@ -13535,7 +13203,6 @@ cansoner=
         "titol": "Tomad y comed",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 47
@@ -13575,7 +13242,6 @@ cansoner=
         "titol": "Tomado de la mano",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 73
@@ -13622,7 +13288,6 @@ cansoner=
         "titol": "Tomamé y enséñame a servirte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 270
@@ -13648,7 +13313,6 @@ cansoner=
         "titol": "Tu amor por mí ",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 370
@@ -13679,7 +13343,6 @@ cansoner=
         "titol": "Tu amor sublime es mejor que la vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 40
@@ -13707,7 +13370,6 @@ cansoner=
         "titol": "Tu me has vestido de gozo ",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 442
@@ -13756,7 +13418,6 @@ cansoner=
         "titol": "Tu nombre oh Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 116
@@ -13783,7 +13444,6 @@ cansoner=
         "titol": "Tuya es la Gloria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 67
@@ -13814,7 +13474,6 @@ cansoner=
         "titol": "Te ensalzamos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 84
@@ -13844,7 +13503,6 @@ cansoner=
         "titol": "T'exalcem",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 182
@@ -13874,7 +13532,6 @@ cansoner=
         "titol": "Tú con nosotros",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 46
@@ -13926,7 +13583,6 @@ cansoner=
         "titol": "Tú el Dios de mi refugio. Sal 43",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 98
@@ -13956,7 +13612,6 @@ cansoner=
         "titol": "Tú has venido a la orilla",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 318
@@ -13997,7 +13652,6 @@ cansoner=
         "titol": "Tú me sondeas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 265
@@ -14027,7 +13681,6 @@ cansoner=
         "titol": "Vamos a bendecir al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 349
@@ -14057,7 +13710,6 @@ cansoner=
         "titol": "Anem a beneir el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 20
@@ -14121,7 +13773,6 @@ cansoner=
         "titol": "Vamos a cantar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 58
@@ -14149,7 +13800,6 @@ cansoner=
         "titol": "Vamos a juntarnos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 32
@@ -14180,7 +13830,6 @@ cansoner=
         "titol": "Vamos con gozo alabemos a nuestro Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 324
@@ -14285,7 +13934,6 @@ cansoner=
         "titol": "Vamos con gozo el Padre nos llama",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 162
@@ -14351,7 +13999,6 @@ cansoner=
         "titol": "Ven a cantar conmigo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 313
@@ -14395,7 +14042,6 @@ cansoner=
         "titol": "Ven ahora Santo Espíritu, ven y habita",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 271
@@ -14428,7 +14074,6 @@ cansoner=
         "titol": "Ven Dios Padre, quédate Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 258
@@ -14455,7 +14100,6 @@ cansoner=
         "titol": "Ven es hora de adorarle",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 414
@@ -14487,7 +14131,6 @@ cansoner=
         "titol": "Ven Espíritu de amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 144
@@ -14534,7 +14177,6 @@ cansoner=
         "titol": "Ven Espíritu de Dios sobre mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 135
@@ -14591,7 +14233,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 93
@@ -14685,7 +14326,6 @@ cansoner=
         "titol": "Ven Espíritu, ven y lléname",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 427
@@ -14712,7 +14352,6 @@ cansoner=
         "titol": "Ven Espiritu ven / Vine sant Esperit",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 197
@@ -14740,7 +14379,6 @@ cansoner=
         "titol": "Ven y déjate llevar por su Espíritu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 77
@@ -14778,7 +14416,6 @@ cansoner=
         "titol": "Ven y juntos alabemos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 395
@@ -14823,7 +14460,6 @@ cansoner=
         "titol": "Ven, Espíritu divino",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 55
@@ -14889,7 +14525,6 @@ cansoner=
         "titol": "Vengo a adorarte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 416
@@ -14955,7 +14590,6 @@ cansoner=
         "titol": "Vengo ante Ti mi Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 208
@@ -15018,7 +14652,6 @@ cansoner=
         "titol": "Venid a mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 259
@@ -15049,7 +14682,6 @@ cansoner=
         "titol": "Venid, alabad al Señor nuestro Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 276
@@ -15094,7 +14726,6 @@ cansoner=
         "titol": "Venid, alabemos el nombre del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 305
@@ -15134,7 +14765,6 @@ cansoner=
         "titol": "Venimos ante ti Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 41
@@ -15171,7 +14801,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 56
@@ -15207,7 +14836,6 @@ cansoner=
         "titol": "Vine a alabar a Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 272
@@ -15238,7 +14866,6 @@ cansoner=
         "titol": "Ven al corazón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 418
@@ -15266,7 +14893,6 @@ cansoner=
         "titol": "Ven y descansate",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 368
@@ -15295,7 +14921,6 @@ cansoner=
         "titol": "Vine i descansa en mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 196
@@ -15325,7 +14950,6 @@ cansoner=
         "titol": "Ven ahora Santo Espíritu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 278
@@ -15349,7 +14973,6 @@ cansoner=
         "titol": "Vine Pare, do de Vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 191
@@ -15378,7 +15001,6 @@ cansoner=
         "titol": "Vino un hombre a nuestro mundo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 119
@@ -15471,7 +15093,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 247
@@ -15497,7 +15118,6 @@ cansoner=
         "titol": "Viu Jesucrist el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 183
@@ -15525,7 +15145,6 @@ cansoner=
         "titol": "Vuelve los ojos al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 85
@@ -15567,7 +15186,6 @@ cansoner=
         "titol": "Vuélvete a mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 262
@@ -15593,7 +15211,6 @@ cansoner=
         "titol": "Yo cantaré al Señor un himno grande",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 60
@@ -15635,7 +15252,6 @@ cansoner=
         "titol": "Jo cantare al Senyor un himne gran",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 96
@@ -15681,7 +15297,6 @@ cansoner=
         "titol": "Yo cantaré tus alabanzas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 351
@@ -15712,7 +15327,6 @@ cansoner=
         "titol": "Yo canto a mi Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 180
@@ -15743,7 +15357,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 71
@@ -15775,7 +15388,6 @@ cansoner=
         "titol": "Yo celebraré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 287
@@ -15796,7 +15408,6 @@ cansoner=
         "titol": "Yo no soy nada",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 145
@@ -15827,7 +15438,6 @@ cansoner=
         "titol": "Yo os daré la fuerza de mi Espíritu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 90
@@ -15873,7 +15483,6 @@ cansoner=
         "titol": "Yo quiero ser como Tú",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 151
@@ -15893,7 +15502,6 @@ cansoner=
         "titol": "Jo vull ser com tu Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 80
@@ -15915,7 +15523,6 @@ cansoner=
         "titol": "Yo siento Señor que tú me amas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 172
@@ -15962,7 +15569,6 @@ cansoner=
         "titol": "Yo soy el pan de vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 57
@@ -16017,7 +15623,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 99
@@ -16110,7 +15715,6 @@ cansoner=
         "titol": "Yo te ensalzo, oh Dios . Sal 145",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 80
@@ -16173,7 +15777,6 @@ cansoner=
         "titol": "Yo tengo un gozo en el alma",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 207
@@ -16208,7 +15811,6 @@ cansoner=
         "titol": "Él es la rosa de  Sarón",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 75
@@ -16251,7 +15853,6 @@ cansoner=
         "titol": "Él nos ha elegido",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 48
@@ -16298,7 +15899,6 @@ cansoner=
         "titol": "Jesús es Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 1
@@ -16330,7 +15930,6 @@ cansoner=
         "titol": "Jesus es, Jesus es Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 85
@@ -16359,7 +15958,6 @@ cansoner=
         "titol": "Tú rompes cadenas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 2
@@ -16382,7 +15980,6 @@ cansoner=
         "titol": "Yeshua",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 16
@@ -16427,7 +16024,6 @@ cansoner=
         "titol": "Yo soy testigo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 20
@@ -16460,7 +16056,6 @@ cansoner=
         "titol": "Soc testimoni del poder de Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 174
@@ -16493,7 +16088,6 @@ cansoner=
         "titol": "¡Aleluya! Mirad la muerte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 35
@@ -16540,7 +16134,6 @@ cansoner=
         "titol": "Ven y adórale",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 39
@@ -16572,7 +16165,6 @@ cansoner=
         "titol": "¡Aleluya! (Salmo 148)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 64
@@ -16662,7 +16254,6 @@ cansoner=
         "titol": "Ruah",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 86
@@ -16692,7 +16283,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 146
@@ -16720,7 +16310,6 @@ cansoner=
         "titol": "Alégrate",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 87
@@ -16749,7 +16338,6 @@ cansoner=
         "titol": "Alguien cerca esta de mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 100
@@ -16780,7 +16368,6 @@ cansoner=
         "titol": "Prepárate para que sientas",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 105
@@ -16810,7 +16397,6 @@ cansoner=
         "titol": "Va bajando ya",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 106
@@ -16840,7 +16426,6 @@ cansoner=
         "titol": "Santo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 113
@@ -16888,7 +16473,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 115
@@ -16981,7 +16565,6 @@ cansoner=
         "titol": "Algo nuevo está naciendo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 117
@@ -17031,7 +16614,6 @@ cansoner=
         "titol": "Grito Santo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 125
@@ -17096,7 +16678,6 @@ cansoner=
         "titol": "Cordero de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 129
@@ -17133,7 +16714,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 139
@@ -17217,7 +16797,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 143
@@ -17275,7 +16854,6 @@ cansoner=
         "titol": "¡AIeIuya!",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 146
@@ -17314,7 +16892,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 1
@@ -17343,7 +16920,6 @@ cansoner=
         "titol": "Dios, tu mi Dios (Salmo )",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 149
@@ -17380,7 +16956,6 @@ cansoner=
         "titol": "Abre mis labios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 150
@@ -17401,7 +16976,6 @@ cansoner=
         "titol": "Obre els meus llavis, Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 107
@@ -17424,7 +16998,6 @@ cansoner=
         "titol": "Canta Aleluya",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 152
@@ -17446,7 +17019,6 @@ cansoner=
         "titol": "Canta al·leluia al Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 32
@@ -17508,7 +17080,6 @@ cansoner=
         "titol": "Aqui el esta",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 153
@@ -17553,7 +17124,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 157
@@ -17630,7 +17200,6 @@ cansoner=
         "titol": "Elí, EIí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 158
@@ -17686,7 +17255,6 @@ cansoner=
         "titol": "Aleluya. Cristo vivo esta",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 164
@@ -17735,7 +17303,6 @@ cansoner=
         "titol": "Dos mil años de luz",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 165
@@ -17821,7 +17388,6 @@ cansoner=
         "titol": "Amar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 173
@@ -17853,7 +17419,6 @@ cansoner=
         "titol": "Ven Espiritu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 175
@@ -17917,7 +17482,6 @@ cansoner=
         "titol": "No quiero ser santa a medias",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 176
@@ -17955,7 +17519,6 @@ cansoner=
         "titol": "Abba",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 177
@@ -17983,7 +17546,6 @@ cansoner=
         "titol": "Ahora no tengo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 181
@@ -18013,7 +17575,6 @@ cansoner=
         "titol": "Deseo ser santa",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 184
@@ -18045,7 +17606,6 @@ cansoner=
         "titol": "Jesús, Jesús, Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 186
@@ -18068,7 +17628,6 @@ cansoner=
         "titol": "Para ti toda mi musica, Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 192
@@ -18140,7 +17699,6 @@ cansoner=
         "titol": "Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 193
@@ -18184,7 +17742,6 @@ cansoner=
         "titol": "Cantemos al Amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 195
@@ -18220,7 +17777,6 @@ cansoner=
         "titol": "A que tú no sabes",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 196
@@ -18284,7 +17840,6 @@ cansoner=
         "titol": "Los que esperan",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 197
@@ -18371,7 +17926,6 @@ cansoner=
         "titol": "Els qui estimen",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 45
@@ -18424,7 +17978,6 @@ cansoner=
         "titol": "Yo creo en tu resurrección",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 198
@@ -18521,7 +18074,6 @@ cansoner=
         "titol": "Quien ha encontrado un amigo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 202
@@ -18624,7 +18176,6 @@ cansoner=
         "titol": "No juzgues",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 214
@@ -18705,7 +18256,6 @@ cansoner=
         "titol": "Quien pierde su vida la encuentra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 218
@@ -18754,7 +18304,6 @@ cansoner=
         "titol": "Nada es imposible para ti",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 220
@@ -18868,7 +18417,6 @@ cansoner=
         "titol": "Algo está descendiendo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 223
@@ -18897,7 +18445,6 @@ cansoner=
         "titol": "Ven a conocer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 224
@@ -18930,7 +18477,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 235
@@ -18995,7 +18541,6 @@ cansoner=
         "titol": "Ven, Señor Jesús,",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 237
@@ -19087,7 +18632,6 @@ cansoner=
         "titol": "iOh, alabad!",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 242
@@ -19112,7 +18656,6 @@ cansoner=
         "titol": "Lo más valioso",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 246
@@ -19135,7 +18678,6 @@ cansoner=
         "titol": "El auxilio me  viene del Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 249
@@ -19195,7 +18737,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 255
@@ -19234,7 +18775,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 206
@@ -19263,7 +18803,6 @@ cansoner=
         "titol": "Cristo vive en mí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 261
@@ -19292,7 +18831,6 @@ cansoner=
         "titol": "En ti está la fuente de la vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 266
@@ -19359,7 +18897,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 277
@@ -19409,7 +18946,6 @@ cansoner=
         "titol": "No soy digno",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 280
@@ -19491,7 +19027,6 @@ cansoner=
         "titol": "Ven, Amor de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 283
@@ -19513,7 +19048,6 @@ cansoner=
         "titol": "Vine amor de Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 193
@@ -19547,7 +19081,6 @@ cansoner=
         "titol": "Yo abriré una puerta",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 288
@@ -19589,7 +19122,6 @@ cansoner=
         "titol": "Zarza ardiente",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 292
@@ -19715,7 +19247,6 @@ cansoner=
         "titol": "Buscad primero",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 293
@@ -19738,7 +19269,6 @@ cansoner=
         "titol": "Aleluya, demos gracias",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 297
@@ -19813,7 +19343,6 @@ cansoner=
         "titol": "Alegre la mañana",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 301
@@ -19909,7 +19438,6 @@ cansoner=
         "titol": "Jesús (Asís)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 304
@@ -19932,7 +19460,6 @@ cansoner=
         "titol": "Padrenuestro",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 306
@@ -19972,7 +19499,6 @@ cansoner=
         "titol": "Abba, Padre (escuchame)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 309
@@ -20052,7 +19578,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 312
@@ -20090,7 +19615,6 @@ cansoner=
         "titol": "¡Aleluya! Yo creo en tu amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 315
@@ -20168,7 +19692,6 @@ cansoner=
         "titol": "Al·leluia (jo crec en tu Senyor)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 10
@@ -20257,7 +19780,6 @@ cansoner=
         "titol": "Nada te turbe",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 319
@@ -20288,7 +19810,6 @@ cansoner=
         "titol": "Aleluya, Jesus es el Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 321
@@ -20327,7 +19848,6 @@ cansoner=
         "titol": "Nadie te ama corno yo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 328
@@ -20417,7 +19937,6 @@ cansoner=
         "titol": "Te alabarán, oh, Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 336
@@ -20449,7 +19968,6 @@ cansoner=
         "titol": "Celebrad a Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 346
@@ -20496,7 +20014,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 7
@@ -20544,7 +20061,6 @@ cansoner=
         "titol": "Toma mi vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 357
@@ -20583,7 +20099,6 @@ cansoner=
         "titol": "Adonai",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 360
@@ -20614,7 +20129,6 @@ cansoner=
         "titol": "Bendecid al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 364
@@ -20649,7 +20163,6 @@ cansoner=
         "titol": "Tu fidelidad",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 375
@@ -20672,7 +20185,6 @@ cansoner=
         "titol": "Jesús, tengo sed",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 377
@@ -20713,7 +20225,6 @@ cansoner=
         "titol": "Shalom, te doy la paz",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 380
@@ -20783,7 +20294,6 @@ cansoner=
         "titol": "Bendito sea el Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 390
@@ -20819,7 +20329,6 @@ cansoner=
         "titol": "LLOAT  SIGUI EL SENYOR TOTPODERÓS",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 58
@@ -20860,7 +20369,6 @@ cansoner=
         "titol": "Me llaman «Aleluya»",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 392
@@ -20906,7 +20414,6 @@ cansoner=
         "titol": "Y es que tengo un fuego",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 393
@@ -20936,7 +20443,6 @@ cansoner=
         "titol": "Adorare tu cuerpo herido",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 400
@@ -21034,7 +20540,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 402
@@ -21125,7 +20630,6 @@ cansoner=
         "titol": "Ahora más que nunca - Credo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 404
@@ -21215,7 +20719,6 @@ cansoner=
         "titol": "Imagina",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 406
@@ -21292,7 +20795,6 @@ cansoner=
         "titol": "Confiad",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 407
@@ -21351,7 +20853,6 @@ cansoner=
         "titol": "Agnus Dei",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 408
@@ -21389,7 +20890,6 @@ cansoner=
         "titol": "Tú eres Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 410
@@ -21431,7 +20931,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 44
@@ -21469,7 +20968,6 @@ cansoner=
         "titol": "De noche iremos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 415
@@ -21492,7 +20990,6 @@ cansoner=
         "titol": "¿Qué tendrás tú?",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 417
@@ -21547,7 +21044,6 @@ cansoner=
         "titol": "El León de la tribu de Judá",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 419
@@ -21601,7 +21097,6 @@ cansoner=
         "titol": "Oh, pobreza",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 421
@@ -21622,7 +21117,6 @@ cansoner=
         "titol": "Confitemini Domino",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 423
@@ -21645,7 +21139,6 @@ cansoner=
         "titol": "Ven, Espíritu Santo de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 424
@@ -21677,7 +21170,6 @@ cansoner=
         "titol": "Haz llover",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 425
@@ -21698,7 +21190,6 @@ cansoner=
         "titol": "¡Buenas noches!",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 428
@@ -21740,7 +21231,6 @@ cansoner=
         "titol": "Laudate, omnes gentes",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 429
@@ -21763,7 +21253,6 @@ cansoner=
         "titol": "Agua lavame",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 431
@@ -21785,7 +21274,6 @@ cansoner=
         "titol": "Demos gloria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 432
@@ -21817,7 +21305,6 @@ cansoner=
         "titol": "Cántico de victoria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 433
@@ -21879,7 +21366,6 @@ cansoner=
         "titol": "Ven, ven, Espíritu de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 434
@@ -21902,7 +21388,6 @@ cansoner=
         "titol": "Alabad al Señor, todas las naciones",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 438
@@ -21932,7 +21417,6 @@ cansoner=
         "titol": "La victoria es de nuestro Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 440
@@ -21980,7 +21464,6 @@ cansoner=
         "titol": "¿Quién es este?",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 441
@@ -22042,7 +21525,6 @@ cansoner=
         "titol": "El Señor es mi pastor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 443
@@ -22088,7 +21570,6 @@ cansoner=
         "titol": "P'arriba",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 445
@@ -22130,7 +21611,6 @@ cansoner=
         "titol": "El Alfa y la Omega",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 446
@@ -22187,7 +21667,6 @@ cansoner=
         "titol": "Al·leluia, lloa el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 2
@@ -22264,7 +21743,6 @@ cansoner=
         "titol": "Ah si sabes ton cor el do de Jesús",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 3
@@ -22333,7 +21811,6 @@ cansoner=
         "titol": "Al·le Al·le (Ens ha estimat fins a morir)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 5
@@ -22410,7 +21887,6 @@ cansoner=
         "titol": "Al·leluia (Crist morí i es viu per sempre)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 6
@@ -22466,7 +21942,6 @@ cansoner=
         "titol": "na na na na na",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 11
@@ -22518,7 +21993,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 8
@@ -22565,7 +22039,6 @@ cansoner=
         "titol": "Al·leluia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 9
@@ -22630,7 +22103,6 @@ cansoner=
         "titol": "Al·leluia el Senyor es el nostre Rei",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 12
@@ -22665,7 +22137,6 @@ cansoner=
         "titol": "Al·leluia (Dem honor al Deu creador)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 13
@@ -22732,7 +22203,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 17
@@ -22827,7 +22297,6 @@ cansoner=
         "titol": "Amen (Tot honor i tota gloria)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 18
@@ -22885,7 +22354,6 @@ cansoner=
         "titol": "Cos de Jesus lliurat per mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 19
@@ -22909,7 +22377,6 @@ cansoner=
         "titol": "Al·leluia (Prop de tu, Jesus, vull pregar)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 16
@@ -22978,7 +22445,6 @@ cansoner=
         "titol": "Tots els servents de Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 15
@@ -23004,7 +22470,6 @@ cansoner=
         "titol": "Al·leluia (lloeu Deu del cel estant)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 22
@@ -23144,7 +22609,6 @@ cansoner=
         "titol": "Anyell de Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 21
@@ -23174,7 +22638,6 @@ cansoner=
         "titol": "Al·leluia (Ell es el mestre, l'Amo del mon)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 24
@@ -23261,7 +22724,6 @@ cansoner=
         "titol": "Alceu l'estendard",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 25
@@ -23361,7 +22823,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 26
@@ -23435,7 +22896,6 @@ cansoner=
         "titol": "Bon dia bon dia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 23
@@ -23462,7 +22922,6 @@ cansoner=
         "titol": "Buenos días, buenos días",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 23
@@ -23491,7 +22950,6 @@ cansoner=
         "titol": "Beneire el Senyor en tot moment",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 29
@@ -23629,7 +23087,6 @@ cansoner=
         "titol": "Amb la joia als llavis",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 31
@@ -23729,7 +23186,6 @@ cansoner=
         "titol": "Atents amics en la nit del mon (prego pasqual)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 33
@@ -23800,7 +23256,6 @@ cansoner=
         "titol": "Fe, fe, fe, una mica mes de fe",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 28
@@ -23828,7 +23283,6 @@ cansoner=
         "titol": "Benvolgut Pare tornem cecs i cansats",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 35
@@ -23887,7 +23341,6 @@ cansoner=
         "titol": "Canta al·leluia! Joiosos cantem",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 36
@@ -23920,7 +23373,6 @@ cansoner=
         "titol": "Deu es bo, cantem i cridem",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 37
@@ -23957,7 +23409,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 39
@@ -24016,7 +23467,6 @@ cansoner=
         "titol": "Crist es viu en mi, Al·leluia",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 38
@@ -24048,7 +23498,6 @@ cansoner=
         "titol": "Crist ha ressuscitat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 41
@@ -24080,7 +23529,6 @@ cansoner=
         "titol": "Canteu enaltiu eternament al Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 43
@@ -24253,7 +23701,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 42
@@ -24327,7 +23774,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 46
@@ -24388,7 +23834,6 @@ cansoner=
         "titol": "Deu te cura del seu poble",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 48
@@ -24416,7 +23861,6 @@ cansoner=
         "titol": "El nostre Deu ens ha donat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 49
@@ -24451,7 +23895,6 @@ cansoner=
         "titol": "El Senyor es tot amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 51
@@ -24473,7 +23916,6 @@ cansoner=
         "titol": "Donem gràcies al Senyor, donem gràcies",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 54
@@ -24550,7 +23992,6 @@ cansoner=
         "titol": "Dansa per Deu, el teu amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 55
@@ -24583,7 +24024,6 @@ cansoner=
         "titol": "El senyor es la meva llum i salvacio",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 56
@@ -24604,7 +24044,6 @@ cansoner=
         "titol": "El Senyor et convida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 59
@@ -24636,7 +24075,6 @@ cansoner=
         "titol": "Enaltiu el Senyor, que n'es de bo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 60
@@ -24729,7 +24167,6 @@ cansoner=
         "titol": "Grans i meravelloses",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 61
@@ -24791,7 +24228,6 @@ cansoner=
         "titol": "Enmig del mon quin goig",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 63
@@ -24851,7 +24287,6 @@ cansoner=
         "titol": "Qué hermosos por los montes",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 63.5
@@ -24898,7 +24333,6 @@ cansoner=
         "titol": "Entra en la claror resplendent",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 65
@@ -24985,7 +24419,6 @@ cansoner=
         "titol": "Es avui que s'aixeca una llum",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 68
@@ -25062,7 +24495,6 @@ cansoner=
         "titol": "Es exalçat el Rei de tot l'Univers",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 67
@@ -25099,7 +24531,6 @@ cansoner=
         "titol": "Glorifiqueu el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 64
@@ -25121,7 +24552,6 @@ cansoner=
         "titol": "Es a prop teu on em sento fort",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 70
@@ -25209,7 +24639,6 @@ cansoner=
         "titol": "Ets amor, sols amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 73
@@ -25335,7 +24764,6 @@ cansoner=
         "titol": "Fes-nos viure units",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 74
@@ -25357,7 +24785,6 @@ cansoner=
         "titol": "Fixos els ulls en el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 77
@@ -25434,7 +24861,6 @@ cansoner=
         "titol": "Flama de Deu, flama d'amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 78
@@ -25508,7 +24934,6 @@ cansoner=
         "titol": "Llum de Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 79
@@ -25547,7 +24972,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 83
@@ -25583,7 +25007,6 @@ cansoner=
         "titol": "Hem pogut descobrir",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 86
@@ -25665,7 +25088,6 @@ cansoner=
         "titol": "I el Senyor ens ha salvat, Alegria",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 81
@@ -25697,7 +25119,6 @@ cansoner=
         "titol": "Oh Jesus, tu ets el meu rei",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 89
@@ -25765,7 +25186,6 @@ cansoner=
         "titol": "Jesus es el cami, Ell es la Veritat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 34
@@ -25786,7 +25206,6 @@ cansoner=
         "titol": "I com n'es de bo el Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 87
@@ -25882,7 +25301,6 @@ cansoner=
         "titol": "I si vivim, per a Ell vivim",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 88
@@ -25941,7 +25359,6 @@ cansoner=
         "titol": "La pau, si la pau",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 90
@@ -25972,7 +25389,6 @@ cansoner=
         "titol": "Jesus es viu, Jesus es viu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 91
@@ -26050,7 +25466,6 @@ cansoner=
         "titol": "La bondat i l'amor del Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 84
@@ -26117,7 +25532,6 @@ cansoner=
         "titol": "Jesus ha ressuscitat tot glorios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 92
@@ -26173,7 +25587,6 @@ cansoner=
         "titol": "Jesus, jo voldria cantar-te en la ruta",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 94
@@ -26215,7 +25628,6 @@ cansoner=
         "titol": "Jo crec en Vos, bon Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 98
@@ -26279,7 +25691,6 @@ cansoner=
         "titol": "Jo dic si, si, si",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 93
@@ -26303,7 +25714,6 @@ cansoner=
         "titol": "La llum de Jesucrist",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 101
@@ -26372,7 +25782,6 @@ cansoner=
         "titol": "La meva anima canta al Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 102
@@ -26457,7 +25866,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 104
@@ -26511,7 +25919,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 103
@@ -26576,7 +25983,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 106
@@ -26649,7 +26055,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 108
@@ -26682,7 +26087,6 @@ cansoner=
         "titol": "Ell es Rei de reis",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 110
@@ -26730,7 +26134,6 @@ cansoner=
         "titol": "Pau a la terra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 97
@@ -26752,7 +26155,6 @@ cansoner=
         "titol": "Lloat sigueu, oh Senyor nostre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 111
@@ -26817,7 +26219,6 @@ cansoner=
         "titol": "Lloem Deu, Senyor, Pare nostre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 113
@@ -26849,7 +26250,6 @@ cansoner=
         "titol": "Llum de tots els qui viuen",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 122
@@ -27039,7 +26439,6 @@ cansoner=
         "titol": "Des del cim mes alt / Que les llars s'omplin",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 123
@@ -27112,7 +26511,6 @@ cansoner=
         "titol": "Mans, mans",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 119
@@ -27177,7 +26575,6 @@ cansoner=
         "titol": "No fixeu els ulls en ningu mes que en Ell",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 125
@@ -27228,7 +26625,6 @@ cansoner=
         "titol": "Obre els teus ulls",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 109
@@ -27252,7 +26648,6 @@ cansoner=
         "titol": "Oh Senyor, jo vinc vers tu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 114
@@ -27284,7 +26679,6 @@ cansoner=
         "titol": "Oh Esperit que duus l'Amor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 126
@@ -27387,7 +26781,6 @@ cansoner=
         "titol": "Oh deixa que el Senyor t'inundi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 128
@@ -27460,7 +26853,6 @@ cansoner=
         "titol": "Pietat, oh Deu, vos que sou bo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 131
@@ -27501,7 +26893,6 @@ cansoner=
         "titol": "Pare nostre que esteu en el cel (Kairoi)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 130
@@ -27533,7 +26924,6 @@ cansoner=
         "titol": "Per tota la terra l'Esperit de Deu es mou",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 120
@@ -27564,7 +26954,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 134
@@ -27640,7 +27029,6 @@ cansoner=
         "titol": "Que la gloria de Deu perduri sempre",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 132
@@ -27663,7 +27051,6 @@ cansoner=
         "titol": "Parla Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 133
@@ -27715,7 +27102,6 @@ cansoner=
         "titol": "Per aquells que estimen Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 136
@@ -27819,7 +27205,6 @@ cansoner=
         "titol": "Veniu Esperit creador",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 135
@@ -27848,7 +27233,6 @@ cansoner=
         "titol": "Pren, Senyor, pren el meu cor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 137
@@ -27880,7 +27264,6 @@ cansoner=
         "titol": "Porto dins el cor la pau de l'Esperit",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 139
@@ -27925,7 +27308,6 @@ cansoner=
         "titol": "Quan desvetllarem els cors",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 140
@@ -28010,7 +27392,6 @@ cansoner=
         "titol": "Que n'es de bo lloar-vos Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 141
@@ -28034,7 +27415,6 @@ cansoner=
         "titol": "Que gran ets, Deu meu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 145
@@ -28066,7 +27446,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 147
@@ -28090,7 +27469,6 @@ cansoner=
         "titol": "Que n'es de bo quan viuen",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 153
@@ -28203,7 +27581,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 124
@@ -28235,7 +27612,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 155
@@ -28311,7 +27687,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 151
@@ -28341,7 +27716,6 @@ cansoner=
         "titol": "Senyor, tu ets el meu Deu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 152
@@ -28369,7 +27743,6 @@ cansoner=
         "titol": "Qui es el Senyor de la selva",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 156
@@ -28396,7 +27769,6 @@ cansoner=
         "titol": "Sant, sant, sant, sant (Berghmans)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 161
@@ -28431,7 +27803,6 @@ cansoner=
         "titol": "Quin do tan gran que Deu et vol fer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 158
@@ -28500,7 +27871,6 @@ cansoner=
         "titol": "Sant, sant, sant, sou sant Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 163
@@ -28537,7 +27907,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 164
@@ -28573,7 +27942,6 @@ cansoner=
         "titol": "Soc aqui, mostra'm com servir-te",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 160
@@ -28597,7 +27965,6 @@ cansoner=
         "titol": "Senyor jo et lloo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 166
@@ -28662,7 +28029,6 @@ cansoner=
         "titol": "Senyor meu i Deu meu, tu ets el Crist",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 167
@@ -28687,7 +28053,6 @@ cansoner=
         "titol": "Señor mio y Dios mio",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 167
@@ -28811,7 +28176,6 @@ cansoner=
         "titol": "Som en un lloc sant",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 157
@@ -28846,7 +28210,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 171
@@ -28912,7 +28275,6 @@ cansoner=
         "titol": "Sou beneit, Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 172
@@ -29019,7 +28381,6 @@ cansoner=
         "titol": "Senyor, us esperem",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 173
@@ -29098,7 +28459,7 @@ cansoner=
     },
     "568": {
       "ES": {
-        "titol": "Preciosa sangre",
+        "titol": "Preciosa sangre (Jesús Adrián Romero)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -29160,7 +28521,6 @@ cansoner=
         "titol": "Si, creiem en el Deu Pare",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 178
@@ -29216,7 +28576,6 @@ cansoner=
         "titol": "Sigui el Senyor Deu de bondat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 179
@@ -29301,7 +28660,6 @@ cansoner=
         "titol": "Oh Senyor ets un Deu meravellos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 169
@@ -29324,7 +28682,6 @@ cansoner=
         "titol": "Tal com la cervola",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 184
@@ -29369,7 +28726,6 @@ cansoner=
         "titol": "Vine Esperit, omple'ns de goig",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 177
@@ -29390,7 +28746,6 @@ cansoner=
         "titol": "Unint les mans germans",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 186
@@ -29467,7 +28822,6 @@ cansoner=
         "titol": "Us dono germans un nou manament",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 187
@@ -29497,7 +28851,6 @@ cansoner=
         "titol": "Tots adorem Jesus",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 192
@@ -29526,7 +28879,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 181
@@ -29547,7 +28899,6 @@ cansoner=
         "titol": "Que gran ets Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 194
@@ -29614,7 +28965,6 @@ cansoner=
         "titol": "Oh beneiu, servents del Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 188
@@ -29635,7 +28985,6 @@ cansoner=
         "titol": "Oh bendecid siempre al Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 188
@@ -29658,7 +29007,6 @@ cansoner=
         "titol": "Vine al nostre cor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 198
@@ -29688,7 +29036,6 @@ cansoner=
         "titol": "Una mirada de fe",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 199
@@ -29716,7 +29063,6 @@ cansoner=
         "titol": "Una mirada de fe",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 199
@@ -29778,7 +29124,6 @@ cansoner=
         "titol": "Vull els meus somnis lliurar-te",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 201
@@ -29817,7 +29162,6 @@ cansoner=
         "titol": "Quiero entregarte mis sueños",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 201
@@ -29858,7 +29202,6 @@ cansoner=
         "titol": "Gloria, Al·leluia, Gloria, ha ressuscitat",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 200
@@ -29901,7 +29244,6 @@ cansoner=
         "titol": "Gloria, Aleluya, Gloria, ha ressuscitado",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 200
@@ -29946,7 +29288,6 @@ cansoner=
         "titol": "Vindra sobre vostre el meu Esperit",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 204
@@ -30040,7 +29381,6 @@ cansoner=
         "titol": "Se tu cual la mujer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 562
@@ -30062,7 +29402,6 @@ cansoner=
         "titol": "Sigues com la dona",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 562
@@ -30085,7 +29424,6 @@ cansoner=
         "titol": "Veniu (sequencia de l'Esperit)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 208
@@ -30113,7 +29451,7 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Vós sou el consolador, ",
-              "de l’ànima Habitador",
+              "de l'ànima Habitador",
               "i dolcíssim refrigeri. ",
               "En els treballs sou confort,",
               "en les penes sou confort, ",
@@ -30133,7 +29471,7 @@ cansoner=
               "Oh Divina Claredat, ",
               "visiteu la intimitat",
               "del cor que ja us ansia. ",
-              "Res tindrà l’home si vós",
+              "Res tindrà l'home si vós",
               "no li deu vostre socors divinal, que bé li sia. "
             ]
           },
@@ -30162,9 +29500,9 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Tot l’indòmit endolciu; ",
+              "Tot l'indòmit endolciu; ",
               "tot el fred encalentiu;",
-              "regiu el qui s’esgarria."
+              "regiu el qui s'esgarria."
             ]
           },
           {
@@ -30191,7 +29529,6 @@ cansoner=
         "titol": "Vull lloar el meu Senyor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 210
@@ -30221,7 +29558,6 @@ cansoner=
         "titol": "Et sento avui tan a prop / i no se que puc dir",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 209
@@ -30283,7 +29619,6 @@ cansoner=
         "titol": "FIXA ELS ULLS EN JESÚS (Hillsong – traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 202
@@ -30306,7 +29641,6 @@ cansoner=
         "titol": "Vine sant esperit",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 203
@@ -30328,7 +29662,6 @@ cansoner=
         "titol": "Benedictus qui venit",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 212
@@ -30360,7 +29693,6 @@ cansoner=
         "titol": "Agnus Dei",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 215
@@ -30403,7 +29735,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 216
@@ -30481,7 +29812,6 @@ cansoner=
         "titol": "Senyor, vinc a pregar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 217
@@ -30549,7 +29879,6 @@ cansoner=
         "titol": "ALELUYA, DIOS ES REY (Hillsong – traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 4
@@ -30570,7 +29899,6 @@ cansoner=
         "titol": "SOM ELS TEUS FILLS, SENYOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 219
@@ -30641,7 +29969,6 @@ cansoner=
         "titol": "Pange lingua",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 220
@@ -30704,7 +30031,6 @@ cansoner=
         "titol": "GRAN ÉS DÉU (Himne cristià suec – traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 221
@@ -30781,7 +30107,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 223
@@ -30887,7 +30212,6 @@ cansoner=
         "titol": "10.000 raons  (Matt Redman – traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 222
@@ -30964,7 +30288,6 @@ cansoner=
         "titol": "TU ETS AQUÍ – Jesús Adrián Romero",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 218
@@ -31005,7 +30328,6 @@ cansoner=
         "titol": "PER UN MOMENT  (Jesús Adrián Romero)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 224
@@ -31044,7 +30366,6 @@ cansoner=
         "titol": "OBRE ELS MEUS ULLS (Michael W. Smith – traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 225
@@ -31085,7 +30406,6 @@ cansoner=
         "titol": "GLÒRIA AL REI DE TOTS ELS SEGLES",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 229
@@ -31179,7 +30499,6 @@ cansoner=
         "titol": "EM RENDEIXO  (Hillsong - Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 226
@@ -31252,7 +30571,6 @@ cansoner=
         "titol": "ESPERIT SANT, SANT ESPERIT – Chris Tomlin",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 207
@@ -31287,7 +30605,6 @@ cansoner=
         "titol": "TOTS NECESSITEM AMOR QUE MAI NO FALLA (Hillsong- Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 230
@@ -31346,7 +30663,6 @@ cansoner=
         "titol": "TODOS NECESITAN AMOR QUE NUNCA FALLA (Hillsong- Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 230
@@ -31416,7 +30732,6 @@ cansoner=
         "titol": "AL·LELUIA, AL·LELUIA  – Juan Luis Guerra",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 227
@@ -31451,7 +30766,6 @@ cansoner=
         "titol": "ALÇO LES MANS, ET MIRO ELS ULLS (Jonatan Narvaez – Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 231
@@ -31494,7 +30808,6 @@ cansoner=
         "titol": "QUIN NOM MÉS GRAN SENYOR (Hillsong - Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 233
@@ -31602,7 +30915,6 @@ cansoner=
         "titol": "REPÓS (SALM 23) (Matt Maher - Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 232
@@ -31670,7 +30982,6 @@ cansoner=
         "titol": "AMB LES ÀGUILES (Hillsong - Traducció BN)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 228
@@ -31702,7 +31013,6 @@ cansoner=
         "titol": "Anoche Cristo vino a mi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 500
@@ -31752,7 +31062,6 @@ cansoner=
         "titol": "Digues quan els estimo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 500
@@ -31775,7 +31084,6 @@ cansoner=
         "titol": "Aleluya aleluya el Señor resucito",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 501
@@ -31824,7 +31132,6 @@ cansoner=
         "titol": "Alegrate salta de gozo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 502
@@ -31893,7 +31200,6 @@ cansoner=
         "titol": "Alegra-te'n salta de goig",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 502
@@ -31972,7 +31278,6 @@ cansoner=
         "titol": "Aleluya, porque nuestro Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 503
@@ -32003,7 +31308,6 @@ cansoner=
         "titol": "Aun no puedo asimilar",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 504
@@ -32091,7 +31395,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 506
@@ -32162,7 +31465,6 @@ cansoner=
         "titol": "Cristo tomo mi carga",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 505
@@ -32202,7 +31504,6 @@ cansoner=
         "titol": "De gloria en gloria te veo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 508
@@ -32242,7 +31543,6 @@ cansoner=
         "titol": "PROCLAMO LA TEVA GLÒRIA",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 508
@@ -32284,7 +31584,6 @@ cansoner=
         "titol": "Desde el pronto amanecer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 509
@@ -32315,7 +31614,6 @@ cansoner=
         "titol": "En mi debilidad me haces fuerte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 507
@@ -32337,7 +31635,6 @@ cansoner=
         "titol": "En la debilitat, em dones forces",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 507
@@ -32366,7 +31663,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 510
@@ -32399,7 +31695,6 @@ cansoner=
         "titol": "El tonto sobre arena",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 511
@@ -32443,7 +31738,6 @@ cansoner=
         "titol": "En Egipto esclavo fui",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 515
@@ -32498,7 +31792,6 @@ cansoner=
         "titol": "Hijo de David, ten compasion",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 512
@@ -32523,7 +31816,6 @@ cansoner=
         "titol": "Levanto mis manos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 513
@@ -32575,7 +31867,6 @@ cansoner=
         "titol": "Alço les mans",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 513
@@ -32619,7 +31910,6 @@ cansoner=
         "titol": "Yo te digo que si tu crees",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 514
@@ -32643,7 +31933,6 @@ cansoner=
         "titol": "No he venido a pedirte",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 516
@@ -32698,7 +31987,6 @@ cansoner=
         "titol": "Ofreced gloria y alabanza",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 517
@@ -32732,7 +32020,6 @@ cansoner=
         "titol": "Oh Señor, quiero que ardas en mi ser",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 518
@@ -32776,7 +32063,6 @@ cansoner=
         "titol": "Por amor se entrego",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 519
@@ -32816,7 +32102,6 @@ cansoner=
         "titol": "Oh Señor, oraremos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 520
@@ -32869,7 +32154,6 @@ cansoner=
         "titol": "Padre Abraham",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 521
@@ -32891,7 +32175,6 @@ cansoner=
         "titol": "Pon aceite, Señor, haz que brille",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 522
@@ -32930,7 +32213,6 @@ cansoner=
         "titol": "No hay en El parecer",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 523
@@ -32998,7 +32280,6 @@ cansoner=
         "titol": "Hay poder, poder / Quieres ser salvo de toda maldad",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 525
@@ -33076,7 +32357,6 @@ cansoner=
         "titol": "Solamente en Cristo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 526
@@ -33102,7 +32382,6 @@ cansoner=
         "titol": "Vive en mi oh Espiritu de Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 527
@@ -33135,7 +32414,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 528
@@ -33191,7 +32469,6 @@ cansoner=
         "titol": "Cristificame / Transforma mi mente, mis pensamientos",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 529
@@ -33231,7 +32508,6 @@ cansoner=
         "titol": "Yo celebrare",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 530
@@ -33259,7 +32535,6 @@ cansoner=
         "titol": "Jo celebrare",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 530
@@ -33287,7 +32562,6 @@ cansoner=
         "titol": "Vengo a ti Señor. Cambiame",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 536
@@ -33341,7 +32615,6 @@ cansoner=
         "titol": "Ven, es hora de adorarle",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 534
@@ -33384,7 +32657,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 235
@@ -33453,7 +32725,6 @@ cansoner=
         "titol": "cuánto he esperado este momento",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 235
@@ -33516,7 +32787,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 531
@@ -33606,7 +32876,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 532
@@ -33645,7 +32914,6 @@ cansoner=
         "titol": "Alzad las manos y dadle la golria a Dios",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 533
@@ -33696,7 +32964,6 @@ cansoner=
         "titol": "Si hubiera estado allí",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 535
@@ -33761,7 +33028,6 @@ cansoner=
         "titol": "Pan de vida",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 538
@@ -33811,7 +33077,6 @@ cansoner=
         "titol": "TE ALABO. Autor: Martín Valverde",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 539
@@ -33866,7 +33131,6 @@ cansoner=
         "titol": "DIOS ES AMOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 540
@@ -33907,7 +33171,6 @@ cansoner=
         "titol": "MI ALMA ALABA AL SEÑOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 541
@@ -33942,7 +33205,6 @@ cansoner=
         "titol": "TU FE TE HA SALVADO. Autor: Miguel y Cristina Íñiguez",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 542
@@ -34008,7 +33270,6 @@ cansoner=
         "titol": "ES JESÚS",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 543
@@ -34070,7 +33331,6 @@ cansoner=
         "titol": "GLORIA! LA IGLESIA CANTA - Himno Roma 2014",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 544
@@ -34123,7 +33383,6 @@ cansoner=
         "titol": "OH, ESPÍRITU SANTO DIOS (Caiga…) - Josep Asunción (Betania)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 545
@@ -34161,7 +33420,6 @@ cansoner=
         "titol": "ACLAMAD AL SEÑOR [Salmo 33 (32)] - Lori Black",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 547
@@ -34200,7 +33458,6 @@ cansoner=
         "titol": "QUE MI BOCA CANTE TU ALABANZA - F. Deboeuf (Comunidad Emmanuel)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 546
@@ -34269,7 +33526,6 @@ cansoner=
         "titol": "A TI CANTAMOS, CRISTO REY- Rinnovamento nello",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 548
@@ -34315,7 +33571,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 549
@@ -34346,7 +33601,6 @@ cansoner=
         "titol": "UNA FORÇA ESTIC NOTANT",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 549
@@ -34378,7 +33632,6 @@ cansoner=
         "titol": "FIEL - Miguel Horacio",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 550
@@ -34406,7 +33659,6 @@ cansoner=
         "titol": "AL ESTAR ANTE TI - Jesús Adrián Romero & Alejandro del Bosque",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 552
@@ -34463,7 +33715,6 @@ cansoner=
         "titol": "HIMNO 2017. ENVIA FUEGO - Autor:“Ruhitos” (Ruah)",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 553
@@ -34532,7 +33783,6 @@ cansoner=
         "titol": "SOLO TU ESPÍRITU DA VIDA. Himno Asamblea 2018",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 554
@@ -34577,7 +33827,6 @@ cansoner=
         "titol": "VENGO AQUI MI SEÑOR   Brotes de Olivo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 556
@@ -34627,7 +33876,6 @@ cansoner=
         "titol": "SI NO TENGO AMOR    Brotes de Olivo",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 551
@@ -34649,7 +33897,6 @@ cansoner=
         "titol": "QUIERO ESCUCHAR TU DULCE VOZ   Marcos Witt",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 555
@@ -34680,7 +33927,6 @@ cansoner=
         "titol": "VULL ESCOLTAR LA TEVA VEU",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 555
@@ -34709,12 +33955,11 @@ cansoner=
         ]
       }
     },
-    "670": {
+    "697": {
       "ES": {
         "titol": "VEN SEÑOR JESÚS  Kairoi",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 557
@@ -34748,12 +33993,11 @@ cansoner=
         ]
       }
     },
-    "671": {
+    "701": {
       "ES": {
         "titol": "MADRE",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 561
@@ -34795,12 +34039,11 @@ cansoner=
         ]
       }
     },
-    "672": {
+    "698": {
       "ES": {
         "titol": "EL AMOR DE DIOS HA SIDO DERRAMADO",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 558
@@ -34823,7 +34066,6 @@ cansoner=
         "titol": "OH, AL·LELUIA; OH, AL·LELUIA",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 115
@@ -34844,7 +34086,6 @@ cansoner=
         "titol": "Jesús m’has salvat, Jo sóc fill de déu",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 234
@@ -34925,7 +34166,6 @@ cansoner=
         "titol": "TÚ ERES MI LUZ Y MI SALVACIÓN",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 524
@@ -35001,12 +34241,11 @@ cansoner=
         ]
       }
     },
-    "676": {
+    "699": {
       "ES": {
         "titol": "NO MERECIA TANTO AMOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 559
@@ -35039,7 +34278,6 @@ cansoner=
         "titol": "NO MEREIXIA TANT D’AMOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 559
@@ -35070,12 +34308,11 @@ cansoner=
         ]
       }
     },
-    "677": {
+    "700": {
       "ES": {
         "titol": "SU NOMBRE ES GRANDE",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 560
@@ -35102,7 +34339,6 @@ cansoner=
         "titol": "EL SEU NOM ES GRAN",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 560
@@ -35131,7 +34367,6 @@ cansoner=
         "titol": "VENGO ANTE TI, MI SEÑOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 563
@@ -35209,7 +34444,6 @@ cansoner=
         "titol": "VINC DAVANT TEU, OH SENYOR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 563
@@ -35266,12 +34500,11 @@ cansoner=
         ]
       }
     },
-    "679": {
+    "703": {
       "ES": {
         "titol": "PON TU MANO",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 564
@@ -35303,7 +34536,6 @@ cansoner=
         "titol": "TE VENGO A DECIR",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 565
@@ -35353,7 +34585,6 @@ cansoner=
         "titol": "NO HI HA UN ALTRE DÉU COM TU",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 236
@@ -35373,7 +34604,6 @@ cansoner=
         "titol": "No hay nadie como tú, Señor",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 236
@@ -35411,7 +34641,6 @@ cansoner=
           }
         ],
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 237
@@ -35434,7 +34663,6 @@ cansoner=
         "titol": "VINE ESPERIT",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 239
@@ -35455,7 +34683,6 @@ cansoner=
         "titol": "BRAÇOS ALCEU",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 240
@@ -35478,7 +34705,6 @@ cansoner=
         "titol": "SOC AQUÍ SENYOR COM UN INFANT",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 241
@@ -35547,7 +34773,6 @@ cansoner=
         "titol": "NO HAY LUGAR MÁS ALTO",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 566
@@ -35611,7 +34836,6 @@ cansoner=
         "titol": "Quiero bendecir tu Nombre",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 567
@@ -35685,7 +34909,6 @@ cansoner=
         "titol": "Tu Senyor em dónes un nou cant",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 242
@@ -35722,7 +34945,6 @@ cansoner=
         "titol": "Mi mano esta llena",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 568
@@ -35768,7 +34990,6 @@ cansoner=
         "titol": "I tot el poble diu amén",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 243
@@ -35843,7 +35064,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 244
@@ -35873,7 +35093,6 @@ cansoner=
         "titol": "Aleluya",
         "audio": null,
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 244
@@ -35910,7 +35129,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 569
@@ -35938,7 +35156,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 570
@@ -36027,7 +35244,6 @@ cansoner=
         "titol": "No me callaré",
         "audio": null,
         "estat": null,
-        "preferida":  false,
         "cansoner": {
           "nom": "blau",
           "numero": 448
@@ -36116,7 +35332,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 571
@@ -36160,7 +35375,6 @@ cansoner=
           }
         ],
         "estat": "nova",
-        "preferida":  false,
         "cansoner": {
           "nom": "vermell",
           "numero": 572
@@ -36347,7 +35561,7 @@ cansoner=
     },
     "670": {
       "ES": {
-        "titol": "El corazón de Dios",
+        "titol": "El corazón de Dios (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36369,7 +35583,7 @@ cansoner=
     },
     "671": {
       "ES": {
-        "titol": "Tú, Señor",
+        "titol": "Tú, Señor (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36406,7 +35620,7 @@ cansoner=
     },
     "672": {
       "ES": {
-        "titol": "Jesús, Señor",
+        "titol": "Jesús, Señor (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36444,9 +35658,9 @@ cansoner=
         ]
       }
     },
-    "673": {
+    "706": {
       "ES": {
-        "titol": "Cómo puedes no creer",
+        "titol": "Cómo puedes no creer (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36496,9 +35710,9 @@ cansoner=
         ]
       }
     },
-    "674": {
+    "705": {
       "ES": {
-        "titol": "Me levantas",
+        "titol": "Me levantas (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36537,9 +35751,9 @@ cansoner=
         ]
       }
     },
-    "675": {
+    "704": {
       "ES": {
-        "titol": "Eres amor",
+        "titol": "Eres amor (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36568,7 +35782,7 @@ cansoner=
     },
     "676": {
       "ES": {
-        "titol": "Cuando te miro",
+        "titol": "Cuando te miro (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36615,7 +35829,7 @@ cansoner=
     },
     "677": {
       "ES": {
-        "titol": "Madre de Dios",
+        "titol": "Madre de Dios (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36655,9 +35869,9 @@ cansoner=
         ]
       }
     },
-    "678": {
+    "702": {
       "ES": {
-        "titol": "Tu Majestad",
+        "titol": "Tu Majestad (Lili Zaidín)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
@@ -36687,7 +35901,7 @@ cansoner=
     },
     "679": {
       "ES": {
-        "titol": "Ven Espíritu de Dios sobre mí",
+        "titol": "Ven Espíritu de Dios sobre mí (Kairoi)",
         "audio": null,
         "estat": "nova",
         "cansoner": {
