@@ -1,5 +1,6 @@
 cansoner= 
   // nou id: 707
+  // ids lliures: 461
 
   {
     "1": {
@@ -954,7 +955,36 @@ cansoner=
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "Tots els servents de Deu",
+        "audio": null,
+        "estat": null,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 15
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Tots els servents de Déu",
+              "lloeu el sant Nom del Senyor,",
+              "tots els qui sou al temple del Senyor",
+              "mentre va passant la nit. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Au, aixequeu les mans, lloeu tots el vostre Déu.",
+              "Sigui el Senyor lloat des de Sió,",
+              "Ell creador de l’univers."
+            ]
+          }
+        ]
       }
+
     },
     "18": {
       "ES": {
@@ -5696,31 +5726,68 @@ cansoner=
         },
         "lletra": [
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Hasta los confines de la tierra",
               "anunciaremos tu nombre Señor",
               "proclamaremos la buena nueva",
-              "testigos somos tú vives hoy.",
-              "• Mira te llamo por tu nombre,",
+              "testigos somos tú vives hoy. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Mira te llamo por tu nombre,",
               "yo te he elegido escúchame",
               "quiero que lleves mi Palabra,",
               "no tengas miedo, sígueme."
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hasta los confines de la tierra",
+              "anunciaremos tu nombre Señor",
+              "proclamaremos la buena nueva",
+              "testigos somos tú vives hoy. (2)"
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
-              "• Sé sal y luz que",
+              "Sé sal y luz que",
               "alumbre a todos,",
               "camino para el que no ve",
               "fuente para el que",
               "está sediento,",
-              "mi Espíritu derramaré.",
-              "• Y si te olvidas de ti mismo,",
+              "mi Espíritu derramaré."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hasta los confines de la tierra",
+              "anunciaremos tu nombre Señor",
+              "proclamaremos la buena nueva",
+              "testigos somos tú vives hoy. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y si te olvidas de ti mismo,",
               "dando tu vida a los demás",
               "te envío como mensajero,",
               "mi Amor se manifestará"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hasta los confines de la tierra",
+              "anunciaremos tu nombre Señor",
+              "proclamaremos la buena nueva",
+              "testigos somos tú vives hoy. (2)"
             ]
           }
         ]
@@ -6553,14 +6620,58 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Hoy el Señor me llamó",
-              "y mi nombre pronunció (3)",
-              "• Toma la mano del Señor",
+              "y mi nombre pronunció. (3)",
+              "Tomo la mano del Señor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Él me guía a la salvación",
-              "y a la resurrección.",
-              "• Hoy el Señor te llamó …",
-              "• Hoy el Señor nos llamó …",
-              "• Por el amor vamos",
-              "ya a la casa del Señor …"
+              "y a la resurrección."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Hoy el Señor te llamó",
+              "y tu nombre pronunció. (3)",
+              "Toma la mano del Señor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Él te guía a la salvación",
+              "y a la resurrección."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Hoy el Señor nos llamó",
+              "y nuestros nombres pronunció. (3)",
+              "Toma la mano del Señor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Él nos guía a la salvación",
+              "y a la resurrección."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Por el amor vamos",
+              "ya a la casa del Señor. (3)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Toma la mano del Señor (2)"
             ]
           }
         ]
@@ -7393,6 +7504,11 @@ cansoner=
               "Lloa el Senyor ànima meva",
               "amb tot el cor.",
               "Lloa el Senyor  (3) ànima meva.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Magnificat  (3) anima mea Dominum.",
               "Magnificat  (3) anima mea."
             ]
@@ -20959,6 +21075,30 @@ cansoner=
               "la Creació et canta",
               "Majestat, sempre lloat! "
             ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Des dels límits del món,",
+              "des del fons de la mar,",
+              "des de les grans altures,",
+              "t’exalçarem.",
+              "Des del pobre de cor,",
+              "des del crit del més fort,",
+              "de la veu del teu poble,",
+              "et lloarem, Senyor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Glorificat per sempre,",
+              "al llarg de tots els segles",
+              "Majestat!",
+              "Les nacions t’exalcen,",
+              "la Creació et canta",
+              "Majestat, sempre lloat! "
+            ]
           }
         ]
       }
@@ -22005,7 +22145,12 @@ cansoner=
               "la mort ha estat vençuda,",
               "del pecat ens ha salvat.",
               "Crist és viu per sempre!",
-              "Ell és viu, Ell és viu!",
+              "Ell és viu, Ell és viu!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "És el Rei de cel i terra,",
               "Ell és principi i fi,",
               "ha trencat les cadenes",
@@ -22018,17 +22163,27 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Al.leluia! Ha ressuscitat,",
-              "la mort ha estat vençuda,  ",
+              "la mort ha estat vençuda,",
               "del pecat ens ha salvat.",
               "Crist és viu per sempre!",
-              "Ell és viu, Ell és viu!",
+              "Ell és viu, Ell és viu!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "És el Rei de cel i terra,",
               "Ell és principi i fi,",
               "ha trencat les cadenes",
               "i el seu poble ha alliberat.",
               "Crist és viu per sempre!",
-              "Ell és viu, ell és viu!",
-              "Al.leluia, Jesucrist és viu (2)"
+              "Ell és viu, ell és viu!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al.leluia, Jesucrist és viu"
             ]
           }
         ]
@@ -22121,12 +22276,31 @@ cansoner=
               "Canteu al Senyor un càntic nou,",
               "a Ell que ha fet meravelles;",
               "ha triomfat amb la seva dreta,",
-              "amb el seu braç sagrat.",
-              "El Senyor es manifesta salvador, ",
+              "amb el seu braç sagrat."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Al·leluia, al·leluia",
+              "el Senyor és el nostre Rei. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "El Senyor es manifesta salvador,",
               "als ulls dels pobles es revela;",
-              "es recorda fidelment del seu amor ",
+              "es recorda fidelment del seu amor",
               "i la seva bondat",
               "envers la casa d'Israel."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Al·leluia, al·leluia",
+              "el Senyor és el nostre Rei. (2)"
             ]
           }
         ]
@@ -22442,24 +22616,21 @@ cansoner=
     },
     "461": {
       "CAT": {
-        "titol": "Tots els servents de Deu",
+        "titol": "Jo vull omplir el teu tron de lloança",
         "audio": null,
         "estat": null,
         "cansoner": {
           "nom": "vermell",
-          "numero": 15
+          "numero": "95"
         },
         "lletra": [
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Tots els servents de Déu ",
-              "lloeu el sant Nom del Senyor, ",
-              "tots els qui sou al temple del Senyor",
-              "mentre va passant la nit.              (2)",
-              "Au, aixequeu les mans, lloeu tots el vostre Déu. ",
-              "Sigui el Senyor lloat des de Sió,",
-              "Ell creador de l’univers."
+              "Jo vull omplir el teu tron de lloança,",
+              "Jo vull omplir el teu tron d'adoració.",
+              "Vull adorar, postrar-me davant teu,",
+              "i proclamar-te, Senyor."
             ]
           }
         ]
@@ -23198,7 +23369,6 @@ cansoner=
               "Atents amics en la nit del món. ",
               "Sentiu com neix una nova llum.",
               "Alcem-nos tots, el cor vigilant: ",
-              "mi-SI7-mi",
               "És el Crist que avui ens salva."
             ]
           },
@@ -23673,20 +23843,6 @@ cansoner=
             "paragraf": [
               "Canteu, enaltiu eternament el Senyor. (2)"
             ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "10. Vells amb tot el jovent...",
-              "Homes de Déu, sacerdots...",
-              "Tots els servents del Senyor..."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Canteu, enaltiu eternament el Senyor. (2)"
-            ]
           }
         ]
       }
@@ -24052,10 +24208,14 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "El Senyor et convida a seure a taula amb ell ",
-              "El Senyor et convida a seure a taula amb ell ",
+              "El Senyor et convida a seure a taula amb ell (2)",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Digues sí, digues sí, el seu cos és per a tu, ",
-              "i aquest vi, germà, que ompli el teu cor        (2)"
+              "i aquest vi, germà, que ompli el teu cor (2)"
             ]
           },
           {
@@ -24743,8 +24903,7 @@ cansoner=
             "paragraf": [
               "6. Jesús és teu el nostre cor ",
               "pel gran amor que ens has mostrat.",
-              "Roman dins nostre per sempre més. ",
-              "AL.LELUIA."
+              "Roman dins nostre per sempre més. AL.LELUIA.",
             ]
           },
           {
@@ -25225,7 +25384,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "1. Volem estimar-vos (2)",
+              "Volem estimar-vos (2)",
               "Senyor de la pau lai,lai. ",
               "Volem estimar-vos (2) ",
               "sota aquest cel blau lai, lai."
@@ -25245,7 +25404,10 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "2. I preguem alhora..."
+              "I preguem alhora (2)",
+              "Senyor de la pau lai,lai. ",
+              "I preguem alhora (2) ",
+              "sota aquest cel blau lai, lai."
             ]
           },
           {
@@ -25262,7 +25424,10 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "3. I avancem alhora..."
+              "I avancem alhora (2)",
+              "Senyor de la pau lai,lai. ",
+              "I avancem alhora (2)",
+              "sota aquest cel blau lai, lai."
             ]
           },
           {
@@ -25279,7 +25444,10 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "4. I cantem alhora..."
+              "I cantem alhora (2)",
+              "Senyor de la pau lai,lai. ",
+              "I cantem alhora (2)",
+              "sota aquest cel blau lai, lai."
             ]
           },
           {
@@ -29857,7 +30025,7 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Cantaré aquesta cançó",
-              "si ve ami la temptació.",
+              "si ve a mi la temptació.",
               "Quan no pugui més a tu vindré.",
               "Ets Jesús el meu suport."
             ]
@@ -30148,7 +30316,7 @@ cansoner=
             "paragraf": [
               "Beneiré el teu nom",
               "Amb el sol brillant sobre el meu cap",
-              "Quan tot sigui com tu has desitjat",
+              "Quan tot sigui com jo he desitjat",
               "Et beneiré."
             ]
           },
@@ -30579,22 +30747,27 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Esperit Sant, Esperit Sant, Oh Esperit Sant  vine a mi (3)"
+              "Esperit Sant, Esperit Sant, Oh Esperit Sant vine a mi (3)"
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Amb el teu poder, cremes el meu ser ",
-              "Per donar-me vida avui (2)",
+              "Amb el teu poder, cremes el meu ser",
+              "Per donar-me vida avui (4)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Oh…. (2)"
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(Oh,) Pren el meu cor Senyor. El meu Salvador, ",
-              "En Tu       confio  (3)"
+              "(Oh,) Pren el meu cor Senyor. El meu Salvador,",
+              "En Tu confio (2)"
             ]
           }
         ]
