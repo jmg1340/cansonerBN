@@ -1,6 +1,6 @@
 cansoner= 
   // nou id: 707
-  // ids lliures: 461
+  // ids lliures: 
 
   {
     "1": {
@@ -7571,13 +7571,28 @@ cansoner=
             "paragraf": [
               "Majestat, gloriosa Majestat, ",
               "a Jesús la glòria, honor i poder.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Majestat, regne i autoritat ",
               "són del Senyor, el Salvador. ",
               "Glòria al seu Nom.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Exalcem i proclamem el nom del Crist.",
               "Adorem, glorifiquem Jesús, nostre Rei.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Majestat, gloriosa Majestat; ",
-              "crucificat i ara exalçat,   és Rei de reis."
+              "crucificat i ara exalçat, és Rei de reis."
             ]
           }
         ]
@@ -8830,7 +8845,7 @@ cansoner=
         },
         "lletra": [
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Més de Tu i menys de mi,",
               "Oh Senyor, que sigui així,",
@@ -8847,9 +8862,11 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
-              "Més de Tu i menys de mi,..."
+              "Més de Tu i menys de mi,",
+              "Oh Senyor, que sigui així,",
+              "Més de Tu i menys de mi."
             ]
           }
         ]
@@ -8868,7 +8885,13 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Nada nos separará (2), nada nos separará del Amor de Dios"
+              "Nada nos separará (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Nada nos separará del Amor de Dios"
             ]
           }
         ]
@@ -8893,13 +8916,6 @@ cansoner=
               "Res no ens podrà separar  (2)",
               "Res no ens podrà separar  ",
               "de l’amor de Déu."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Nada nos separará (3)",
-              "del amor de Dios."
             ]
           }
         ]
@@ -9957,8 +9973,17 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Jesús, us adorem ... ",
-              "Esperit, us adorem"
+              "Jesús, us adorem;",
+              "sigui per Vós nostra vida, ",
+              "per Vós, nostre amor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Esperit, us adorem;",
+              "sigui per Vós nostra vida, ",
+              "per Vós, nostre amor."
             ]
           }
         ]
@@ -10881,33 +10906,31 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "¿Qué sería de mí",
-              "si no me hubieras alcanzado?",
-              "¿Dónde estaría hoy,",
-              "si no me hubieras perdonado?",
-              "",
+              "¿Qué sería de mí si no me hubieras alcanzado?",
+              "¿Dónde estaría hoy si no me hubieras perdonado?",
               "Tendría un vacío en mi corazón,",
               "vagaría sin rumbo, sin dirección.",
-              "Si no fuera por tu gracia",
-              "y por tu amor.",
-              "Si no fuera por tu gracia",
-              "y por tu amor."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Sería como un pájaro herido",
-              "Que se muere en el suelo.",
-              "Sería como un ciervo que brama",
-              "por agua en un desierto.",
-              "",
-              "Si no fuera por tu gracia",
-              "y por tu amor.",
-              "Si no fuera por tu gracia",
-              "y por tu amor."
+              "Si no fuera por tu gracia y por tu amor. (2)",
             ]
-          }
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Sería como un pájaro herido que se muere en el suelo.",
+              "Sería como un ciervo que brama por agua en un desierto.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Si no fuera por tu gracia y por tu amor. (2)",
+            ]
+          },
         ]
       },
       "CAT": {
@@ -10923,14 +10946,27 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Què seria de mi si no m’haguessis atrapat?",
-              "On seria avui    si no m’haguessis perdonat?",
+              "On seria avui si no m’haguessis perdonat?",
               "Tindria un buit en el meu cor",
               "Sense rumb vagaria, ni direcció.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Si no fos per la teva gràcia i amor. (x2)",
-              "Seria com una au que, ferida,",
-              "sobre terra fineix.",
-              "Seria com un cérvol que brama",
-              "per aigua en un desert.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Seria com una au que, ferida, sobre terra fineix.",
+              "Seria com un cérvol que brama per aigua en un desert.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Si no fos per la teva gràcia i amor. (x2)"
             ]
           }
@@ -11101,33 +11137,27 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(Homes)",
+              "(HOMES)",
               "Rei de reis i Senyor de Senyors. Al·leluia. (2)"
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(Dones)",
+              "(DONES)",
               "Jesús, príncep de la pau. Al·leluia. (2)"
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(D). Al·leluia, Al·leluia (2)"
+              "(DONES) Al·leluia, Al·leluia _____ (HOMES) Hei! ___ (2)"
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(H). Hei!"
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "(Tots)",
+              "(TOTS)",
               "Glòria a Déu Pare, ",
               "glòria a Déu Fill, ",
               "glòria a l’Esperit, ",
@@ -12170,7 +12200,28 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Jo lloo... Jo salto... Jo danso..."
+              "Quan l’Esperit de Déu es mou en mi",
+              "jo loo com el rei David. (2)",
+              "Jo loo, jo loo, jo loo",
+              "com el rei David.  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Quan l’Esperit de Déu es mou en mi",
+              "jo salto com el rei David. (2)",
+              "Jo salto, jo salto, jo salto",
+              "com el rei David.  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Quan l’Esperit de Déu es mou en mi",
+              "jo danso com el rei David. (2)",
+              "Jo danso, jo danso, jo danso",
+              "com el rei David.  (2)"
             ]
           }
         ]
@@ -26042,24 +26093,18 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Les mancances, ",
-              "ara, són gràcies",
-              "i el dolor ",
-              "tu el transformes en goig;",
-              "el meu odi no es odi ",
-              "amb el teu amor,",
+              "Les mancances, ara, són gràcies",
+              "i el dolor tu el transformes en goig;",
+              "el meu odi no es odi amb el teu amor,",
               "només pau resta en el meu cor."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Amb la fe has esvaït ",
-              "els meus dubtes,",
-              "el pecat has canviat ",
-              "amb perdó,",
-              "m’has donat nova vida ",
-              "amb la teva mort;",
+              "Amb la fe has esvaït els meus dubtes,",
+              "el pecat has canviat amb perdó,",
+              "m’has donat nova vida amb la teva mort;",
               "sols a tu et necessito, Senyor."
             ]
           },
@@ -26069,8 +26114,8 @@ cansoner=
               "Per la creu som hereus, i",
               "per la sang ",
               "hem estat salvats,",
-              "llibertat       ens has dat",
-              "i   ara     proclamem: ",
+              "llibertat ens has dat",
+              "i ara proclamem: ",
               "'el teu nom és gran'."
             ]
           }
@@ -26244,6 +26289,11 @@ cansoner=
               "era pobre i ja sóc ric",
               "per tot el que el Senyor ",
               "ha fet en mi.  (2)",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Lloa Déu.  (2)"
             ]
           }
@@ -27137,7 +27187,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "1-Quan jo sóc dèbil, em fas fort,",
+              "1. Quan jo sóc dèbil, em fas fort,",
               "ets per a mi el gran tresor,",
               "omples tot el meu cor.",
               "Com a una joia t’he cercat,",
@@ -27156,7 +27206,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "2-Ets l’alegria en la tristor,",
+              "2. Ets l’alegria en la tristor,",
               "ets la gran llum en la foscor,",
               "omples tot el meu cor.",
               "Has perdonat el meu pecat,",
@@ -27174,7 +27224,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "3-Quan jo sóc dèbil, em fas fort,",
+              "3. Quan jo sóc dèbil, em fas fort,",
               "ets per a mi el gran tresor,",
               "omples tot el meu cor.",
               "Com a una joia t’he cercat,",
@@ -27456,12 +27506,7 @@ cansoner=
               "2. Porto dins el cor el goig de l’Esperit ",
               "i canto pel meu Déu Salvador.",
               "Tinc el goig de l’Esperit ",
-              "i enalteixo el Senyor."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
+              "i enalteixo el Senyor.",
               "Car el seu perdó",
               "s’estén a tots els temps i pobles.",
               "Dóna l’Esperit",
@@ -27570,6 +27615,11 @@ cansoner=
             "paragraf": [
               "Que  n’és  de  bo  lloar-vos Senyor, ",
               "i cantar en honor vostre.           (2)",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Proclamar a trenc de dia ",
               "que sou tan benigne",
               "i que sou fidel al capvespre.    (2)"
@@ -29703,12 +29753,17 @@ cansoner=
         },
         "lletra": [
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Vull lloar el meu Senyor,",
               "vull lloar el meu Senyor,",
               "Vull lloar el seu sant nom,",
               "vull lloar el meu Senyor.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Ell m’ha estimat sens mida,",
               "m’ha rescatat del fang.",
               "Ell m’ha canviat la vida,",
@@ -30035,8 +30090,13 @@ cansoner=
             "paragraf": [
               "Senyor meu, et necessito,",
               "sempre et necessito.",
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
               "El meu ajut ets tu, Jesús,",
-              "Senyor et necessito.  (x2)"
+              "Senyor et necessito.  (2)"
             ]
           }
         ]
@@ -30998,13 +31058,10 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Què dolç és el teu Nom",
-              "Què dolç és el teu Nom",
+              "Què dolç és el teu Nom, què dolç és el teu Nom",
               "El teu Nom, Jesucrist Senyor",
-              "Què dolç és el teu Nom",
-              "Amb res no ho compararé",
-              "Què dolç és el teu Nom",
-              "El teu Sant Nom."
+              "Què dolç és el teu Nom, amb res no ho compararé",
+              "Què dolç és el teu Nom, el teu Sant Nom."
             ]
           },
           {
@@ -31019,15 +31076,11 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Quin nom més gran Jesús",
-              "Quin nom més gran Jesús",
+              "Quin nom més gran Jesús, quin nom més gran Jesús",
               "El teu Nom, Jesucrist Senyor",
-              "Quin nom mes gran Jesús",
-              "Amb res no ho compararé",
-              "Quin nom més gran Jesús",
-              "El teu Sant Nom.",
-              "Quin nom més gran Senyor",
-              "El teu Sant Nom."
+              "Quin nom mes gran Jesús, amb res no ho compararé",
+              "Quin nom més gran Jesús, el teu Sant Nom.",
+              "Quin nom més gran Senyor, el teu Sant Nom."
             ]
           },
           {
@@ -31046,13 +31099,10 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Quin nom més poderós",
-              "Quin nom més poderós",
+              "Quin nom més poderós, quin nom més poderós",
               "El teu Nom, Jesucrist Senyor",
-              "Quin nom més poderós",
-              "Amb res no ho compararé",
-              "Quin nom més poderós",
-              "El teu Sant nom"
+              "Quin nom més poderós, amb res no ho compararé",
+              "Quin nom més poderós, el teu Sant nom"
             ]
           },
           {
@@ -31067,17 +31117,12 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Quin nom més poderós",
-              "Quin nom més poderós",
+              "Quin nom més poderós, quin nom més poderós",
               "El teu Nom, Jesucrist Senyor",
-              "Qui nom més poderós",
-              "Amb res no ho compararé",
-              "Quin nom més poderós",
-              "El teu Sant nom",
-              "Quin nom més poderós           \t",
-              "El teu Sant nom",
-              "Quin nom més poderós           \t",
-              "El teu Sant nom"
+              "Qui nom més poderós, amb res no ho compararé",
+              "Quin nom més poderós, el teu Sant nom",
+              "Quin nom més poderós, el teu Sant nom",
+              "Quin nom més poderós, el teu Sant nom"
             ]
           }
         ]
@@ -31279,6 +31324,13 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Aleluya, aleluya (3)",
+              "el Señor resucitó.  "
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "2. El Señor                ",
@@ -31289,6 +31341,13 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Aleluya, aleluya (3)",
+              "el Señor resucitó.  "
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "3. Ahora tengo la esperanza",
@@ -31296,7 +31355,14 @@ cansoner=
               "que Cristo no me abandona. ",
               "Aleluya."
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Aleluya, aleluya (3)",
+              "el Señor resucitó.  "
+            ]
+          },
         ]
       }
     },
@@ -31323,10 +31389,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "1-Porque grande es su amor,",
-              "A – lé  - gra-te",
-              "Porque es grande su victoria,",
-              "Alégrate",
+              "1-Porque grande es su amor. Alégrate",
+              "Porque es grande su victoria, Alégrate",
               "Porque es tu Salvador y Rey",
               "A  - lé – gra - te"
             ]
@@ -31344,17 +31408,29 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "2-Porque se ha fijado en ti",
-              "Alégrate",
-              "Porque quiere ser tu amigo",
-              "Alégrate",
+              "2-Porque se ha fijado en ti, Alégrate",
+              "Porque quiere ser tu amigo, Alégrate",
               "Porque a tu puerta hoy está",
-              "3-Porque trae salvación",
-              "Alégrate",
-              "Porque ofrece su esperanza",
-              "Alégrate",
+              "A  - lé – gra - te"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alégrate salta de gozo",
+              "Abre tus puertas a Dios",
+              "Recíbelo con alegría",
+              "Es tu Salvador",
+              "Es tu Señor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "3-Porque trae salvación, Alégrate",
+              "Porque ofrece su esperanza, Alégrate",
               "Porque llenará de amor tu ser",
-              "Alégrate"
+              "A  - lé – gra - te"
             ]
           },
           {
@@ -31646,24 +31722,27 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Cristo tomó mi carga ",
-              "y la arrojó en el mar ,",
-              "y la arrojó en el mar  (2)."
+              "Cristo tomó mi carga y la arrojó en el mar ,",
+              "y la arrojó en el mar y la arrojó en el mar."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Cristo tomó mi carga",
-              "y la arrojó en el mar",
+              "Cristo tomó mi carga y la arrojó en el mar",
               "para nunca más recordar."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Y.... ahora estoy contento,",
+              "Y... ahora estoy contento,",
               "contento en el Señor (3).",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Y ahora estoy contento,",
               "contento en el Señor,",
               "para nunca más recordar."
@@ -31735,8 +31814,8 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Jo vull ser / més com tu",
-              "veure-ho tot / tal com tu",
+              "Jo vull ser més com tu",
+              "veure-ho tot tal com tu",
               "sadollar-me del teu Esperit",
               "reflectir al món l’amor.   (BIS)"
             ]
@@ -31883,8 +31962,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(M) La lluvia caía,",
-              "(H) el viento soplaba,  (3)",
+              "(MUJERES) La lluvia caía,",
+              "(HOMBRES) el viento soplaba,  (3)",
               "y la casa se derrumbaba."
             ]
           },
@@ -31898,8 +31977,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(M) La lluvia caía,",
-              "(H) el viento soplaba,  (3)",
+              "(MUJERES) La lluvia caía,",
+              "(HOMBRES) el viento soplaba,  (3)",
               "y  la  casa se mantenía."
             ]
           }
@@ -32094,10 +32173,24 @@ cansoner=
               "Yo te digo que si tú crees",
               "verás la gloria de Dios. (2)",
               "Verás la gloria de Dios (4).",
-              "Yo te digo que si tú amas...",
-              "Yo te digo que si tu alabas..."
             ]
-          }
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Yo te digo que si tú amas",
+              "verás la gloria de Dios. (2)",
+              "Verás la gloria de Dios (4).",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Yo te digo que si tú alabas",
+              "verás la gloria de Dios. (2)",
+              "Verás la gloria de Dios (4).",
+            ]
+          },
         ]
       }
     },
@@ -32168,7 +32261,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(Hombres)",
+              "(HOMBRES)",
               "Ofreced gloria y alabanza,",
               "gloria a Jesús, alabanza.",
               "Gloria, alabanza,",
@@ -32178,7 +32271,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(Mujeres)",
+              "(MUJERES)",
               "Glooo...oooria, ",
               "gloria a Jesús, alabanza. ",
               "Glo..oria, glo..oria, ",
@@ -32301,6 +32394,14 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Oh, Señor, oraremos y tu Espíritu vendrá,   ",
+              "soplará con nueva fuerza",
+              "nuestra vida cambiará."
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "2. Llevar la Palabra ",
@@ -32311,6 +32412,14 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Oh, Señor, oraremos y tu Espíritu vendrá,   ",
+              "soplará con nueva fuerza",
+              "nuestra vida cambiará."
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "3. No temáis porque ",
@@ -32318,7 +32427,15 @@ cansoner=
               "para abrir caminos y aprender a amar.",
               "Si hacéis esto cumplís mi voluntad."
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Oh, Señor, oraremos y tu Espíritu vendrá,   ",
+              "soplará con nueva fuerza",
+              "nuestra vida cambiará."
+            ]
+          },
         ]
       }
     },
@@ -32470,17 +32587,9 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Hay poder, poder,",
-              "sin igual poder",
-              "en Jesús que murió",
-              "y resucitó."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Hay poder, poder,",
-              "sin igual poder",
+              "Hay poder, poder, sin igual poder",
+              "en Jesús que murió y resucitó.",
+              "Hay poder, poder, sin igual poder",
               "en la sangre que Él vertió."
             ]
           },
@@ -32496,19 +32605,17 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Hay poder, poder,"
+              "Hay poder, poder, sin igual poder",
+              "en Jesús que murió y resucitó.",
+              "Hay poder, poder, sin igual poder",
+              "en la sangre que Él vertió."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
               "¿Quieres servir a tu Rey y Señor?",
-              "Tan sólo hay poder en mi Jesús."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
+              "Tan sólo hay poder en mi Jesús.",
               "Ven y ser salvo podrás en su amor.",
               "Tan sólo hay poder en Jesús"
             ]
@@ -32516,10 +32623,37 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Hay poder, poder,",
-              "Hay amor...",
-              "Hay perdón...",
-              "Hay salud..."
+              "Hay poder, poder, sin igual poder",
+              "en Jesús que murió y resucitó.",
+              "Hay poder, poder, sin igual poder",
+              "en la sangre que Él vertió."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hay amor, amor, sin igual amor",
+              "en Jesús que murió y resucitó.",
+              "Hay amor, amor, sin igual amor",
+              "en la sangre que Él vertió."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hay perdon, perdon, sin igual perdon",
+              "en Jesús que murió y resucitó.",
+              "Hay perdon, perdon, sin igual perdon",
+              "en la sangre que Él vertió."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hay salud, salud, sin igual salud",
+              "en Jesús que murió y resucitó.",
+              "Hay salud, salud, sin igual salud",
+              "en la sangre que Él vertió."
             ]
           }
         ]
@@ -32567,6 +32701,11 @@ cansoner=
               "Fluye en mí con tu fuerza, con tu amor,",
               "Que te pueda ver",
               "Obrando sobre mí con poder  (2)",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Con tus fuentes de agua eterna, purifícame.",
               "En tu fuego inextinguible, vivifícame.",
               "Yo no quiero sólo un toque",
@@ -32697,9 +32836,7 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Yo le alabaré",
-              "porque Él ha hecho ",
-              "grandes cosas.     (2)"
+              "Yo le alabaré porque Él ha hecho grandes cosas. (2)"
             ]
           },
         ]
@@ -33270,7 +33407,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Pues sólo a Ti te tengo, pues Tú eres mi heredad,",
               "te alabo, te alabo en verdad (2)"
