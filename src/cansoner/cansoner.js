@@ -6150,15 +6150,6 @@ cansoner=
               "On hi hagi ofensa, que hi porti el perdó.",
               "On la discòrdia, que jo hi porti unió."
             ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Feu de mi un instrument de pau!",
-              "On hi hagi dubte, que hi porti la fe.",
-              "On hi hagi error, que jo porti veritat;",
-              "esperança i llum en la foscor."
-            ]
           }
         ]
       }
@@ -26204,10 +26195,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "1. Lloança i glòria al teu nom.",
-              "Al·leluia Al·leluia.",
-              "Senyor, Déu de l’univers.",
-              "Al·leluia Al·leluia."
+              "1. Lloança i glòria al teu nom. Al·leluia Al·leluia.",
+              "Senyor, Déu de l’univers. Al·leluia Al·leluia."
             ]
           },
           {
@@ -26219,8 +26208,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "2. Veniu, cantem al Senyor... ",
-              "el nostre Déu creador..."
+              "2. Veniu, cantem al Senyor. Al·leluia Al·leluia. ",
+              "el nostre Déu creador. Al·leluia Al·leluia."
             ]
           },
           {
@@ -26232,8 +26221,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "3. Prodigis són els seus fets... ",
-              "el seu amor és etern..."
+              "3. Prodigis són els seus fets. Al·leluia Al·leluia. ",
+              "el seu amor és etern. Al·leluia Al·leluia."
             ]
           },
           {
@@ -26245,8 +26234,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "4. Jo vull cantar pel meu Déu... ",
-              "durant els jorns que viuré..."
+              "4. Jo vull cantar pel meu Déu. Al·leluia Al·leluia. ",
+              "durant els jorns que viuré. Al·leluia Al·leluia."
             ]
           },
           {
@@ -27155,10 +27144,28 @@ cansoner=
               "Per tota la terra hi ha una gran revelació ",
               "de la glòria del Senyor, ",
               "tal com les aigües omplen el mar.",
-              "Molt, molt dintre meu .... ",
-              "Per tota l’Església..."
             ]
-          }
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Molt, molt dintre meu l’Esperit de Déu es mou, ",
+              "Molt, molt dintre meu tal com Joel profetitzà. ",
+              "Molt, molt dintre meu hi ha una gran revelació ",
+              "de la glòria del Senyor, ",
+              "tal com les aigües omplen el mar.",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Per tota l’Església l’Esperit de Déu es mou, ",
+              "Per tota l’Església tal com Joel profetitzà. ",
+              "Per tota l’Església hi ha una gran revelació ",
+              "de la glòria del Senyor, ",
+              "tal com les aigües omplen el mar.",
+            ]
+          },
         ]
       }
     },
@@ -29629,8 +29636,8 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Sigues com la dona que va tocar,",
-              "la vora del vesti-it de Jesús,",
-              "grà-ci-a en va sortir i es va cura-ar,",
+              "la vora del vestit de Jesús,",
+              "gràcia en va sortir i es va curar,",
               "i si la toques tu et guariràs."
             ]
           },
@@ -31019,7 +31026,7 @@ cansoner=
               "Digne de lloar, Senyor.",
               "Gloria i majestat a Tu,",
               "Rei de la creació, per sempre.",
-              "Amé……n "
+              "Amén "
             ]
           },
           {
@@ -32236,8 +32243,16 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Tan sólo he venido a estar contigo, ......",
+              "Tan sólo he venido a estar contigo,",
+              "a ser tu amigo,",
+              "a compartir con mi Dios,",
+              "a adorarte y darte gracias, por siempre gracias",
               "por lo que has hecho, Señor.",
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
               "He venido a estar contigo, ",
               "a ser tu amigo, a compartir con mi Dios, ",
               "a adorarte y darte gracias, por siempre gracias",
@@ -32883,12 +32898,12 @@ cansoner=
               "Vengo a ti, Señor, ¡cámbiame, renuévame!",
               "por la gracia que encontré en ti.",
               "Ahora sé que las debilidades que hay en mí",
-              "se desvanecerán           ",
+              "se desvanecerán ",
               "por el poder de tu amor."
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Cúbreme con tu amor, rodéame;",
               "tómame, cerca quiero estar,",
@@ -32907,14 +32922,20 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Cúbreme con tu amor, rodéame;",
               "tómame, cerca quiero estar,",
               "y al despertar, nuevas fuerzas yo tendré,",
               "y me levantaré como las águilas",
               "por el poder de tu amor.",
-              "FINAL:  Y me levantaré … (3 veces)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "y me levantaré como las águilas",
+              "por el poder de tu amor. (3)",
             ]
           }
         ]
@@ -32942,18 +32963,27 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "(FINAL: ¡Ven! ¡Ven! ¡Ven!)"
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
               "Toda lengua confesará que eres Dios",
               "las rodillas se doblarán.",
               "Y un tesoro eterno tendrás en Él",
               "si escoges su amor.           (2)"
             ]
-          }
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Ven, es hora de adorarle;",
+              "ven, abre tu corazón a Él.",
+              "Ven, ante su trono estamos",
+              "ven, ante la majestad de Dios. ¡Ven!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¡Ven! ¡Ven! ¡Ven!)"
+            ]
+          },
         ]
       }
     },
@@ -33142,7 +33172,7 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Gloria a Dios,    Aleluya, ",
+              "Gloria a Dios, Aleluya, ",
               "vamos cantando que la victoria es suya.   (2)"
             ]
           },
@@ -33156,7 +33186,8 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Gloria a Dios…"
+              "Gloria a Dios, Aleluya, ",
+              "vamos cantando que la victoria es suya.   (2)"
             ]
           },
           {
@@ -33169,10 +33200,19 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Gloria a Dios…",
-              "Pa’arriba, pa’arriba…"
+              "Gloria a Dios, Aleluya, ",
+              "vamos cantando que la victoria es suya.   (2)"
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Pa’ arriba, pa’ arriba, pa’ arriba",
+              "y no pa’abajo.",
+              "Subiendo, subiendo, subiendo",
+              "y no bajando. (2)"
+            ]
+          },
         ]
       }
     },
@@ -33292,7 +33332,6 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "CORO:",
               "Pensándolo más bien también yo estaba allí",
               "yo fui el que te escupió y tu costado hirió",
               "Pensándolo más bien yo fui el que coronó",
@@ -33313,7 +33352,6 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "CORO:",
               "Pensándolo más bien también yo estaba allí",
               "yo fui el que te escupió y tu costado hirió",
               "Pensándolo más bien yo fui el que coronó",
@@ -33682,9 +33720,12 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Aleluya…"
+              "Aleluya, aleluya, aquí estamos para ti, ",
+              "nuestro Dios y nuestro Rey. ",
+              "Aleluya, aleluya cantamos, anunciando ",
+              "al mundo que Jesús, Jesús, es Señor. "
             ]
-          }
+          },
         ]
       }
     },
@@ -33776,58 +33817,71 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "De ti, Señor, nuestra vida nació. "
+              "De ti, Señor, nuestra vida nació. ** Que mi boca cante tu alabanza.",
+              "Tú eres mi apoyo y refugio, Señor. ** Que mi boca cante tu alabanza.",
+              "En ti se alegra y canta mi ser. ** Que mi boca cante tu alabanza.",
+              "Mi confianza está en tu bondad. ** Que mi boca cante tu alabanza."
             ]
           },
           {
             "tipus": "tornada",
             "paragraf": [
-              "Que mi boca cante tu alabanza. "
+              "Te alabamos hoy, por tu poder. Te alabamos por tu ",
+              "bondad. Gloria a Ti, Señor, Tú, vencedor. ",
+              "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Tú eres mi apoyo y refugio, Señor. Que mi boca… ",
-              "En ti se alegra y canta mi ser. Que mi boca… ",
-              "Mi confianza está en tu bondad. Que mi boca… "
+              "En nuestras noches Tú eres la luz. ** Que mi boca cante tu alabanza.",
+              "En nuestro andar brillas con claridad. ** Que mi boca cante tu alabanza.",
+              "En nuestras pruebas la fuerza nos das. ** Que mi boca cante tu alabanza.",
+              "Tú, en el combate, la roca y la paz. ** Que mi boca cante tu alabanza."
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Te alabamos hoy, por tu poder. Te alabamos por tu ",
               "bondad. Gloria a Ti, Señor, Tú, vencedor. ",
-              "Que me inunde tu gran amor. Que mi boca… "
+              "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "En nuestras noches Tú eres la luz. Que mi boca… ",
-              "En nuestro andar brillas con claridad. ",
-              "En nuestras pruebas la fuerza nos das. ",
-              "Tú, en el combate, la roca y la paz. "
+              "A los perdidos viniste a salvar. ** Que mi boca cante tu alabanza.",
+              "Su corazón quieres Tú transformar. ** Que mi boca cante tu alabanza.",
+              "En sus angustias clamaron a Ti. ** Que mi boca cante tu alabanza.",
+              "Has escuchado su voz, oh Señor. ** Que mi boca cante tu alabanza."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Te alabamos hoy, por tu poder. Te alabamos por tu ",
+              "bondad. Gloria a Ti, Señor, Tú, vencedor. ",
+              "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "A los perdidos viniste a salvar. ",
-              "Su corazón quieres Tú transformar. ",
-              "En sus angustias clamaron a Ti. ",
-              "Has escuchado su voz, oh Señor. "
+              "Del enemigo me has hecho vencer. ** Que mi boca cante tu alabanza.",
+              "Del agresor Tú me has hecho triunfar. ** Que mi boca cante tu alabanza.",
+              "Gracias Señor, esta es mi oración. ** Que mi boca cante tu alabanza.",
+              "Siempre tu Nombre yo bendeciré. ** Que mi boca cante tu alabanza."
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
-              "Del enemigo me has hecho vencer. ",
-              "Del agresor Tú me has hecho triunfar. ",
-              "Gracias Señor, esta es mi oración. ",
-              "Siempre tu Nombre yo bendeciré."
+              "Te alabamos hoy, por tu poder. Te alabamos por tu ",
+              "bondad. Gloria a Ti, Señor, Tú, vencedor. ",
+              "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza."
             ]
-          }
+          },
         ]
       }
     },
@@ -33950,15 +34004,23 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Fiel, Fiel es Él,             para cumplir lo que Él prometió (2) ",
+              "Fiel, Fiel es Él, para cumplir lo que Él prometió (2) ",
               "Sus palabras firmes son no te dejes enga- ……. ñar ",
-              "mi Dios  es fiel,        siempre fiel. "
+              "mi Dios  es fiel, siempre fiel. "
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "[Fiel siempre fiel.] (2 veces y subir a MI) "
+              "Fiel, Fiel es Él, para cumplir lo que Él prometió (2) ",
+              "Sus palabras firmes son no te dejes enga- ……. ñar ",
+              "mi Dios  es fiel, siempre fiel. "
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Fiel, siempre fiel. "
             ]
           }
         ]
@@ -33984,7 +34046,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Digno es el Cordero de Dios,",
               "el que fue inmolado en la cruz,",
@@ -34005,7 +34067,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Digno es el Cordero de Dios,",
               "el que fue inmolado en la cruz,",
@@ -34060,7 +34122,10 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Envía fuego a este lugar,… "
+              "Envía fuego a este lugar, ",
+              "Prende esta tierra una vez más. ",
+              "Danos tu Espíritu Señor, ",
+              "¡Que brille tu fuego! (2)"
             ]
           },
           {
@@ -34075,7 +34140,10 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
-              "Envía fuego a este lugar, prende... (2) "
+              "Envía fuego a este lugar, ",
+              "Prende esta tierra una vez más. ",
+              "Danos tu Espíritu Señor, ",
+              "¡Que brille tu fuego! (2)"
             ]
           },
           {
@@ -34114,11 +34182,25 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sólo tu Espíritu da vida, tu Espíritu da vida.",
+              "Sólo tu Espíritu da vida, Señor. (x2)"
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "El que nos une es Jesús, es Jesús.",
               "Pan de vida, es Jesús, es Jesús Resucitado.",
               "¡Vive en mí, vive en mí!"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sólo tu Espíritu da vida, tu Espíritu da vida.",
+              "Sólo tu Espíritu da vida, Señor. (x2)"
             ]
           },
           {
@@ -34128,7 +34210,14 @@ cansoner=
               "Hazme Valiente, mi Señor, mi Señor guíame siempre.",
               "¡Guíame, guíame!"
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sólo tu Espíritu da vida, tu Espíritu da vida.",
+              "Sólo tu Espíritu da vida, Señor. (x2)"
+            ]
+          },
         ]
       }
     },
@@ -34292,6 +34381,13 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "VEN, SEÑOR JESÚS, ¡VEN Y SÁLVANOS!",
+              "VEN, SEÑOR JESÚS, VEN, DANOS TU AMOR."
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "2. Ven, Señor Jesús, y conocerán",
@@ -34299,7 +34395,14 @@ cansoner=
               "Tráenos tu paz, tú esperanza y nada más,",
               "Que nos ayude a labrar tu camino y libertad."
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "VEN, SEÑOR JESÚS, ¡VEN Y SÁLVANOS!",
+              "VEN, SEÑOR JESÚS, VEN, DANOS TU AMOR."
+            ]
+          },
         ]
       }
     },
@@ -34572,7 +34675,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Déjame hoy besar,",
               "Las heridas de tus manos y tus pies,",
@@ -34594,7 +34697,7 @@ cansoner=
         },
         "lletra": [
           {
-            "tipus": "tornada",
+            "tipus": "estrofa",
             "paragraf": [
               "En el teu gran amor,  et vas posar al meu lloc,",
               "portant a sobre teu, tots els meus pecats",
@@ -34637,12 +34740,6 @@ cansoner=
               "De reyes Príncipe, el fuerte Dios."
             ]
           },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Su nombre es grande..."
-            ]
-          }
         ]
       },
       "CAT": {
@@ -34663,12 +34760,6 @@ cansoner=
               "el Crist que ens salva, Déu immortal."
             ]
           },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "El seu nom és gran..."
-            ]
-          }
         ]
       }
     },
@@ -34696,7 +34787,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Que tu Espíritu, Señor,",
               "abrase todo mi ser.",
@@ -34718,7 +34809,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Que tu Espíritu, Señor,",
               "abrase todo mi ser.",
@@ -34740,7 +34831,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Que tu Espíritu, Señor,",
               "abrase todo mi ser.",
@@ -34760,7 +34851,7 @@ cansoner=
         },
         "lletra": [
           {
-            "tipus": "tornada",
+            "tipus": "estrofa",
             "paragraf": [
               "Vinc davant teu, oh Senyor,",
               "aclaparat per la culpa,",
@@ -34782,7 +34873,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "tornada",
+            "tipus": "estrofa",
             "paragraf": [
               "A les mans teves, Senyor,",
               "reconec com sóc de dèbil,",
@@ -34797,6 +34888,15 @@ cansoner=
           {
             "tipus": "tornada",
             "paragraf": [
+              "Que el teu Esperit, Senyor,",
+              "abrasi tot el meu ser.",
+              "Fes-me dòcil a ta veu,",
+              "transforma la meva vida."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
               "Gràcies perquè ja ho fas:",
               "la teva pau m'allibera",
               "perquè / aculls l'oració ",
@@ -34806,7 +34906,16 @@ cansoner=
               "El teu Amor canto i lloo,",
               "perquè cures el malalt."
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que el teu Esperit, Senyor,",
+              "abrasi tot el meu ser.",
+              "Fes-me dòcil a ta veu,",
+              "transforma la meva vida."
+            ]
+          },
         ]
       }
     },
@@ -34861,7 +34970,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Te vengo a decir",
               "Te vengo a decir toda la verdad",
@@ -34879,7 +34988,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Te vengo a decir",
               "Te vengo a decir toda la verdad",
