@@ -15077,7 +15077,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Vine i descansa en mi",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=17mTmjO2-SmbfVpFvS0EHOvqgln3O3VZF",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -16212,7 +16217,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Soc testimoni del poder de Deu",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1-yeUiGdfpgFXPCLWbu1nK3sVw-cAIQPx",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -21358,10 +21368,19 @@ cansoner=
         },
         "lletra": [
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "Haz llover, haz llover,",
+              "abre las puertas de cielo."
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
-              "Haz llover, haz llover, ",
-              "abre las puertas de cielo.  "
+              "Haz llover... Señor Jesús",
+              "Derrama lluvia en este lugar.",
+              "Ven con tu Espíritu Señor Jesús",
+              "a inundar... mi corazón."
             ]
           }
         ]
@@ -30804,7 +30823,12 @@ cansoner=
     "607": {
       "CAT": {
         "titol": "ESPERIT SANT, SANT ESPERIT – Chris Tomlin",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -34497,7 +34521,12 @@ cansoner=
     "674": {
       "CAT": {
         "titol": "Jesús m’has salvat, Jo sóc fill de déu",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1SUs690L3g5aOpaPP1BtlO2eDrncezbw2",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
