@@ -691,7 +691,12 @@ cansoner=
     "12": {
       "ES": {
         "titol": "Ante ti venimos Abba Padre",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1GrDruGqs3Ly644ZA1cqM0pxhTD2s4i9G",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -14535,7 +14540,12 @@ cansoner=
     "309": {
       "ES": {
         "titol": "Ven y déjate llevar por su Espíritu",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1BsS3TfMP4dA4E_Lz6fgq__P6luTWB4GH",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -15134,7 +15144,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Vine Pare, do de Vida",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1uwPt0buN8aWijDZ866FqrYpeUsVideB_",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -20227,7 +20242,12 @@ cansoner=
     "413": {
       "ES": {
         "titol": "Toma mi vida",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1_KYXf7YY_2h0vn2pOkWtWjEzaN9XtGp8",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -20351,7 +20371,12 @@ cansoner=
     "417": {
       "ES": {
         "titol": "Jesús, tengo sed",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10y4vDwQf0E9NiZILEAw8NWiqiABiaUBH",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -20381,7 +20406,7 @@ cansoner=
             "paragraf": [
               "Y de mí manarán manantiales,",
               "de mí manarán manantiales,",
-              "de mí manarán nianaiitiales",
+              "de mí manarán manantiales",
               "de amor a ti.    (2)"
             ]
           }
@@ -22597,11 +22622,13 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Cos de Jesús lliurat per mi.",
-              "Cos de Jesús lliurat per mi.",
-              "Cos de Jesús lliurat per mi.",
-              "Cos de Jesús lliurat per mi.",
-              "Sang que Jesús vessà per mi. (4)"
+              "Cos de Jesús lliurat per a mi. (4)",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Sang que Jesús vessà per a mi. (4)"
             ]
           }
         ]
@@ -30751,7 +30778,12 @@ cansoner=
     "606": {
       "CAT": {
         "titol": "EM RENDEIXO  (Hillsong - Traducció BN)",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -31785,7 +31817,12 @@ cansoner=
     "621": {
       "ES": {
         "titol": "De gloria en gloria te veo",
-        "audio": null,
+        "audio": [
+          {         
+            "src": "https://docs.google.com/uc?export=&id=10wZoPL8kGj9EeclY4OnKFSP0aQy_M-zs",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -34583,7 +34620,7 @@ cansoner=
               "jo sóc qui Tu dius que sóc.",
               "Tu m’animes, ",
               "no m’oblides,",
-              "o sóc qui Tu dius que sóc.       (x2)",
+              "jo sóc qui Tu dius que sóc.       (x2)",
               "jo sóc qui Tu dius que sóc"
             ]
           },
