@@ -15545,7 +15545,7 @@ cansoner=
             "paragraf": [
               "Estimaré el Senyor",
               "amb tot el meu cor,",
-              "i celebraré la seva Glòria, ",
+              "i celebraré les seves obres, ",
               "cantaré el seu Nom."
             ]
           },
@@ -22271,6 +22271,33 @@ cansoner=
             "paragraf": [
               "Al.leluia, Jesucrist és viu"
             ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al.leluia! Ha ressuscitat,",
+              "la mort ha estat vençuda,",
+              "del pecat ens ha salvat.",
+              "Crist és viu per sempre!",
+              "Ell és viu, Ell és viu!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "És el Rei de cel i terra,",
+              "Ell és principi i fi,",
+              "ha trencat les cadenes",
+              "i el seu poble ha alliberat.",
+              "Crist és viu per sempre!",
+              "Ell és viu, ell és viu!"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al.leluia, Jesucrist és viu"
+            ]
           }
         ]
       }
@@ -24125,10 +24152,24 @@ cansoner=
             ]
           },
           {
+            "tipus": "tornada",
+            "paragraf": [
+              "El nostre Déu ens ha donat",
+              "el goig de viure i d’estimar.  (2)"
+            ]
+          },
+          {
             "tipus": "estrofa",
             "paragraf": [
               "Jesucrist viu ressuscitat,",
               "sempre ens espera, al·leluia."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "El nostre Déu ens ha donat",
+              "el goig de viure i d’estimar.  (2)"
             ]
           }
         ]
