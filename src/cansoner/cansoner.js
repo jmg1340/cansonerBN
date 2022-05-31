@@ -20520,7 +20520,12 @@ cansoner=
       },
       "CAT": {
         "titol": "LLOAT  SIGUI EL SENYOR TOTPODERÓS",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1F4Ak1fv9I0fQ--mPxz0zBjVmNDhXBBl_",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -22111,7 +22116,12 @@ cansoner=
     "451": {
       "CAT": {
         "titol": "Al·leluia (Crist morí i es viu per sempre)",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1-uyEYQ3Ri8xBTTfpCEVWtrHmp_MAl1CM",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -25147,7 +25157,12 @@ cansoner=
     "500": {
       "CAT": {
         "titol": "Flama de Deu, flama d'amor",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1sIRDGshpJXF4kWvsa86etJJq7OqUCtdu",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -25725,7 +25740,7 @@ cansoner=
               "per dir a tothom clarament ",
               "que el Regne ja és aquí",
               "i  que  un  desig  immens els omplirà de goig.",
-              "Jo vull cridar..."
+              "Jo vull cridar, cridar la veritat."
             ]
           },
           {
@@ -25744,7 +25759,7 @@ cansoner=
               "Teníem fam, fam i set, Ell ens ha sadollat.",
               "Aquells qui no creuran, ",
               "que sentin aquest clam. ",
-              "Jo vull cridar..."
+              "Jo vull cridar, cridar la veritat."
             ]
           },
           {
@@ -30008,7 +30023,12 @@ cansoner=
     "593": {
       "CAT": {
         "titol": "Agnus Dei",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1HSQ_sME8j5kCYdxAmjBNlYKJWXVNmP8K",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -30686,7 +30706,12 @@ cansoner=
     "604": {
       "CAT": {
         "titol": "OBRE ELS MEUS ULLS (Michael W. Smith – traducció BN)",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1sMoiXaKOKX4WmSdBaw9n_uBzNwcUkf1A",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -31333,7 +31358,12 @@ cansoner=
     "614": {
       "ES": {
         "titol": "Anoche Cristo vino a mi",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=17r1uDcD6Hqaov4FVFjrFC4VACR7GXiq6",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
