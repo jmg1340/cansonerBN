@@ -15428,7 +15428,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Jo cantare al Senyor un himne gran",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1II0zeHrbIb7PWtEY3Xruk_mOPcWCGm5I",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
