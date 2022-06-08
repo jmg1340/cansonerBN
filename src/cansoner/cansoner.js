@@ -1,5 +1,5 @@
 cansoner= 
-  // nou id: 707
+  // nou id: 709
   // ids lliures: 
 
   {
@@ -2409,7 +2409,12 @@ cansoner=
     "46": {
       "ES": {
         "titol": "Cómo podré agradecer Alabandote",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10WtAt3vQltTR6Ytn_t4arMk78XUYF-Up",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -27594,7 +27599,12 @@ cansoner=
     "545": {
       "CAT": {
         "titol": "Porto dins el cor la pau de l'Esperit",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1rPLBydn7hcHQ-fe8wdensYpAZUFfJvFC",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -36498,7 +36508,214 @@ cansoner=
           }
         ]
       }
+    },
+    "707": {
+      "ES": {
+        "titol": "Sopla (Lili Zaidin)",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1NsS98m_Nxy-NVMpHv4KzLau-p-Qy4eLe",
+            "type": "audio/mp3"
+          }
+        ],
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "587"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sopla, ven Espíritu sopla,",
+              "ven derrama tu fuego,",
+              "ven derrama tu luz. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Espíritu Santo reina con poder,",
+              "sana nuestras vidas con tu Amor (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sopla, ven Espíritu sopla,",
+              "ven derrama tu fuego,",
+              "ven derrama tu luz. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Espíritu Santo aliento de Dios",
+              "enciénde tu fuego y llénanos (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sopla, ven Espíritu sopla,",
+              "ven derrama tu fuego,",
+              "ven derrama tu luz. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Espíritu Santo, fuerza y don de Dios",
+              "rompe las cadenas, líbranos. (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Sopla, ven Espíritu sopla,",
+              "ven derrama tu fuego,",
+              "ven derrama tu luz. (2)"
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Sopla (Lili Zaidin)",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1Si_1c4Qge80uJfx3oqyhGnYeFmgDc896",
+            "type": "audio/mp3"
+          }
+        ],
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "587"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Vine, Esperit de Déu, vine",
+              "dóna'ns la teva força,",
+              "dóna'ns la teva llum  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Vine Esperit Sant, vine al nostre cor,",
+              "cura'ns les ferides amb el teu foc (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Vine, Esperit de Déu, vine",
+              "dóna'ns la teva força,",
+              "dóna'ns la teva llum  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Vine Esperit Sant, alè del nostre Déu,",
+              "encén la nostra vida amb el teu amor. (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Vine, Esperit de Déu, vine",
+              "dóna'ns la teva força,",
+              "dóna'ns la teva llum  (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Vine Esperit Sant, força i do de Déu,",
+              "trenca les cadenes Tu, Senyor. (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Vine, Esperit de Déu, vine",
+              "dóna'ns la teva força,",
+              "dóna'ns la teva llum  (2)"
+            ]
+          }
+        ]
+      }
+    },
+    "708": {
+      "CAT": {
+        "titol": "Que puguem cantar la teva glòria (Anna Ludevid)",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=18R0OwaYP6H8hTkOgahmKXSyFqHpqhOFK",
+            "type": "audio/mp3"
+          }
+        ],
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "588"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que puguem cantar la teva glòria,",
+              "que puguem obrir els nostres cors,",
+              "vine Esperit Sant, vine Esperit Sant !! (X2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "1-Vine Esperit de força,vine Esperit de foc,",
+              "vine Esperit de vida,",
+              "vine als nostres cors.",
+              "vine font de consol, vine refugi per l'home,",
+              "vine esperança dels pobres,",
+              "vine als nostres cors."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que puguem cantar la teva glòria,",
+              "que puguem obrir els nostres cors,",
+              "vine Esperit Sant, vine Esperit Sant !! (X2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "2-Vine dolcesa infinita, vine bondat i amor,",
+              "vine frescor que restaura,",
+              "vine als nostres cors.",
+              "vine renova la vida, vine renta'ns del pecat,",
+              "vine joia i alegria,",
+              "vine als nostres cors."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que puguem cantar la teva glòria,",
+              "que puguem obrir els nostres cors,",
+              "vine Esperit Sant, vine Esperit Sant !! (X4)",
+              "---",
+              "Esperit Sant !!"
+            ]
+          }
+        ]
+      }
     }
+   
 
 
 
