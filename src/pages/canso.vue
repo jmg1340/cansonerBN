@@ -631,7 +631,7 @@ export default {
 
 
   .classTornada{
-    color: #cc0000;
+    color: #c10015;
     /*font-weight: bold;*/
   }
 

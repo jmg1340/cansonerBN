@@ -4230,7 +4230,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Encen una llum, deixa-la brillar",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1cAt2vN_0j_HLtE7urmhJ8L2tHtYLIc_4",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -5981,7 +5986,12 @@ cansoner=
     "116": {
       "ES": {
         "titol": "Hay una promesa en la Biblia",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1F8IXluDxf4_SinXpJsTiC61o7ngl7qW0",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -12680,7 +12690,12 @@ cansoner=
     "269": {
       "ES": {
         "titol": "soy yo conozco tu vida",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=13_Az9MhOrM_xUZyGBsv1Y21odx-2gILy",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -13818,7 +13833,12 @@ cansoner=
     "295": {
       "ES": {
         "titol": "Tú me sondeas",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1EuhYu3nYWb45j0JCK3CjIVGL5HSULoCZ",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "blau",
@@ -13829,16 +13849,34 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Tú me sondeas y me conoces",
-              "tú me hablas a mí, Señor (2)",
-              "U, u, u…",
+              "tú me hablas a mí, Señor (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "• A dónde iré yo sin tu Espíritu",
-              "dónde huir de tu rostro Yahvé.(2)",
+              "dónde huir de tu rostro Yahvé.(2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "• Tú me proteges y me defiendes",
-              "y mi alma está viva por Ti. (2)",
+              "y mi alma está viva por Ti. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "• Tú me creaste para alabarte",
-              "te doy gracias por siempre Señor.(2)",
-              "• Y aún en mi lengua no hay palabras",
-              "y ya Tú la conoce entera. (2)"
+              "te doy gracias por siempre Señor.(2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "U, u, u…"
             ]
           }
         ]
