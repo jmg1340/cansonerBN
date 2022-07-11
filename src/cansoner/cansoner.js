@@ -1,5 +1,5 @@
 cansoner= 
-  // nou id: 709
+  // nou id: 712
   // ids lliures: 
 
   {
@@ -9001,7 +9001,12 @@ cansoner=
       },
       "CAT": {
         "titol": "Oh Senyor, ningu es tan gran com Vos",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1gqMRe9IUD2RY-0P8Z23F9ymWVqtg_ff7",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -30024,7 +30029,12 @@ cansoner=
     "591": {
       "CAT": {
         "titol": "Vine sant esperit",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1G1JeHctP4Rv13WxZ7PEDywJmv4q23McH",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
@@ -33801,13 +33811,25 @@ cansoner=
     "656": {
       "ES": {
         "titol": "ES JESÚS",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1x49YZv-MFaiDlcEX1y1W9B2EX02T5gRB",
+            "type": "audio/mp3"
+          }
+        ],
         "estat": null,
         "cansoner": {
           "nom": "vermell",
           "numero": 543
         },
         "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "ES JESÚS, ES JESÚS, DIOS Y HOMBRE ",
+              "QUE NOS GUIA CON SU LUZ (bis)"
+            ]
+          },
           {
             "tipus": "estrofa",
             "paragraf": [
@@ -36748,6 +36770,168 @@ cansoner=
               "vine Esperit Sant, vine Esperit Sant !! (X4)",
               "---",
               "Esperit Sant !!"
+            ]
+          }
+        ]
+      }
+    },
+    "709": {
+      "ES": {
+        "titol": "Hasta la locura  ",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "589"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Me puede faltar todo en la vida.",
+              "Me puede faltar hasta la vida.",
+              "Pero nunca quiero que me falte,",
+              "El deseo de amarte, hasta el final"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hasta la locura te amo Señor.",
+              "Ya no quedan dudas en mi corazón.",
+              "De que te amo,",
+              "De que te amo, Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Quiero amarte hasta el extremo,",
+              "Sin reservas darme por entero,",
+              "Como los que se han enamorado,",
+              "Yo te canto mi amado, hasta el final."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Hasta la locura te amo Señor.",
+              "Ya no quedan dudas en mi corazón.",
+              "De que te amo,",
+              "De que te amo, Señor. (2)"
+            ]
+          }
+        ]
+      }
+    },
+    "710": {
+      "ES": {
+        "titol": "La niña de tus ojos",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "590"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Me viste a mí, cuando nadie me vio",
+              "Me amaste a mí, cuando nadie me amó (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y me diste nombre",
+              "Yo soy tu niña",
+              "La niña de tus ojos",
+              "Porque me amaste a mí (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Me amaste a mí (8)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Te amo más que a mi vida (2)",
+              "Te amo más que a mi vida, más  (3)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y me diste nombre",
+              "Yo soy tu niña",
+              "La niña de tus ojos",
+              "Porque me amaste a mí",
+              "Y me diste nombre",
+              "Yo soy tu niña",
+              "La niña de tus ojos",
+              "Porque me amaste a mí",
+              "Me amaste a mí"
+            ]
+          }
+        ]
+      }
+    },
+    "711": {
+      "ES": {
+        "titol": "Tienes que ser un niño",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "591"
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Tienes que ser un niño (3)",
+              "para ir al cielo",
+              "Jesús dice:",
+              "Tienes que ser un niño (3)",
+              "para ir al cielo"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "A menos que un hombre se convierta y sea como un niño,",
+              "no podrá entrar en el reino de los cielos (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Tienes que ser un niño (3)",
+              "para ir al cielo",
+              "Jesús dice:",
+              "Tienes que ser un niño (3)",
+              "para ir al cielo"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Dejad que los niños se acerquen a mi,",
+              "porque de ellos es el reino de los cielos (2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Tienes que ser un niño (3)",
+              "para ir al cielo",
+              "Jesús dice:",
+              "Tienes que ser un niño (3)",
+              "para ir al cielo"
             ]
           }
         ]
