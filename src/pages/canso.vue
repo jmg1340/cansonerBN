@@ -1,5 +1,6 @@
 <template>
-  <div class="flex-start q-pa-md">
+  <div class="flex-start q-pa-md" :class="{classFonsClar: !opcions.temaFosc,
+                                            classFonsFosc: opcions.temaFosc}">
   
     <div class="q-gutter-md">
       
@@ -26,7 +27,7 @@
 
       <div
         
-        class="bg-brown-1 shadow-1 rounded-borders q-mb-lg"
+        class="bg-brown-1 shadow-1 rounded-borders"
       >
         <div 
           v-for="(idioma,index) in arrIdiomes"
@@ -37,12 +38,14 @@
 
           v-touch-swipe.mouse.left="properaCanso"
           v-touch-swipe.mouse.right="anteriorCanso"
+
+          :class="{'bg-grey-10': opcions.temaFosc}"
         >
           
 
 
 
-          <div class="">
+          <div >
             <div class="row justify-between items-center">
 
               
@@ -120,25 +123,30 @@
 
           <!-- ESTROFES i TORNADES -->
 
-          <div class="q-my-md text-center">
+          <div class="q-my-md text-center" >
             
             <q-card
               v-for="(obj, indexParagraf) in objCanso[idioma].lletra"
               :key="`Canso-${indexParagraf}`"
+              id="inici"
             >
-              <q-card-section class="q-my-xs">
+              <q-card-section class="q-my-xs" :class="{classFonsClar: !opcions.temaFosc,
+                                                       classFonsFosc: opcions.temaFosc}">
                 <p 
                   v-for="(linia, indexLinia) in obj.paragraf"
                   :key="`L-${indexLinia}`"
                   v-bind:style="{ fontSize : opcions.pfontSize + 'px', fontWeight: opcions.pbold ? 'bold' : ''}"
-                  :class="{classTornada: obj.tipus=='tornada'}"
+                  :class="{classTornadaTemaClar: obj.tipus=='tornada' && !opcions.temaFosc,
+                           classTornadaTemaFosc: obj.tipus=='tornada' && opcions.temaFosc,
+                           classEstrofaTemaClar: obj.tipus=='estrofa' && !opcions.temaFosc,
+                           classEstrofaTemaFosc: obj.tipus=='estrofa' && opcions.temaFosc}"
                   >
                     {{ linia  }}
                 </p>
               </q-card-section>
             </q-card>
           </div>
-          <br><br><br><br><br><br><br>
+          
         </div>
         <!-- <div style="{margin-top: 100px}"/> -->
       </div>
@@ -147,7 +155,7 @@
 
 
       <!-- boto inferior CATALA / CASTELLA -->
-
+      <br><br><br><br><br><br><br>
       <div class="row justify-center" v-if="this.arrIdiomes.length > 1">
         <q-btn-toggle
           push
@@ -163,7 +171,7 @@
       </div>
 
     </div>
-    <br/><br/><br/><br/><br/><br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
@@ -189,7 +197,7 @@
                 label-always
                 v-model="opcions.pfontSize"
                 :min="10"
-                :max="80"
+                :max="100"
                 :step="1" />
             </q-item-section>
           </q-item>
@@ -205,6 +213,12 @@
           <div class="text-h6" >Altres opcions</div>
         </div>
         <q-card-section>
+          <!-- <q-item dense class="">
+            <q-item-section avatar>
+              <q-checkbox v-model="opcions.temaFosc" label="Tema fosc" color="black" />
+            </q-item-section>
+          </q-item>
+          <q-separator color="red-8" inset /> -->
           <q-item dense class="">
             <q-item-section avatar>
               <q-checkbox v-model="opcions.amagaReproductor" label="Amaga sempre reproductor" color="black" />
@@ -237,7 +251,7 @@
   <!-- dialeg per ADVERTENCIA CORREU -->
 
     <q-dialog v-model="advertenciaCorreu" persistent transition-show="scale" transition-hide="scale">
-      <q-card class="bg-red-10 text-white" style="width: 450px">
+      <q-card class="bg-red-10 text-white" style="width: 450px" >
         <q-card-section>
           <div class="text-h6 ">Advertència</div>
         </q-card-section>
@@ -296,13 +310,13 @@ export default {
 
     this.codiCanso = "";
     
-    document.addEventListener("keydown", this.funcEventNegre)
+    document.addEventListener("keydown", this.funcEventTecles)
   },
 
   destroyed () {
     // guardem les opcions
     this.$q.localStorage.set("CansonerBN_key_opcions", this.opcions);
-    document.removeEventListener("keydown", this.funcEventNegre)
+    document.removeEventListener("keydown", this.funcEventTecles)
   },
 
   data () {
@@ -316,7 +330,8 @@ export default {
         pfontSize: 16,
         pbold: false,
         amagaReproductor: false,
-        amagaSocialLinks: false       
+        amagaSocialLinks: false,
+        temaFosc: false      
       },
 
 
@@ -368,11 +383,31 @@ export default {
 
   methods: {
 
-    funcEventNegre: function(event){     
+    funcEventTecles: function(event){     
       switch( event.key ){
         case "N":
         case "n":
           this.$router.push({ name: "negre" });         
+          break;
+
+        case "F":
+        case "f":
+          this.opcions.temaFosc = !this.opcions.temaFosc;         
+          break;
+
+        case "I":
+        case "i":
+          console.log("I apretada")
+          location.href = "#/canso/#inici";;         
+          break;
+
+        case "C":
+        case "c":
+          console.log("C apretada")
+          if (this.arrIdiomes.length > 1) {
+            this.strIdioma = ( this.strIdioma == "ES" ? "CAT" : "ES")
+            location.href = "#/canso/#inici";;         
+          }
           break;
       } 
     },
@@ -460,7 +495,8 @@ export default {
 
     vesAlComensament: function(){
       // console.log("Estic a vesAlComensament")
-      window.scrollTo(0, 0)
+      // window.scrollTo(0, 0)
+      location.href = "#/canso/#inici";
     },
 
 
@@ -630,9 +666,28 @@ export default {
 }
 
 
-  .classTornada{
+  .classTornadaTemaClar{
     color: #c10015;
-    /*font-weight: bold;*/
+  }
+
+  .classTornadaTemaFosc{
+    color: #f8c75d;
+  }
+
+  .classEstrofaTemaClar{
+    color: black;
+  }
+
+  .classEstrofaTemaFosc{
+    color: white;
+  }
+
+  .classFonsClar{
+    background-color: white;
+  }
+
+  .classFonsFosc{
+    background-color: black;
   }
 
 

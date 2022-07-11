@@ -1,7 +1,3 @@
-# Cançoner BN (cansonerbn)
-
-cançoner unic BN
-
 ## Install the dependencies
 
 ```bash
@@ -23,6 +19,16 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+---
+
+### Versió 3.3
+
+Pagina "canso":
+
+- Activació telcla I per anar al Inici de la cançó
+- Activació telcla C per canviar entre Català i Castellà
+- Activació telcla F per per posar o no el tema Fosc
 
 ---
 
