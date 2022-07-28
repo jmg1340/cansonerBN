@@ -1,27 +1,3 @@
-## Install the dependencies
-
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-
-```bash
-quasar dev
-```
-
-### Build the app for production
-
-```bash
-quasar build
-```
-
-### Customize the configuration
-
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-
----
-
 ### Versió 3.3
 
 Pagina "canso":
@@ -80,3 +56,31 @@ Ara tries primer com vols buscar els cançons (si per numero o text) i despres t
 ### Versió 1
 
 Creació app amb VUE
+
+===
+
+Versio NODE: 15.0.3
+
+## Install the dependencies
+
+```bash
+npm install
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+
+```bash
+quasar dev
+```
+
+### Build the app for production
+
+```bash
+quasar build
+```
+
+### Customize the configuration
+
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+---

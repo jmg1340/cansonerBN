@@ -1,5 +1,5 @@
 cansoner= 
-  // nou id: 712
+  // nou id: 714
   // ids lliures: 
 
   {
@@ -30610,6 +30610,89 @@ cansoner=
             ]
           }
         ]
+      },
+      "ES": {
+        "titol": "Te bendeciré",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "223"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Te bendeciré",
+              "en la tierra buena que nos das,",
+              "donde el agua brota sin cesar,",
+              "te bendeciré."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y te bendeciré",
+              "en la arena que cuesta pisar,",
+              "si el desierto hay que atravesar,",
+              "te bendeciré"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Cada día quiero honrarte",
+              "esté donde esté,",
+              "y cuando descienda la noche,",
+              "otra vez diré:"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabado el nombre del Señor,",
+              "Alabado sea.",
+              "Alabado el nombre del Señor,",
+              "Alabado siempre sea su nombre."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Te bendeciré",
+              "cuando el sol brilla sobre mi,",
+              "cuando el mundo es como debe ser,",
+              "te bendeciré."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y te bendeciré",
+              "cuando cargo con pesada cruz,",
+              "con dolor en el caminar,",
+              "te bendeciré"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Cada día quiero honrarte",
+              "esté donde esté,",
+              "y cuando descienda la noche,",
+              "otra vez diré:"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabado el nombre del Señor,",
+              "Alabado sea.",
+              "Alabado el nombre del Señor,",
+              "Alabado siempre sea su nombre."
+            ]
+          }
+        ]
       }
     },
     "601": {
@@ -36640,7 +36723,7 @@ cansoner=
         ]
       },
       "CAT": {
-        "titol": "Sopla (Lili Zaidin)",
+        "titol": "Vine, Esperit de Déu, vine (Lili Zaidin)",
         "audio": [
           {
             "src": "https://docs.google.com/uc?export=&id=1Si_1c4Qge80uJfx3oqyhGnYeFmgDc896",
@@ -36932,6 +37015,79 @@ cansoner=
               "Jesús dice:",
               "Tienes que ser un niño (3)",
               "para ir al cielo"
+            ]
+          }
+        ]
+      }
+    },
+    "712": {
+      "ES": {
+        "titol": "Levanto mis manos",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "592"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Levanto mis manos,",
+              "cierro mis ojos,",
+              "para proclamar tu nombre,",
+              "Dios de poder."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Digno de alabar, Señor,",
+              "Gloria y majestad sean a ti.",
+              "Rey de la creación",
+              "por siempre. Amén."
+            ]
+          }
+        ]
+      }
+    },
+    "713": {
+      "ES": {
+        "titol": "Llévame contigo",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "593"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Llévame contigo a todos lados,",
+              "que pueda dormir tranquilo bajo tu precioso manto.",
+              "Llévame contigo, no me sueltes de la mano.",
+              "Y que cuando sienta frío, note tu cálido abrazo."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Llévame contigo, a donde quieras,",
+              "Y es que no hay mayor consuelo que",
+              "una madre que te quiera y que algún",
+              "día pudiera, al Cielo ir por tu escalera.",
+              "Y entender que contigo Madre",
+              "querida, valió la pena."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Que no me canse nunca de mirarte",
+              "y repetir con humilde devoción:",
+              "Te quiero con locura preciosa Madre,",
+              "Tú el mejor regalo de mi Dios."
             ]
           }
         ]
