@@ -409,6 +409,16 @@ export default {
             location.href = "#/canso/#inici";;         
           }
           break;
+          
+        case "+":
+          console.log("+ apretada")
+          this.opcions.pfontSize++
+          break;
+          
+        case "-":
+          console.log("- apretada")
+          this.opcions.pfontSize--
+          break;
       } 
     },
 

@@ -4788,12 +4788,19 @@ cansoner=
               "toda mi vida.",
               "Acompáñame, ilumíname.",
               "Espíritu Santo, ven, ven.",
-              "Espíritu Santo, ven, ven…",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Espíritu Santo, ven, ven.",
+              "Espíritu Santo, ven, ven.",
+              "Espíritu Santo, ven, ven.",
+              "En el nombre del Señor.",
               "Santifícame y transfórmame",
               "toda mi vida.",
               "Santifícame y transfórmame.",
               "Espíritu Santo, ven, ven.",
-              "Espíritu Santo, ven, ven…"
             ]
           }
         ]
@@ -30573,6 +30580,11 @@ cansoner=
               "et lloaré Senyor.",
               "I si la foscor m’ofega",
               "Cridaré el teu nom.",
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
               "Beneït el nom del Senyor",
               "Beneït per sempre.",
               "Beneït el nom del Senyor,",

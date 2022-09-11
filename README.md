@@ -1,10 +1,38 @@
+
+## DRECERES DE TECLAT
+
+>Tecles actives quan per es mostra la **cançó**:
+
+- Tecla **"N"** per posar pantalla en negre
+- Tecla **"I"** per anar al (I)nici de la cançó
+- Tecla **"C"** per canviar entre (C)atalà i (C)astellà
+- Tecla **"F"** per canviar entre tema clar i tema (F)osc
+- Tecla **"+"** per fer més gran la lletra
+- Tecla **"-"** per fer més petita la lletra
+
+
+>Tecles actives quan es mostra la **pantalla en negre**:
+
+- Tecla **"T"** per activar pantalla de busquedes
+- Tecla **"N"** per tornar a la pantalla anterior (ja sigui una cançó o no)
+- Tecla **"B"** per seleccionar llibre BLAU
+- Tecla **"V"** per seleccionar llibre VERMELL
+- **Teclat numèric** per teclejar el numero de la cançó
+- Tecla **"Supr"** per eliminar de la memòria el numero de cançó teclejat.
+- Tecla **"Intro"** per mostrar la cançó un cop establert el seu numero i cançoner
+
+
+
+---
 ### Versió 3.3
 
 Pagina "canso":
 
-- Activació telcla I per anar al Inici de la cançó
-- Activació telcla C per canviar entre Català i Castellà
-- Activació telcla F per per posar o no el tema Fosc
+- Activació tecla I per anar al (I)nici de la cançó
+- Activació tecla C per canviar entre (C)atalà i (C)astellà
+- Activació tecla F per per canviar entre tema clar i tema (F)osc
+- Activació tecla + per per fer més gran la lletra
+- Activació tecla - per per fer més petita la lletra
 
 ---
 
@@ -12,20 +40,20 @@ Pagina "canso":
 
 Creació pagina "negre":
 
-- Activació telcla N per tornar a la pantalla anterior
+- Activació tecla N per tornar a la pantalla anterior
 - Possibilitat de buscar cançó per número (i cançoner)
 
 A la capçalera "MyLayout":
 
-- Activació telcla N per posar pantalla en negre
+- Activació tecla N per posar pantalla en negre
 
 A la capçalera "layoutCanso":
 
-- Activació telcla T per activar pantalla de busquedes
+- Activació tecla T per activar pantalla de busquedes
 
 A la pagina "canso":
 
-- Activació telcla N per posar pantalla en negre
+- Activació tecla N per posar pantalla en negre
 
 ---
 
