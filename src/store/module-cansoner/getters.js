@@ -1,8 +1,21 @@
+/**
+ * Obtenció de array de claus o keys de les propietats del objecte cansoner
+ * @param {*} state 
+ * @returns {Object} - array de keys
+ */
+export function getArrKeysCansoner ( state ) {
+	return Object.keys(state.objCansoner)
+}
+
+
+
+
+/** 
+	Retorna {} on cada propietat es el numero de la canso del state.llibre i cada valor 
+	es un altre {} amb el ID de la canso i l'idioma
+*/
 export function getObjCansonsLlibre ( state ) {
-	/** 
-		Retorna {} on cada propietat es el numero de la canso del state.llibre i cada valor 
-		es un altre {} amb el ID de la canso i l'idioma
-	*/
+
 	let obj = {}
 
 	for (let idCanso in state.objCansoner) {

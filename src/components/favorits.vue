@@ -24,7 +24,7 @@
               <tr
                 v-for="(info,index) in llistatCansonsFavorites"
                 :key="`llC-${index}`"
-                @click="MostrarCansoDeLaTaula(info.llibre, info.numero, info.idioma)"
+                @click="MostrarCansoDeLaTaula(info.idCanso, info.idioma)"
               >
                 <td v-if="info.llibre == 'vermell'" class="bg-red text-white text-center">V</td>
                 <td v-if="info.llibre == 'blau'" class="bg-blue-10 text-white text-center">B</td>
@@ -91,13 +91,13 @@ export default {
   },
 
   methods: {
-    MostrarCansoDeLaTaula: function(llibre, numero, idioma) {
-      this.$store.dispatch("modulCansoner/actMostrarCanso", {
-        llibre: llibre,
-        numero_idioma: numero + "_" + idioma
-      });
+    MostrarCansoDeLaTaula: function(idCanso, idioma) {
+      // this.$store.dispatch("modulCansoner/actMostrarCanso", {
+      //   llibre: llibre,
+      //   numero_idioma: numero + "_" + idioma
+      // });
 
-      this.$router.push({ name: "canso" });
+      this.$router.push({ name: "canso", query: { idCanso,  idioma } });
     }
   }
 };

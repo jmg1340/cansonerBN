@@ -106,8 +106,68 @@ export default {
 
     },
 
-    mostrarCansoNumero: function() {
+    mostrarCansoNumero: async function() {
       console.log("Estic a MOSTRAR_CANSO_NUMERO !!");
+
+      // 1. Trobar el idCanso i l'idioma corresponent al llibre i numero seleccionats
+      const objIDCansoIdioma = await this.$store.dispatch("modulCansoner/actObtenirIdCansoIdioma", {
+                        llibre: this.seleccioCansoner,
+                        numero: this.inputNumero
+                      });
+
+      console.log("objIDCansoIdioma", objIDCansoIdioma)
+      let {idCanso, idioma} = objIDCansoIdioma
+       
+
+      if (idCanso === null) {
+
+        console.log("No existeix numero al llibre")
+        this.$q.notify({
+          message: 'La cançó amb nº ' + this.inputNumero + ' no existeix',
+          icon: 'sentiment_very_dissatisfied',
+          position: 'top',
+          timeout: 1000
+        })
+        return
+
+      } else if ( idioma === "escollir idioma") {
+        this.$q
+          .dialog({
+            title:
+              "La següent cançó te mateix cançoner i número de cançó per cada idioma. Quin idioma vols veure ?",
+            //message: 'Tria idioma:',
+            options: {
+              type: "radio",
+              model: null,
+              // inline: true,
+              items: [
+                { label: "Català", value: "CAT", color: "secondary" },
+                { label: "Castellà", value: "ES" }
+              ]
+            },
+            cancel: false,
+            stackButtons: true,
+            persistent: true
+          })
+          .onOk( data =>   { 
+            idioma = data;
+            this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+          })
+          .onCancel(() =>  { })// console.log('>>>> Cancel')
+          .onDismiss(() => { });// console.log('I am triggered on both OK and Cancel')
+
+      } else {
+        this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+      }
+
+
+      this.guardarVariablesSessio();
+      
+
+
+
+
+      return
 
       // Hi ha cançons que, per cada idioma, tenen mateix cançoner i
       // numero. En aquests casos, cal preguntar quin idioma triar.

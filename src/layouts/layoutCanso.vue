@@ -108,8 +108,8 @@ export default {
 
     tornarAlBuscador: function(){
       //this.$emit("tornaAlBuscador");
-      this.$router.push({ name: 'cercar' });
-      //this.$router.go(-1);
+      // this.$router.push({ name: 'cercar' });
+      this.$router.go(-1);
     },
 
     mostrarOpcionsCanso: function(){

@@ -74,7 +74,7 @@
         separator="cell"
       >
         <thead class="bg-grey-4 text-black">
-          <tr>
+          <tr onclick="MostrarCansoDeLaTaula">
             <th class="text-center thCansoner">C</th>
             <th class="text-center thTitol">Titol</th>
             <th class="text-center thTitol">
@@ -96,22 +96,31 @@
           <tr
             v-for="(info,index) in llistaCansonsTrobades"
             :key="`llC-${index}`"
-            @click="MostrarCansoDeLaTaula(info.llibre, info.numero, info.idioma)"
+            @click="MostrarCansoDeLaTaula(info.idCanso, info.idioma)"
           >
+
+
             <td v-if="info.llibre == 'vermell'" class="bg-red text-white text-center">V</td>
             <td v-if="info.llibre == 'blau'" class="bg-blue-10 text-white text-center">B</td>
             <td v-if="info.llibre == 'nadales'" class="bg-grey text-white text-center">N</td>
 
-            <td @click.prevent class="q-px-xs tdTitol">
+            <td class="q-px-xs tdTitol">
+              <!-- <router-link :to="'{ name: \'canso\', query: { idCanso: '+info.idCanso+', llibre: '+info.llibre+',numero: '+info.numero+',idioma: '+info.idioma+' } }'"> -->
+              
+              
               <q-icon name="fiber_new" color="green-14" size="sm" v-if="info.estat== 'nova'" />
               {{ info.titol }}
+
+              
             </td>
 
             <td class="text-center">
               <q-icon name="volume_up" v-if="info.audio" />
             </td>
             <td class="text-center">{{info.numero}}</td>
-          </tr>
+
+          
+          </tr> 
         </tbody>
       </q-markup-table>
     </div>
@@ -151,13 +160,13 @@ export default {
   },
 
   methods: {
-    MostrarCansoDeLaTaula: function(llibre, numero, idioma) {
-      this.$store.dispatch("modulCansoner/actMostrarCanso", {
-        llibre: llibre,
-        numero_idioma: numero + "_" + idioma
-      });
-      
-      this.$router.push({ name: "canso" });
+    MostrarCansoDeLaTaula: function(idCanso, idioma) {
+      // this.$store.dispatch("modulCansoner/actMostrarCanso", {
+      //   llibre: llibre,
+      //   numero_idioma: numero + "_" + idioma
+      // });
+      this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+      // this.$router.push({ name: "canso", params: { arrProps: [ idCanso, llibre, numero, idioma ] }  }).href;
     },
 
     buscar: function() {

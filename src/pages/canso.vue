@@ -30,10 +30,10 @@
         class="bg-brown-1 shadow-1 rounded-borders"
       >
         <div 
-          v-for="(idioma,index) in arrIdiomes"
-          v-if="idioma == strIdioma"
-          :key="`idioma-${index}`"
-          :name="idioma" 
+          v-for="(_idioma,index) in arrIdiomes"
+          v-if="_idioma == strIdioma"
+          :key="`_idioma-${index}`"
+          :name="_idioma" 
           class="column no-wrap flex-start"
 
           v-touch-swipe.mouse.left="properaCanso"
@@ -52,14 +52,14 @@
               <!-- numero canço - llibre -->
               <div class="col block " >
                 <q-chip 
-                  :color="(objCanso[idioma].cansoner.nom == 'vermell') ? 'red-8' : (objCanso[idioma].cansoner.nom == 'blau') ? 'blue-8' : 'grey-8'" 
+                  :color="(objCanso[_idioma].cansoner.nom == 'vermell') ? 'red-8' : (objCanso[_idioma].cansoner.nom == 'blau') ? 'blue-8' : 'grey-8'" 
                   text-color="white"
                   
                 >
                   <q-avatar color="black" text-color="white text-bold">
-                    {{objCanso[idioma].cansoner.numero}}
+                    {{objCanso[_idioma].cansoner.numero}}
                   </q-avatar>
-                  llibre {{objCanso[idioma].cansoner.nom}}
+                  llibre {{objCanso[_idioma].cansoner.nom}}
                 </q-chip>                
               </div>
 
@@ -110,8 +110,8 @@
               type="audio"
               background-color="black"
               radius="1rem"
-              :sources="objCanso[idioma].audio"
-              v-if="objCanso[idioma].audio && !opcions.amagaReproductor"
+              :sources="objCanso[_idioma].audio"
+              v-if="objCanso[_idioma].audio && !opcions.amagaReproductor"
               class="q-mx-xs"
             >
             </q-media-player>
@@ -126,7 +126,7 @@
           <div class="q-my-md text-center" >
             
             <q-card
-              v-for="(obj, indexParagraf) in objCanso[idioma].lletra"
+              v-for="(obj, indexParagraf) in objCanso[_idioma].lletra"
               :key="`Canso-${indexParagraf}`"
               id="inici"
             >
@@ -287,19 +287,25 @@ import VueAplayer from 'vue-aplayer'
 export default {
   name: 'canso',
 
+  
+
   components: {
       'a-player': VueAplayer
   },
 
   created(){
+    console.log("PARAMS:");
+    console.log(this.$route.query.idCanso, this.$route.query.llibre, this.$route.query.numero, this.$route.query.idioma)
     
     if (this.$q.localStorage.getItem("CansonerBN_key_opcions"))
       this.opcions = this.$q.localStorage.getItem("CansonerBN_key_opcions");
 
-    this.strIdioma = this.idiomaCansoSeleccionada
+    // this.strIdioma = this.idiomaCansoSeleccionada
+    this.strIdioma = this.$route.query.idioma
     this.windowHeight = window.innerHeight + 'px'
 
     this.optionsToggle = []
+    console.log("arrIdiomes", this.arrIdiomes);
     this.arrIdiomes.forEach( function(idioma) {
       this.optionsToggle.push({
         label: (idioma == "CAT") ? "CATALÀ" : "CASTELLÀ" ,
@@ -307,8 +313,8 @@ export default {
       })
     },this)
 
-
-    this.codiCanso = "";
+    // this.codiCanso = ""
+    // this.codiCanso = this.$route.query.idCanso;
     
     document.addEventListener("keydown", this.funcEventTecles)
   },
@@ -333,8 +339,9 @@ export default {
         amagaSocialLinks: false,
         temaFosc: false      
       },
-
-
+      llibre: this.$route.query.llibre,
+      numero: this.$route.query.numero,
+      codiCanso : this.$route.query.idCanso
     }
   },
 
@@ -343,25 +350,25 @@ export default {
       return this.$store.state.modulCansoner.objCansoner
     },
 
-    idCanso: function (){
-      return this.$store.state.modulCansoner.idCanso
-    },
+    // idCanso: function (){
+    //   return this.$store.state.modulCansoner.idCanso
+    // },
 
     objCanso: function (){
-      return this.objCansoner[this.idCanso]
+      return this.objCansoner[this.codiCanso]
     },
 
     arrIdiomes: function (){
-      return Object.keys(this.objCansoner[this.idCanso])
+      return Object.keys(this.objCansoner[this.codiCanso])
     },
 
-    idiomaCansoSeleccionada: function (){
-      return this.$store.state.modulCansoner.idioma
-    },
+    // idiomaCansoSeleccionada: function (){
+    //   return this.$store.state.modulCansoner.idioma
+    // },
 
-    llibre: function (){
-      return this.$store.state.modulCansoner.llibre
-    },
+    // llibre: function (){
+    //   return this.$store.state.modulCansoner.llibre
+    // },
 
     activarOpcionsCanso: function (){
       return this.$store.state.modulCansoner.activarOpcionsCanso
@@ -372,7 +379,7 @@ export default {
       
       var x = false
       x = arrFavorites.some( function (obj) {
-        return obj.idCanso == this.idCanso && obj.idioma == this.strIdioma
+        return obj.idCanso == this.codiCanso && obj.idioma == this.strIdioma
       }, this)
       return x
     }
@@ -398,7 +405,8 @@ export default {
         case "I":
         case "i":
           console.log("I apretada")
-          location.href = "#/canso/#inici";;         
+          window.scrollTo(0,65);
+          // location.href = "#/canso/#inici";;         
           break;
 
         case "C":
@@ -406,7 +414,8 @@ export default {
           console.log("C apretada")
           if (this.arrIdiomes.length > 1) {
             this.strIdioma = ( this.strIdioma == "ES" ? "CAT" : "ES")
-            location.href = "#/canso/#inici";;         
+            window.scrollTo(0,65);
+            // location.href = "#/canso/#inici";;         
           }
           break;
           
@@ -427,7 +436,7 @@ export default {
 
     afegirFavorits: function () {
       let objecte = {
-        idCanso : this.idCanso,
+        idCanso : this.codiCanso,
         idioma : this.strIdioma
       }
       console.log("AFEGIR objecte: " + JSON.stringify(objecte))
@@ -505,8 +514,8 @@ export default {
 
     vesAlComensament: function(){
       // console.log("Estic a vesAlComensament")
-      // window.scrollTo(0, 0)
-      location.href = "#/canso/#inici";
+      window.scrollTo(0,65);
+      // location.href = "#/canso/#inici";
     },
 
 
