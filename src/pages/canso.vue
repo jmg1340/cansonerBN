@@ -36,8 +36,8 @@
           :name="_idioma" 
           class="column no-wrap flex-start"
 
-          v-touch-swipe.mouse.left="properaCanso"
-          v-touch-swipe.mouse.right="anteriorCanso"
+          v-touch-swipe.mouse.left="properaCanso()"
+          v-touch-swipe.mouse.right="anteriorCanso()"
 
           :class="{'bg-grey-10': opcions.temaFosc}"
         >
@@ -295,13 +295,13 @@ export default {
 
   created(){
     console.log("PARAMS:");
-    console.log(this.$route.query.idCanso, this.$route.query.llibre, this.$route.query.numero, this.$route.query.idioma)
+    console.log(this.$route.query.idCanso, this.$route.query.idioma)
     
     if (this.$q.localStorage.getItem("CansonerBN_key_opcions"))
       this.opcions = this.$q.localStorage.getItem("CansonerBN_key_opcions");
 
     // this.strIdioma = this.idiomaCansoSeleccionada
-    this.strIdioma = this.$route.query.idioma
+    
     this.windowHeight = window.innerHeight + 'px'
 
     this.optionsToggle = []
@@ -327,7 +327,7 @@ export default {
 
   data () {
     return {
-      strIdioma: null,
+      strIdioma: this.$route.query.idioma,
       optionsToggle: null,
 
       activarCanviCanso: false,
@@ -339,8 +339,8 @@ export default {
         amagaSocialLinks: false,
         temaFosc: false      
       },
-      llibre: this.$route.query.llibre,
-      numero: this.$route.query.numero,
+      // llibre: this.$route.query.llibre,
+      // numero: this.$route.query.numero,
       codiCanso : this.$route.query.idCanso
     }
   },
@@ -350,7 +350,7 @@ export default {
       return this.$store.state.modulCansoner.objCansoner
     },
 
-    // idCanso: function (){
+    // num
     //   return this.$store.state.modulCansoner.idCanso
     // },
 
@@ -521,18 +521,83 @@ export default {
 
 
     properaCanso: function(){
+      
+      const llibre = this.objCanso[this.strIdioma].cansoner.nom
+      const numero = this.objCanso[this.strIdioma].cansoner.numero
+
       if ( this.activarCanviCanso)
-        this.mostrarSeguentCanso (this.objCanso[this.strIdioma].cansoner.numero + 1)
-    },
-    anteriorCanso: function(){
-      if ( this.activarCanviCanso)
-        this.mostrarSeguentCanso (this.objCanso[this.strIdioma].cansoner.numero - 1)
+        this.mostrarSeguentCanso ( "propera", llibre, numero)
     },
 
-    mostrarSeguentCanso: function(nouNumero){
+    anteriorCanso: function(){
+      const llibre = this.objCanso[this.strIdioma].cansoner.nom
+      const numero = this.objCanso[this.strIdioma].cansoner.numero
+
+      if ( this.activarCanviCanso)
+        this.mostrarSeguentCanso ( "anterior", llibre, numero)
+    },
+
+
+    mostrarSeguentCanso: function( properaAnterior, llibre, numero){
       console.log("*** Estic a SEGUENT_CANSO ***")
 
-      // debugger
+      const arrKeys = Object.keys(this.objCansoner)
+      // console.log("arrKeys", arrKeys)
+
+      // construim array [{ llibre, numero, idCanso, idioma}]
+      let arrLlibNumIdIdioma = []
+
+      arrKeys.forEach( (key) => {
+        
+        if (this.objCansoner[key][this.strIdioma] && 
+            this.objCansoner[key][this.strIdioma].cansoner.nom === llibre) {
+          arrLlibNumIdIdioma.push(JSON.stringify({ 
+            llibre: llibre, 
+            numero: this.objCansoner[key][this.strIdioma].cansoner.numero,
+            idCanso: key,
+          }))
+        }
+      })
+
+      // ordenem array arrLlibNumIdIdioma per numero ascendent
+      arrLlibNumIdIdioma.sort((a, b) => { return a.numero - b.numero; })
+      console.log("arrLlibNumIdIdioma", arrLlibNumIdIdioma);
+
+      // localitzem la posicio de la canço actual en el array
+      const objATrobar = {
+        llibre: llibre,
+        numero: numero,
+        idCanso: this.codiCanso,
+      }
+      console.log("objATrobar", objATrobar);
+      const posicio = arrLlibNumIdIdioma.indexOf( JSON.stringify(objATrobar) )
+      console.log("posicio", posicio);
+
+      // Busquem la següent posicio en funcio de si es l'anterior o la propera
+      if ( properaAnterior == "propera" ) {
+        // si la posicio acutal no es la ultima posicio del array, mostrem la canço
+        if (posicio !== arrLlibNumIdIdioma.length - 1 ) {
+          const nouIdCanso = JSON.parse(arrLlibNumIdIdioma[ posicio + 1]).idCanso
+          console.log("nouIdCanso 'proper':", nouIdCanso);
+          this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+        }
+      } else if (properaAnterior == "anterior" ) {
+        // si la posicio acutal no es la primera posicio del array, mostrem la canço
+        if (posicio !== 0 ) {
+          console.log("nouIdCanso 'anterior':", nouIdCanso);
+          const nouIdCanso = JSON.parse(arrLlibNumIdIdioma[ posicio - 1]).idCanso
+          this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+        }
+      }
+
+
+
+
+
+
+
+      return
+
       // let nouNumero = (endavant_endarrere = "endavant") ? this.objCanso[this.strIdioma].cansoner.numero + 1  :  this.objCanso[this.strIdioma].cansoner.numero - 1 
 
       //console.log ("state.llibre MODIFICAT")

@@ -22806,7 +22806,7 @@ cansoner=
         "estat": null,
         "cansoner": {
           "nom": "vermell",
-          "numero": "95"
+          "numero": 95
         },
         "lletra": [
           {
@@ -26693,7 +26693,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "573"
+          "numero": 573
         },
         "lletra": [
           {
@@ -27194,7 +27194,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "574"
+          "numero": 574
         },
         "lletra": [
           {
@@ -28471,7 +28471,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "575"
+          "numero": 575
         },
         "lletra": [
           {
@@ -28856,7 +28856,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "576"
+          "numero": 576
         },
         "lletra": [
           {
@@ -30629,7 +30629,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "223"
+          "numero": 223
         },
         "lletra": [
           {
@@ -36292,7 +36292,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "577"
+          "numero": 577
         },
         "lletra": [
           {
@@ -36314,7 +36314,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "578"
+          "numero": 578
         },
         "lletra": [
           {
@@ -36351,7 +36351,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "579"
+          "numero": 579
         },
         "lletra": [
           {
@@ -36391,7 +36391,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "580"
+          "numero": 580
         },
         "lletra": [
           {
@@ -36443,7 +36443,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "581"
+          "numero": 581
         },
         "lletra": [
           {
@@ -36484,7 +36484,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "582"
+          "numero": 582
         },
         "lletra": [
           {
@@ -36513,7 +36513,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "583"
+          "numero": 583
         },
         "lletra": [
           {
@@ -36560,7 +36560,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "584"
+          "numero": 584
         },
         "lletra": [
           {
@@ -36602,7 +36602,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "585"
+          "numero": 585
         },
         "lletra": [
           {
@@ -36632,7 +36632,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "586"
+          "numero": 586
         },
         "lletra": [
           {
@@ -36676,7 +36676,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "587"
+          "numero": 587
         },
         "lletra": [
           {
@@ -36745,7 +36745,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "587"
+          "numero": 587
         },
         "lletra": [
           {
@@ -36816,7 +36816,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "588"
+          "numero": 588
         },
         "lletra": [
           {
@@ -36877,7 +36877,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "589"
+          "numero": 589
         },
         "lletra": [
           {
@@ -36926,7 +36926,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "590"
+          "numero": 590
         },
         "lletra": [
           {
@@ -36982,7 +36982,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "591"
+          "numero": 591
         },
         "lletra": [
           {
@@ -37039,7 +37039,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "592"
+          "numero": 592
         },
         "lletra": [
           {
@@ -37070,7 +37070,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "593"
+          "numero": 593
         },
         "lletra": [
           {
