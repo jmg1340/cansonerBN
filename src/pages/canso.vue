@@ -36,8 +36,8 @@
           :name="_idioma" 
           class="column no-wrap flex-start"
 
-          v-touch-swipe.mouse.left="properaCanso()"
-          v-touch-swipe.mouse.right="anteriorCanso()"
+          v-touch-swipe.mouse.right.left="mostrarSeguentCanso"
+          
 
           :class="{'bg-grey-10': opcions.temaFosc}"
         >
@@ -304,15 +304,7 @@ export default {
     
     this.windowHeight = window.innerHeight + 'px'
 
-    this.optionsToggle = []
-    console.log("arrIdiomes", this.arrIdiomes);
-    this.arrIdiomes.forEach( function(idioma) {
-      this.optionsToggle.push({
-        label: (idioma == "CAT") ? "CATALÀ" : "CASTELLÀ" ,
-        value: idioma
-      })
-    },this)
-
+		this.generarOpcionsIdioma()
     // this.codiCanso = ""
     // this.codiCanso = this.$route.query.idCanso;
     
@@ -432,7 +424,17 @@ export default {
     },
 
 
+		generarOpcionsIdioma: function () {
+			this.optionsToggle = []
+			console.log("arrIdiomes", this.arrIdiomes);
+			this.arrIdiomes.forEach( function(idioma) {
+				this.optionsToggle.push({
+					label: (idioma == "CAT") ? "CATALÀ" : "CASTELLÀ" ,
+					value: idioma
+				})
+			},this)
 
+		},
 
     afegirFavorits: function () {
       let objecte = {
@@ -520,26 +522,13 @@ export default {
 
 
 
-    properaCanso: function(){
-      
-      const llibre = this.objCanso[this.strIdioma].cansoner.nom
-      const numero = this.objCanso[this.strIdioma].cansoner.numero
 
-      if ( this.activarCanviCanso)
-        this.mostrarSeguentCanso ( "propera", llibre, numero)
-    },
-
-    anteriorCanso: function(){
-      const llibre = this.objCanso[this.strIdioma].cansoner.nom
-      const numero = this.objCanso[this.strIdioma].cansoner.numero
-
-      if ( this.activarCanviCanso)
-        this.mostrarSeguentCanso ( "anterior", llibre, numero)
-    },
-
-
-    mostrarSeguentCanso: function( properaAnterior, llibre, numero){
+    mostrarSeguentCanso: function( { evt, ...newInfo } ){
       console.log("*** Estic a SEGUENT_CANSO ***")
+
+      const llibre = this.objCanso[this.strIdioma].cansoner.nom
+      const numero = this.objCanso[this.strIdioma].cansoner.numero
+
 
       const arrKeys = Object.keys(this.objCansoner)
       // console.log("arrKeys", arrKeys)
@@ -551,11 +540,11 @@ export default {
         
         if (this.objCansoner[key][this.strIdioma] && 
             this.objCansoner[key][this.strIdioma].cansoner.nom === llibre) {
-          arrLlibNumIdIdioma.push(JSON.stringify({ 
-            llibre: llibre, 
+          arrLlibNumIdIdioma.push({ 
+            // llibre: llibre, 
             numero: this.objCansoner[key][this.strIdioma].cansoner.numero,
             idCanso: key,
-          }))
+          })
         }
       })
 
@@ -564,29 +553,32 @@ export default {
       console.log("arrLlibNumIdIdioma", arrLlibNumIdIdioma);
 
       // localitzem la posicio de la canço actual en el array
-      const objATrobar = {
-        llibre: llibre,
-        numero: numero,
-        idCanso: this.codiCanso,
-      }
-      console.log("objATrobar", objATrobar);
-      const posicio = arrLlibNumIdIdioma.indexOf( JSON.stringify(objATrobar) )
+    
+
+
+      const posicio = arrLlibNumIdIdioma.findIndex( obj => obj.numero === numero && obj.idCanso === this.codiCanso )
       console.log("posicio", posicio);
 
       // Busquem la següent posicio en funcio de si es l'anterior o la propera
-      if ( properaAnterior == "propera" ) {
+      if ( newInfo.direction == "left" ) {
         // si la posicio acutal no es la ultima posicio del array, mostrem la canço
         if (posicio !== arrLlibNumIdIdioma.length - 1 ) {
-          const nouIdCanso = JSON.parse(arrLlibNumIdIdioma[ posicio + 1]).idCanso
+          const nouIdCanso = arrLlibNumIdIdioma[ posicio + 1].idCanso
           console.log("nouIdCanso 'proper':", nouIdCanso);
-          this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+					this.codiCanso = nouIdCanso
+
+          // this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+					this.generarOpcionsIdioma()
         }
-      } else if (properaAnterior == "anterior" ) {
+      } else if (newInfo.direction == "right" ) {
         // si la posicio acutal no es la primera posicio del array, mostrem la canço
         if (posicio !== 0 ) {
+          const nouIdCanso = arrLlibNumIdIdioma[ posicio - 1].idCanso
           console.log("nouIdCanso 'anterior':", nouIdCanso);
-          const nouIdCanso = JSON.parse(arrLlibNumIdIdioma[ posicio - 1]).idCanso
-          this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+					this.codiCanso = nouIdCanso
+          // this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
+
+					this.generarOpcionsIdioma()
         }
       }
 
