@@ -123,6 +123,11 @@
           </tr> 
         </tbody>
       </q-markup-table>
+
+
+      <q-page-sticky position="bottom-right" :offset="[10, 10]">
+        <q-btn round size="sm" icon="keyboard_double_arrow_up" color="primary" @click="vesAlComensament"/>
+      </q-page-sticky>      
     </div>
   </div>
 </template>
@@ -160,6 +165,14 @@ export default {
   },
 
   methods: {
+
+    vesAlComensament: function(){
+      // console.log("Estic a vesAlComensament")
+      window.scrollTo(0,0);
+      // location.href = "#/canso/#inici";
+    },
+
+
     MostrarCansoDeLaTaula: function(idCanso, idioma) {
       // this.$store.dispatch("modulCansoner/actMostrarCanso", {
       //   llibre: llibre,
