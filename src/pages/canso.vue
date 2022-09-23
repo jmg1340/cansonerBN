@@ -538,15 +538,25 @@ export default {
 
       arrKeys.forEach( (key) => {
         
-        if (this.objCansoner[key][this.strIdioma] && 
-            this.objCansoner[key][this.strIdioma].cansoner.nom === llibre) {
-          arrLlibNumIdIdioma.push({ 
-            // llibre: llibre, 
-            numero: this.objCansoner[key][this.strIdioma].cansoner.numero,
-            idCanso: key,
-          })
-        }
-      })
+        // if (this.objCansoner[key][this.strIdioma] && 
+        //     this.objCansoner[key][this.strIdioma].cansoner.nom === llibre) {
+        
+        const idiomesCansoKey = Object.keys(this.objCansoner[key])
+        // console.log("key", key, "idiomesCansoKey", idiomesCansoKey)
+
+        idiomesCansoKey.forEach( function(idioma) {
+          // console.log("this.objCansoner["+key+"]["+idioma+"]", this.objCansoner[key][idioma]);
+          if (this.objCansoner[key][idioma].cansoner.nom === llibre) {
+            arrLlibNumIdIdioma.push({ 
+              // llibre: llibre, 
+              numero: this.objCansoner[key][idioma].cansoner.numero,
+              idCanso: key,
+              idioma: idioma
+            })
+          }
+        },this)
+        
+      },this)
 
       // ordenem array arrLlibNumIdIdioma per numero ascendent
       arrLlibNumIdIdioma.sort((a, b) => { return a.numero - b.numero; })
@@ -556,7 +566,7 @@ export default {
     
 
 
-      const posicio = arrLlibNumIdIdioma.findIndex( obj => obj.numero === numero && obj.idCanso === this.codiCanso )
+      const posicio = arrLlibNumIdIdioma.findIndex( obj => obj.numero === numero && obj.idCanso === this.codiCanso && obj.idioma === this.strIdioma)
       console.log("posicio", posicio);
 
       // Busquem la següent posicio en funcio de si es l'anterior o la propera
@@ -564,8 +574,10 @@ export default {
         // si la posicio acutal no es la ultima posicio del array, mostrem la canço
         if (posicio !== arrLlibNumIdIdioma.length - 1 ) {
           const nouIdCanso = arrLlibNumIdIdioma[ posicio + 1].idCanso
+          const nouIdioma = arrLlibNumIdIdioma[ posicio + 1].idioma
           console.log("nouIdCanso 'proper':", nouIdCanso);
 					this.codiCanso = nouIdCanso
+          this.strIdioma = nouIdioma
 
           // this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
 					this.generarOpcionsIdioma()
@@ -574,8 +586,10 @@ export default {
         // si la posicio acutal no es la primera posicio del array, mostrem la canço
         if (posicio !== 0 ) {
           const nouIdCanso = arrLlibNumIdIdioma[ posicio - 1].idCanso
+          const nouIdioma = arrLlibNumIdIdioma[ posicio - 1].idioma
           console.log("nouIdCanso 'anterior':", nouIdCanso);
 					this.codiCanso = nouIdCanso
+          this.strIdioma = nouIdioma
           // this.$router.replace({ name: "canso", query: { idCanso: nouIdCanso,  idioma: this.strIdioma } });
 
 					this.generarOpcionsIdioma()

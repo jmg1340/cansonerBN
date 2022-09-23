@@ -126,7 +126,7 @@
 
 
       <q-page-sticky position="bottom-right" :offset="[10, 10]">
-        <q-btn round size="sm" icon="keyboard_double_arrow_up" color="primary" @click="vesAlComensament"/>
+        <q-btn round size="md" icon="keyboard_double_arrow_up" color="primary" @click="vesAlComensament"/>
       </q-page-sticky>      
     </div>
   </div>
