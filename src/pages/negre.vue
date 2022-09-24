@@ -63,6 +63,11 @@ export default {
       
       switch( event.key ){
 
+        case "T":
+        case "t":
+          this.$router.push({ name: 'cercar' });
+          break;
+
         case "J":
         case "j":
           this.imatgeJesus = !this.imatgeJesus
@@ -151,17 +156,17 @@ export default {
           })
           .onOk( data =>   { 
             idioma = data;
-            this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+            this.$router.push({ name: "cansoDesdeNegre", query: { idCanso,  idioma } });
           })
           .onCancel(() =>  { })// console.log('>>>> Cancel')
           .onDismiss(() => { });// console.log('I am triggered on both OK and Cancel')
 
       } else {
-        this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+        this.$router.push({ name: "cansoDesdeNegre", query: { idCanso,  idioma } });
       }
 
 
-      this.guardarVariablesSessio();
+      // this.guardarVariablesSessio();
       
 
 

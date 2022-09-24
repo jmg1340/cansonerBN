@@ -1,6 +1,6 @@
 <template>
   <div class="flex-start q-pa-md" :class="{classFonsClar: !opcions.temaFosc,
-                                            classFonsFosc: opcions.temaFosc}">
+  classFonsFosc: opcions.temaFosc}">
   
     <div class="q-gutter-md">
       
@@ -64,7 +64,9 @@
               </div>
 
               <!-- icona cor -->
-              <div class="col-auto text-center ">
+              <div class="col-auto text-center"
+                v-if="opcions.mostrarIconaFavorit == true"
+              >
                 <q-icon
                   v-if="esCansoFavorita == false"
                   style= "color: #545454; font-size: 1.5rem;"
@@ -131,15 +133,15 @@
               id="inici"
             >
               <q-card-section class="q-my-xs" :class="{classFonsClar: !opcions.temaFosc,
-                                                       classFonsFosc: opcions.temaFosc}">
+              classFonsFosc: opcions.temaFosc}">
                 <p 
                   v-for="(linia, indexLinia) in obj.paragraf"
                   :key="`L-${indexLinia}`"
                   v-bind:style="{ fontSize : opcions.pfontSize + 'px', fontWeight: opcions.pbold ? 'bold' : ''}"
                   :class="{classTornadaTemaClar: obj.tipus=='tornada' && !opcions.temaFosc,
-                           classTornadaTemaFosc: obj.tipus=='tornada' && opcions.temaFosc,
-                           classEstrofaTemaClar: obj.tipus=='estrofa' && !opcions.temaFosc,
-                           classEstrofaTemaFosc: obj.tipus=='estrofa' && opcions.temaFosc}"
+                  classTornadaTemaFosc: obj.tipus=='tornada' && opcions.temaFosc,
+                  classEstrofaTemaClar: obj.tipus=='estrofa' && !opcions.temaFosc,
+                  classEstrofaTemaFosc: obj.tipus=='estrofa' && opcions.temaFosc}"
                   >
                     {{ linia  }}
                 </p>
@@ -323,11 +325,13 @@ export default {
       optionsToggle: null,
 
       activarCanviCanso: false,
+      
       advertenciaCorreu: false,
       opcions: {
         pfontSize: 16,
         pbold: false,
         amagaReproductor: false,
+        mostrarIconaFavorit: true,
         amagaSocialLinks: false,
         temaFosc: false      
       },
@@ -389,9 +393,29 @@ export default {
           this.$router.push({ name: "negre" });         
           break;
 
+        case "R":
+        case "r":
+          this.opcions.amagaReproductor = !this.opcions.amagaReproductor;
+          break;
+
+        case "E":
+        case "e":
+          this.opcions.amagaSocialLinks = !this.opcions.amagaSocialLinks;
+          break;
+
+        case "O":
+        case "o":
+          this.opcions.mostrarIconaFavorit = !this.opcions.mostrarIconaFavorit;
+          break;
+
         case "F":
         case "f":
-          this.opcions.temaFosc = !this.opcions.temaFosc;         
+          this.opcions.temaFosc = !this.opcions.temaFosc;
+          break;
+
+        case "G":
+        case "g":
+          this.opcions.pbold = !this.opcions.pbold;
           break;
 
         case "I":
@@ -525,6 +549,8 @@ export default {
 
     mostrarSeguentCanso: function( { evt, ...newInfo } ){
       console.log("*** Estic a SEGUENT_CANSO ***")
+
+      if (this.activarCanviCanso === false ) return
 
       const llibre = this.objCanso[this.strIdioma].cansoner.nom
       const numero = this.objCanso[this.strIdioma].cansoner.numero

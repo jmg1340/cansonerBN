@@ -3,12 +3,16 @@
 
 >Tecles actives quan per es mostra la **cançó**:
 
-- Tecla **"N"** per posar pantalla en negre
-- Tecla **"I"** per anar al (I)nici de la cançó
-- Tecla **"C"** per canviar entre (C)atalà i (C)astellà
-- Tecla **"F"** per canviar entre tema clar i tema (F)osc
-- Tecla **"+"** per fer més gran la lletra
-- Tecla **"-"** per fer més petita la lletra
+- Tecla **"N"** per posar pantalla en negre.
+- Tecla **"R"** (R)eproductor visible (en cas de tenir audio la canso) o no.
+- Tecla **"E"** icona (E)mail visible o no.
+- Tecla **"O"** icona C(o)r visible o no.
+- Tecla **"I"** per anar al (I)nici de la cançó.
+- Tecla **"C"** per canviar entre (C)atalà i (C)astellà.
+- Tecla **"F"** per canviar entre tema clar i tema (F)osc.
+- Tecla **"G"** lletra en ne(G)reta o no.
+- Tecla **"+"** per fer més gran la lletra.
+- Tecla **"-"** per fer més petita la lletra.
 
 
 >Tecles actives quan es mostra la **pantalla en negre**:

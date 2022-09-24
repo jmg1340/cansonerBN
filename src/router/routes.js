@@ -7,24 +7,30 @@ const routes = [
       { name: "cercar", path: "", component: () => import("pages/Index.vue") },
     ],
   },
-  {
-    
+
+  { 
     path: "/canso",
     component: () => import("layouts/layoutCanso.vue"),
     children: [
       {
         name: "canso",
-        // params: route => ({ query: {
-        //   idCanso: route.query.idCanso,
-        //   llibre: route.query.llibre,
-        //   numero: route.query.numero,
-        //   idioma: route.query.idioma
-        // }}),
         path: "",
         component: () => import("pages/canso.vue"),
       },
     ],
   },
+  { 
+    path: "/cansoDesdeNegre",
+    component: () => import("pages/canso.vue"),
+    children: [
+      {
+        name: "cansoDesdeNegre",
+        path: "",
+        component: () => import("pages/canso.vue"),
+      },
+    ],
+  },
+  
   {
     path: "/negre",
     component: () => import("layouts/layoutNegre.vue"),
