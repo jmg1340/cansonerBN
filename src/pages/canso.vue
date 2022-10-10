@@ -388,6 +388,11 @@ export default {
 
     funcEventTecles: function(event){     
       switch( event.key ){
+        case "T":
+        case "t":
+          this.$router.push({ name: 'cercar' });
+          break;
+
         case "N":
         case "n":
           this.$router.push({ name: "negre" });         
@@ -630,105 +635,6 @@ export default {
 
       return
 
-      // let nouNumero = (endavant_endarrere = "endavant") ? this.objCanso[this.strIdioma].cansoner.numero + 1  :  this.objCanso[this.strIdioma].cansoner.numero - 1 
-
-      //console.log ("state.llibre MODIFICAT")
-
-    
-      // Un cop actualitzat, 1er miro no existeixen les 2 propietats:
-      if ( !this.$store.getters['modulCansoner/getObjCansonsLlibre'][nouNumero + "_CAT"] &&  !this.$store.getters['modulCansoner/getObjCansonsLlibre'][nouNumero + "_ES"] ) {
-
-        this.$q.dialog({
-          title: 'Alerta',
-          message: 'La canso amb numero ' + nouNumero + ' NO EXISTEIX al cançoner ' + this.objCanso[this.strIdioma].cansoner.nom
-        }).onOk(() => {
-          // console.log('OK')
-
-        }).onCancel(() => {
-          // console.log('Cancel')
-        }).onDismiss(() => {
-          // console.log('I am triggered on both OK and Cancel')
-        })        
-
-    
-      // 2on miro si existeixen les 2 propietats:
-      } else if ( this.$store.getters['modulCansoner/getObjCansonsLlibre'][nouNumero + "_CAT"] &&  this.$store.getters['modulCansoner/getObjCansonsLlibre'][nouNumero + "_ES"] ) {
-
-
-          this.$q.dialog({
-            title: 'La següent cançó te mateix cançoner i número de cançó per cada idioma. Quin idioma vols veure ?',
-            //message: 'Tria idioma:',
-            options: {
-              type: 'radio',
-              model: null,
-              // inline: true,
-              items: [
-                { label: 'Català', value: 'CAT', color: 'secondary' },
-                { label: 'Castellà', value: 'ES' },
-              ]
-            },
-            cancel: false,
-            persistent: true
-          }).onOk(data => {
-            
-            let idioma = data
-
-            //this.$store.dispatch("modulCansoner/actModificarLlibre", this.objCanso[this.strIdioma].cansoner.nom)
-
-            console.log("ACTMostrarCanso")
-            // debugger
-            this.$store.dispatch("modulCansoner/actMostrarCanso", 
-              {
-                llibre: this.objCanso[this.strIdioma].cansoner.nom,
-                numero_idioma: nouNumero + "_" + idioma
-              }
-            )
- 
-            //this.$router.push({ name: 'canso'});            
-
-            this.optionsToggle =[]
-            this.arrIdiomes.forEach( function(idioma) {
-              this.optionsToggle.push({
-                label: (idioma == "CAT") ? "CATALÀ" : "CASTELLÀ" ,
-                value: idioma
-              })
-            },this)
-
-            this.strIdioma = idioma
-
-          }).onCancel(() => {
-            // console.log('>>>> Cancel')
-          }).onDismiss(() => {
-            // console.log('I am triggered on both OK and Cancel')
-          })
-
-
-      } else {
-        //debugger 
-        let idioma = ( this.$store.getters['modulCansoner/getObjCansonsLlibre'][nouNumero + "_CAT"] ) ? "CAT": "ES"
-        console.log("ELSE idioma: " + idioma)
-        
-        this.$store.dispatch("modulCansoner/actMostrarCanso", 
-          {
-            llibre: this.objCanso[this.strIdioma].cansoner.nom,
-            numero_idioma: nouNumero + "_" + idioma
-          }
-        )
-
-
-        // this.$router.push({ name: 'canso'});            
-
-        this.optionsToggle =[]
-        this.arrIdiomes.forEach( function(idioma) {
-          this.optionsToggle.push({
-            label: (idioma == "CAT") ? "CATALÀ" : "CASTELLÀ" ,
-            value: idioma
-          })
-        },this)
-
-        this.strIdioma = idioma
-
-      }
 
     },
 

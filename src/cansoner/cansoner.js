@@ -37117,7 +37117,7 @@ cansoner=
         "estat": "nova",
         "cansoner": {
           "nom": "vermell",
-          "numero": "594"
+          "numero": 594
         },
         "lletra": [
           {
