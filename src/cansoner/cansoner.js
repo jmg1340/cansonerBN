@@ -1,5 +1,5 @@
 cansoner= 
-  // nou id: 714
+  // nou id: 715
   // ids lliures: 
 
   {
@@ -37100,6 +37100,37 @@ cansoner=
               "y repetir con humilde devoción:",
               "Te quiero con locura preciosa Madre,",
               "Tú el mejor regalo de mi Dios."
+            ]
+          }
+        ]
+      }
+    },
+    "714": {
+      "ES": {
+        "titol": "Aleluya, Jesús es el Señor",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1b7yUpVC65v9yjiaB5Isq7YF-cBIIek6Z",
+            "type": "audio/mp3"
+          }
+        ],
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": "594"
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aleluya (2), Jesús es el Señor,",
+              "Señor de mi corazón (bis)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Es camino, la verdad y la vida (2)."
             ]
           }
         ]

@@ -1,10 +1,9 @@
-
 ## DRECERES DE TECLAT
 
->Tecles actives quan per es mostra la **cançó**:
+> Tecles actives quan per es mostra la **cançó**:
 
 - Tecla **"N"** per posar pantalla en negre.
-- Tecla **"R"** (R)eproductor visible (en cas de tenir audio la canso) o no.
+- Tecla **"R"** (R)eproductor visible (en cas de tenir audio la canço) o no.
 - Tecla **"E"** icona (E)mail visible o no.
 - Tecla **"O"** icona C(o)r visible o no.
 - Tecla **"I"** per anar al (I)nici de la cançó.
@@ -14,8 +13,7 @@
 - Tecla **"+"** per fer més gran la lletra.
 - Tecla **"-"** per fer més petita la lletra.
 
-
->Tecles actives quan es mostra la **pantalla en negre**:
+> Tecles actives quan es mostra la **pantalla en negre**:
 
 - Tecla **"T"** per activar pantalla de busquedes
 - Tecla **"N"** per tornar a la pantalla anterior (ja sigui una cançó o no)
@@ -25,9 +23,8 @@
 - Tecla **"Supr"** per eliminar de la memòria el numero de cançó teclejat.
 - Tecla **"Intro"** per mostrar la cançó un cop establert el seu numero i cançoner
 
-
-
 ---
+
 ### Versió 3.3
 
 Pagina "canso":
