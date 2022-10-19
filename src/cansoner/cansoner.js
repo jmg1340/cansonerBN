@@ -37123,7 +37123,8 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Aleluya (2), Jesús es el Señor,",
+              "Aleluya (2)",
+              "Jesús es el Señor,",
               "Señor de mi corazón (bis)"
             ]
           },
@@ -37134,7 +37135,33 @@ cansoner=
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "Al·leluia, Jesús és el Senyor",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 594
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al·leluia (2)",
+              "Jesús és el Senyor,",
+              "Senyor de tot el meu cor (bis)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "És camí, la veritat i la vida (2)."
+            ]
+          }
+        ]
       }
+
     }
    
 

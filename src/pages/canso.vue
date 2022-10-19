@@ -235,7 +235,7 @@
           <q-separator color="red-8" inset />
           <q-item dense class="">          
             <q-item-section avatar>
-              <q-checkbox v-model="activarCanviCanso" label="Canviar cançó al lliscar dit horitzontalment" color="black" />
+              <q-checkbox v-model="opcions.activarCanviCanso" label="Canviar cançó al lliscar dit horitzontalment" color="black" />
             </q-item-section>
           </q-item>
         </q-card-section>
@@ -324,7 +324,7 @@ export default {
       strIdioma: this.$route.query.idioma,
       optionsToggle: null,
 
-      activarCanviCanso: false,
+      
       
       advertenciaCorreu: false,
       opcions: {
@@ -333,7 +333,8 @@ export default {
         amagaReproductor: false,
         mostrarIconaFavorit: true,
         amagaSocialLinks: false,
-        temaFosc: false      
+        temaFosc: false,
+        activarCanviCanso: false,     
       },
       // llibre: this.$route.query.llibre,
       // numero: this.$route.query.numero,
@@ -555,7 +556,7 @@ export default {
     mostrarSeguentCanso: function( { evt, ...newInfo } ){
       console.log("*** Estic a SEGUENT_CANSO ***")
 
-      if (this.activarCanviCanso === false ) return
+      if (this.opcions.activarCanviCanso === false ) return
 
       const llibre = this.objCanso[this.strIdioma].cansoner.nom
       const numero = this.objCanso[this.strIdioma].cansoner.numero
