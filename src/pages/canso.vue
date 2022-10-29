@@ -3,7 +3,8 @@
   classFonsFosc: opcions.temaFosc}">
   
     <div class="q-gutter-md">
-      
+      <a href="whatsapp://send?text=This is WhatsApp sharing example using link" data-action="share/whatsapp/share"  
+        target="_blank"> Share to WhatsApp </a>   
 
       <!-- boto superior CATALA / CASTELLA -->
 
@@ -92,15 +93,29 @@
               
               <!-- icona email -->
               <div class="col text-right" >
-                <q-btn
-                  color="grey-8"
-                  flat
-                  dense
-                  @click="advertenciaCorreu=true"
-                  icon="mail"
-                  aria-label="Enviar"
-                  v-if="!opcions.amagaSocialLinks"
-                />
+                
+                <q-fab color="grey-4" flat text-color="black" icon="share" direction="left" padding="xs"
+                  v-if="!opcions.amagaSocialLinks" >
+                        <q-fab-action 
+                          color="orange" 
+                          @click="advertenciaCorreu=true" 
+                          icon="mail" 
+                          label="Correu"
+                          external-label 
+                          label-position="top"
+                          />
+                        <q-fab-action
+                          type="a"
+                          color="green-8"
+                          @click="compartirCanso('whatsapp')"
+                          icon="img:WhatsApp.svg"
+                          label="WhatsApp"
+                          external-label 
+                          label-position="top"
+                          data-action="share/whatsapp/share"                         
+                        />
+                </q-fab>
+
               </div>
 
             </div>
@@ -265,7 +280,7 @@
         </q-card-section>
 
         <q-card-actions align="right" class="bg-white text-teal">
-          <q-btn flat label="OK" @click="enviarCorreu" />
+          <q-btn flat label="OK" @click="compartirCanso('email')" />
         </q-card-actions>
       </q-card>
     </q-dialog>
@@ -501,15 +516,15 @@ export default {
 
     },
 
-    enviarCorreu: function(){
+    compartirCanso: function(socialMedia){
       this.advertenciaCorreu = false
 
-      let asumpte = "Cançó \"" + this.objCansoner[this.idCanso][this.strIdioma].titol.toUpperCase() + "\""
+      let asumpte = "Cançó \"" + this.objCansoner[this.codiCanso][this.strIdioma].titol.toUpperCase() + "\""
       let text = "" 
 
 
       /* si existeix audio, incorporem enllaç al missatge*/
-      let arrAudio = this.objCansoner[this.idCanso][this.strIdioma].audio
+      let arrAudio = this.objCansoner[this.codiCanso][this.strIdioma].audio
 
       if (arrAudio != null){
         text = "ÀUDIO:\n"
@@ -520,7 +535,7 @@ export default {
 
 
       /* Incorporem la lletra de la canço */
-      this.objCansoner[this.idCanso][this.strIdioma].lletra.forEach( function (objEstrofa) {
+      this.objCansoner[this.codiCanso][this.strIdioma].lletra.forEach( function (objEstrofa) {
 
         objEstrofa.paragraf.forEach( function (linia) {
           text += linia + "\n"
@@ -535,8 +550,35 @@ export default {
       //   text = encodeURIComponent(text)
       // }
 
+      console.log("PLATAFORMA?: ", this.$q.platform)
+      
+      if (this.$q.platform.is.mobile) {
 
-      location.href = "mailto:?subject=" + asumpte + "&body=" + encodeURIComponent(text)
+
+        switch (socialMedia){
+          case "email":
+            console.log("enviar a traves de EMAIL");
+            location.href = "mailto:?subject=" + asumpte + "&body=" + encodeURIComponent(text)
+            break
+          case "whatsapp":
+            console.log("enviar a traves de WHATSAPP");
+            // per passar new "carriage returns" substituir els "\n" per "%0a"
+            text = text.replace(/\n/g, "%0a")
+            window.open("whatsapp://send?text=" + text, '_blank')
+            break
+        }
+
+      } else {
+ 
+        this.$q.notify({
+          message: 'Funcionalitat només operativa en dispositius mòbils',
+          icon: 'sentiment_very_dissatisfied',
+          position: 'top',
+          timeout: 2000
+        })
+        
+
+      }
 
     },
 
@@ -615,7 +657,7 @@ export default {
 					this.generarOpcionsIdioma()
         }
       } else if (newInfo.direction == "right" ) {
-        // si la posicio acutal no es la primera posicio del array, mostrem la canço
+        // si la posicio actual no es la primera posicio del array, mostrem la canço
         if (posicio !== 0 ) {
           const nouIdCanso = arrLlibNumIdIdioma[ posicio - 1].idCanso
           const nouIdioma = arrLlibNumIdIdioma[ posicio - 1].idioma
