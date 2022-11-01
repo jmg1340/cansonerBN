@@ -3,8 +3,7 @@
   classFonsFosc: opcions.temaFosc}">
   
     <div class="q-gutter-md">
-      <a href="whatsapp://send?text=This is WhatsApp sharing example using link" data-action="share/whatsapp/share"  
-        target="_blank"> Share to WhatsApp </a>   
+        
 
       <!-- boto superior CATALA / CASTELLA -->
 
@@ -94,26 +93,29 @@
               <!-- icona email -->
               <div class="col text-right" >
                 
-                <q-fab color="grey-4" flat text-color="black" icon="share" direction="left" padding="xs"
+                <q-fab color="grey-4" flat text-color="black" icon="share" direction="down" padding="xs"
                   v-if="!opcions.amagaSocialLinks" >
                         <q-fab-action 
-                          color="orange" 
+                          color="orange-10" 
                           @click="advertenciaCorreu=true" 
-                          icon="mail" 
                           label="Correu"
                           external-label 
-                          label-position="top"
-                          />
+                          label-position="left"
+                        >
+                          <q-icon name="mail" size="lg"/>
+                        </q-fab-action> 
                         <q-fab-action
                           type="a"
                           color="green-8"
                           @click="compartirCanso('whatsapp')"
-                          icon="img:WhatsApp.svg"
+                          
                           label="WhatsApp"
                           external-label 
-                          label-position="top"
+                          label-position="left"
                           data-action="share/whatsapp/share"                         
-                        />
+                        >
+                          <q-icon name="img:WhatsApp.svg" size="lg"/>
+                        </q-fab-action> 
                 </q-fab>
 
               </div>
@@ -244,7 +246,7 @@
           <q-separator color="red-8" inset />
           <q-item dense class="">
             <q-item-section avatar>
-              <q-checkbox v-model="opcions.amagaSocialLinks" label="Amaga correu" color="black" />
+              <q-checkbox v-model="opcions.amagaSocialLinks" label="Amaga icona 'compartir'" color="black" />
             </q-item-section>
           </q-item>
           <q-separator color="red-8" inset />
@@ -419,8 +421,8 @@ export default {
           this.opcions.amagaReproductor = !this.opcions.amagaReproductor;
           break;
 
-        case "E":
-        case "e":
+        case "M":
+        case "m":
           this.opcions.amagaSocialLinks = !this.opcions.amagaSocialLinks;
           break;
 
@@ -542,6 +544,13 @@ export default {
         })
         text += "\n\n"
       })
+
+      // incorprem enllaços a bonanova.cat, cançoner i pregàries
+      text += "\n\n"
+      text += "https://cansoner.bonanova.cat \n\n"
+      text += "https://bonanova.cat \n"
+      text += "https://pregaries.bonanova.cat \n"
+
 
 
 

@@ -4,7 +4,7 @@
 
 - Tecla **"N"** per posar pantalla en negre.
 - Tecla **"R"** (R)eproductor visible (en cas de tenir audio la canço) o no.
-- Tecla **"E"** icona (E)mail visible o no.
+- Tecla **"M"** icona Co(M)partir visible o no.
 - Tecla **"O"** icona C(o)r visible o no.
 - Tecla **"I"** per anar al (I)nici de la cançó.
 - Tecla **"C"** per canviar entre (C)atalà i (C)astellà.
@@ -22,6 +22,16 @@
 - **Teclat numèric** per teclejar el numero de la cançó
 - Tecla **"Supr"** per eliminar de la memòria el numero de cançó teclejat.
 - Tecla **"Intro"** per mostrar la cançó un cop establert el seu numero i cançoner
+
+---
+
+### Versió 3.4
+
+Pagina "canso":
+
+- Substitucio de la icona d'email per la de compartir. Al pulsar, surten icones de mail i whatsapp
+- Quan tornes d'una cançó a la pagina de buscar per text, et torna a situar, no a d'alt de tot sino a la posició desde la que havies clicat la cançó.
+- pantalla buscar per text: s'afegeix botó abaix a la dreta per, si estas en una posició molt baixa de la llista, poguer tornar a d'alt de tot.
 
 ---
 
