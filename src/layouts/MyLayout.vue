@@ -38,7 +38,7 @@
             color="blue-10"
           />
         </q-btn>
-        <div class="text-caption text-brown-9">v 3.4</div>
+        <div class="text-caption text-brown-9">v 3.5</div>
       </q-toolbar>
 
       <div

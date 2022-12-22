@@ -1,4 +1,6 @@
 <template>
+  <!-- <q-scroll-area style="height: 100vh; width: 100vh;" :visible="false"> -->
+  
   <div class="flex-start q-pa-md" :class="{classFonsClar: !opcions.temaFosc,
   classFonsFosc: opcions.temaFosc}">
   
@@ -291,7 +293,7 @@
 
   </div>
 
-
+  <!-- </q-scroll-area> -->
 </template>
 
 
@@ -301,7 +303,7 @@
 
 <script>
 import VueAplayer from 'vue-aplayer'
-
+import objNadales from "../cansoner/nadales.js"
 
 export default {
   name: 'canso',
@@ -361,7 +363,8 @@ export default {
 
   computed: {
     objCansoner: function (){
-      return this.$store.state.modulCansoner.objCansoner
+      const objCansonerBlauVermell = this.$store.state.modulCansoner.objCansoner
+      return Object.assign(objCansonerBlauVermell, objNadales)
     },
 
     // num
@@ -763,6 +766,9 @@ export default {
   .classFonsFosc{
     background-color: black;
   }
+
+
+
 
 
 </style>

@@ -2,10 +2,10 @@
 
 > Tecles actives quan per es mostra la **cançó**:
 
-- Tecla **"N"** per posar pantalla en negre.
+- Tecla **"N"** per posar pantalla en (N)egre.
 - Tecla **"R"** (R)eproductor visible (en cas de tenir audio la canço) o no.
 - Tecla **"M"** icona Co(M)partir visible o no.
-- Tecla **"O"** icona C(o)r visible o no.
+- Tecla **"O"** icona c(O)r visible o no.
 - Tecla **"I"** per anar al (I)nici de la cançó.
 - Tecla **"C"** per canviar entre (C)atalà i (C)astellà.
 - Tecla **"F"** per canviar entre tema clar i tema (F)osc.
@@ -22,6 +22,14 @@
 - **Teclat numèric** per teclejar el numero de la cançó
 - Tecla **"Supr"** per eliminar de la memòria el numero de cançó teclejat.
 - Tecla **"Intro"** per mostrar la cançó un cop establert el seu numero i cançoner
+
+---
+
+### Versió 3.5
+
+Pagina "Index":
+
+- S'afegeix un apartat més per a les Nadales. Aquest apartat es mostra des del 15 de desembre al 15 de gener.
 
 ---
 
