@@ -37161,10 +37161,38 @@ cansoner=
           }
         ]
       }
-
+    },
+    "715": {
+      "ES": {
+        "titol": "Fue allá en la cumbre del monte Horeb",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 595
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Fue allá en la cumbre del monte",
+              "donde Moisés con su Dios hablaba",
+              "Y cuando bajaba del monte",
+              "él no sabía que su rostro brillaba",
+              "Brillaba, brillaba",
+              "él no sabía que su rostro brillaba",
+              "fue allá en la cumbre del monte Horeb",
+              "donde Moisés con su Dios hablaba",
+              "donde Moisés con su Dios hablaba ."
+            ]
+          }
+        ]
+      }
+      
     }
    
 
+  
 
 
 
