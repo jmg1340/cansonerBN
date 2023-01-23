@@ -5,3 +5,87 @@ LLIBRE VERMELL
 - La 195 i 95 del llibre són la mateixa canço amb petites diferències. La 195 es la bona. A la app no s'ha posat la 95
 
 
+ARRAN DE LA INTENCIÓ D'INCORPORAR NOVES TRADUCCIONS DEL LLIBRE BLAU (SEGONS DOCUMENT CARLA) HI VAN HAVER DIFERENCIES D'OPINIO I FINALMENT NO ES VA INCORPORAR UNA SEGONA TRADUCCIÓ (SUGGERIDA PER ANA) DE LES SEGÜENTS CANÇONS
+
+Cançó 67 BLAU. 2ª traducció:
+,
+      "CAT": {
+        "titol": "Teva  és la glòria",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 597
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "1. Teva  és la glòria, i l’honra també.",
+              "Teves  per sempre, amén, amén."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "2. Teu és el Regne i els dominis també.",
+              "Teus són per sempre, amén, amén."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "3. A Tu em rendeixo, t’adoro també.",
+              "L’Únic per sempre, amén, amén."
+            ]
+          }
+        ]
+      }
+
+
+
+Cançó 302 BLAU. 2ª traducció:
+,
+      "CAT": {
+        "titol": "Senyor, el més gran i digne de lloar,",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 598
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Senyor, el més gra-an i digne de lloar,",
+              "m’agenollo davant teu per adorar",
+              "Exalçaré per sempre el teu nom."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Senyor, el més gra-an i digne de lloar,",
+              "m’ajudes l’enemic a derrotar",
+              "En Tu trobo refugi i protecció."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Senyor jo vull alçar la meva veu",
+              "vull donar-te gràcies",
+              "pel que fas en ma vida."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Senyor confio en el teu amor",
+              "Tu ets l’únic Déu etern,",
+              "Només Tu em transformes el cor."
+            ]
+          }
+        ]
+      }

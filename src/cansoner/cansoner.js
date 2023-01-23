@@ -1,6 +1,6 @@
-cansoner= 
+cansoner=
   // nou id: 715
-  // ids lliures: 
+  // ids lliures:
 
   {
     "1": {
@@ -2812,37 +2812,30 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Dios, el más grande",
-              "y digno de alabar",
-              "yo vengo",
-              "a tu presencia a adorar,",
+              "Dios, el más grande y digno de alabar",
+              "yo vengo a tu presencia a adorar,",
               "yo doblo mis rodillas ante ti."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Dios, el más grande",
-              "y digno de alabar",
-              "te ayuda al enemigo",
-              "a derrotar.",
+              "Dios, el más grande y digno de alabar",
+              "te ayuda al enemigo a derrotar.",
               "El gozo de mi vida eres tú."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Señor,",
-              "yo quiero levantar mi voz,",
-              "quiero darte gracias",
-              "por tu obra en mi vida."
+              "Señor, yo quiero levantar mi voz,",
+              "quiero darte gracias por tu obra en mi vida."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Señor,",
-              "confío en tu gran amor.",
+              "Señor, confío en tu gran amor.",
               "Sólo tú eres Dios eterno,",
               "sólo tú transformas mi ser."
             ]
@@ -7685,12 +7678,12 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "Les mans ben buides,",
-              "això és el que espera en mi;",
-              "Ell em  demana",
+              "això esperes Tu de mi;",
+              "i em demanes",
               "deixar-ho tot als seus peus",
               "fins que ja no tingui,",
               "ja no tingui res",
-              "per tal que Ell pugui entrar",
+              "per tal que puguis entrar",
               "i omplir-me fins a vessar."
             ]
           }
@@ -9658,12 +9651,20 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Oh Padre, yo te amo",
-              "oh Padre, yo te amo",
-              "oh Padre, yo te amo",
-              "aleluya,  aleluya.",
+              "Oh Padre, yo te amo (3)",
+              "aleluya, aleluya."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Jesús, yo te adoro (3)",
-              "aleluya, aleluya.",
+              "aleluya, aleluya."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Espíritu yo te alabo (3)",
               "aleluya, aleluya."
             ]
@@ -9849,7 +9850,7 @@ cansoner=
             ]
           }
         ]
-      }      
+      }
     },
     "205": {
       "ES": {
@@ -10717,7 +10718,7 @@ cansoner=
           }
         ],
        "estat": null,
-       "preferida":  false, 
+       "preferida":  false,
        "cansoner": {
           "nom": "blau",
           "numero": 342
@@ -12175,7 +12176,7 @@ cansoner=
             ]
           },
         ]
-      }      
+      }
     },
     "259": {
       "ES": {
@@ -12594,8 +12595,8 @@ cansoner=
           }
         ]
       }
- 
-      
+
+
 
     },
     "266": {
@@ -13650,11 +13651,21 @@ cansoner=
               "Tuya es la gloria,",
               "la honra también;",
               "tuya para siempre",
-              "amén, amén.",
+              "amén, amén."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "Tuyos los dominios,",
               "los tronos también",
               "tuyos para siempre,",
-              "amén, amén.",
+              "amén, amén."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
               "A ti yo me rindo,",
               "te adoro también",
               "dueño absoluto,",
@@ -23397,7 +23408,7 @@ cansoner=
           }
         ],
       "estat": null,
-      "preferida":  false,  
+      "preferida":  false,
       "cansoner": {
           "nom": "vermell",
           "numero": 30
@@ -32047,7 +32058,7 @@ cansoner=
       "ES": {
         "titol": "De gloria en gloria te veo",
         "audio": [
-          {         
+          {
             "src": "https://docs.google.com/uc?export=&id=10wZoPL8kGj9EeclY4OnKFSP0aQy_M-zs",
             "type": "audio/mp3"
           }
@@ -36093,7 +36104,7 @@ cansoner=
     },
     "696": {
       "ES": {
-        "titol": "Pupurri 1",
+        "titol": "Pupurri lloança",
         "audio": [
           {
             src: "https://docs.google.com/uc?export=&id=1dU8q8TUK1AbjmRbl0EGjS5BuV1acy7-K",
@@ -37188,11 +37199,237 @@ cansoner=
           }
         ]
       }
-      
-    }
-   
 
-  
+    },
+    "716": {
+      "CAT": {
+        "titol": "Pupurri animació",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 596
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Benvinguts, benvinguts.",
+              "Els germans que som aquí,",
+              "Estem contents de poder dir…"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Benvinguts, benvinguts. En el nom de Jesucrist, benvinguts."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Braços alceu per a lloar,",
+              "Braços obriu per acollir.",
+              "Braços en creu per proclamar:",
+              "Jesús, Jesús és aquí."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Brazos alzad para alabar,",
+              "brazos abrid para acoger.",
+              "Brazos en cruz para decir:",
+              "Jesús, Jesús está aquí."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Estem tots de festa amb Jesús,",
+              "al Cel junts volem anar,",
+              "estem al voltant d’aquesta taula i és Crist el qui ens servirà."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "[Poderós és nostre Déu.] x 4"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Ell salva, guareix,",
+              "poderós és nostre Déu; bateja, perdona, poderós és nostre Déu."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "[Poderós és nostre Déu.] x 4"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "El Pare, el Fill, poderós és nostre Déu;",
+              "Esperit d’amor, poderós és nostre Déu."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "[Poderós és nostre Déu.] x 4"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "(final)",
+              "Poderós! Poderós! Poderós! Poderós és nostre Déu!"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabaré, alabaré, (4)",
+              "alabaré a mi Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Juan vio el número de los redimidos",
+              "y todos alababan al Señor;",
+              "unos oraban, otros cantaban",
+              "y todos alababan el Señor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabaré, alabaré, (4)",
+              "alabaré a mi Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Somos sus hijos, Dios Padre eterno, tú nos has creado por amor;",
+              "que adoramos, te bendecimos y todos cantamos en tu honor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabaré, alabaré, (4)",
+              "alabaré a mi Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Todos unidos, alegres cantamos",
+              "gloria y alabanzas al Señor.",
+              "¡Gloria al Padre! ¡Gloria al hijo!",
+              "Y ¡gloria al Espíritu de amor!"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabaré, alabaré, (4)",
+              "alabaré a mi Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Nadie hay tan grande como tú, Señor,",
+              "no lo hay, no lo hay. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Nadie hay que pueda hacer las cosas",
+              "como las que haces tú. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "No es con espadas, ni con ejércitos,",
+              "mas con tu Santo espíritu. (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Los huesos secos se moverán",
+              "y los enfermos se curarán;",
+              "y nuestras almas se salvarán,",
+              "mas con tu Santo Espíritu."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alabaré, alabaré, (4)",
+              "alabaré a mi Señor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Canta un nou cant al Senyor,",
+              "que ressoni arreu, per tot el món.",
+              "Canta un nou cant al Senyor,",
+              "Ell és l’únic Salvador."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "El teu poble ha contemplat",
+              "la teva salvació.",
+              "Aclama el Rei, que ets tu, Senyor,",
+              "esclata en crits de goig."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Canta un nou cant al Senyor,",
+              "que ressoni arreu, per tot el món.",
+              "Canta un nou cant al Senyor,",
+              "Ell és l’únic Salvador."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Beneeix el seu sant nom,",
+              "és digne de ser lloat.",
+              "Que tremoli davant d’Ell tot el que és creat."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Canta un nou cant al Senyor,",
+              "que ressoni arreu, per tot el món.",
+              "Canta un nou cant al Senyor,",
+              "Ell és l’únic Salvador."
+            ]
+          }
+        ]
+      }
+    }
+
+
+
 
 
 
