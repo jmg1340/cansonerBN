@@ -11413,7 +11413,8 @@ cansoner=
             "paragraf": [
               "",
               "No, no, no pasarán (2).",
-              "Bendito el que viene en el nombre del Señor; da gloria a Jesucristo el Hijo de David."
+              "Bendito el que viene en el nombre del Señor;",
+              "da gloria a Jesucristo el Hijo de David."
             ]
           },
           {
@@ -11633,15 +11634,45 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "• Se siente una paz",
+              "Se siente una paz",
               "tan grande",
               "al saberse",
               "absolutamente pobre,(2)",
-              "",
-              "• Y al no contar",
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Y al no contar",
               "más que con Dios,",
               "mas que con Dios,",
               "absolutamente pobre.(2)"
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Se sent una pau tan gran",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 246
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Se sent una pau tan gran",
+              "en saber-se absolutament pobre."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "I en no comptar més que amb Déu,",
+              "més que amb Déu...,",
+              "absolutament pobre."
             ]
           }
         ]
@@ -16892,7 +16923,7 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
               "Y grito: ¡Santo, Santo, Santo!",
               "Tú eres Santo, Santo, Santo.",
@@ -16919,9 +16950,12 @@ cansoner=
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "paragraf": [
-              "Y grito ..."
+              "Y grito: ¡Santo, Santo, Santo!",
+              "Tú eres Santo, Santo, Santo.",
+              "Tú siempre Santo, Santo, Santo",
+              "Santo eres tú. (2)"
             ]
           }
         ]
@@ -35654,22 +35688,17 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Tu Senyor em dónes un nou cant (2)",
-              "És un cant de joia que ningú em prendrà.",
-              "Tu Senyor em dónes un nou cant."
+              "Tu Senyor ens dónes un nou cant (2)",
+              "És un cant de joia que ningú ens prendrà.",
+              "Tu Senyor ens dónes un nou cant."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
               "Tu ens manes estimar-nos",
-              "com a germans (2)"
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "'Estimeu-vos uns als altres' ens ha dit.",
+              "com a germans (2)",
+              "'Estimeu-vos uns als altres' ens has dit.",
               "Tu ens manes estimar-nos",
               "com a germans."
             ]
