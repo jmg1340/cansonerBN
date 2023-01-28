@@ -36663,6 +36663,34 @@ cansoner=
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "Majestat (Lili Zaidín)",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 585
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Déu, davant teu vull estar,",
+              "ser amb tu, Senyor, em dóna vida.",
+              "Sols a tu t'adoraré i cantaré, Senyor."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "La majestat, la bondat,",
+              "em sanarà en dir el teu Nom.",
+              "El poder, l'esplendor,",
+              "brillarà amb la lloança."
+            ]
+          }
+        ]
       }
     },
     "679": {
@@ -37451,6 +37479,236 @@ cansoner=
               "que ressoni arreu, per tot el món.",
               "Canta un nou cant al Senyor,",
               "Ell és l’únic Salvador."
+            ]
+          }
+        ]
+      }
+    },
+    "717": {
+      "ES": {
+        "titol": "TE ALABARÉ - Freddy",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 597
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cierro mis ojos para contemplarte",
+              "Junto mis manos para suplicarte",
+              "Que llenes mi corazón con tu Espíritu"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aquí está mi vida hoy quiero entregarme",
+              "Cambia lo que tu quieras cambiarme",
+              "Y con todas mis fuerzas, te alabaré!"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Te alabaré, te exaltaré",
+              "Elevaré mis manos al cielo y te glorificaré."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Te alabaré, te exaltaré",
+              "Porque tú eres mi Dios y mi dueño",
+              "Te glorificaré."
+            ]
+          }
+        ]
+      }
+    },
+    "718": {
+      "ES": {
+        "titol": "NO PUEDO DEJAR DE CANTAR",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 598
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Cantaré de tu nombre, oh Señor,",
+              "de tus maravillas contaré",
+              "y sólo en Ti me alegraré."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "En tu presencia danzaré",
+              "y con regocijo entraré",
+              "ante tus puertas mi Señor."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Con alegría y con gozo en mi corazón",
+              "Te alabaré y declararé al mundo que…"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "No puedo dejar de cantar,",
+              "No puedo dejar de danzar,",
+              "No puedo dejar de alabar",
+              "y bendecir tu nombre (2)"
+            ]
+          }
+        ]
+      }
+    },
+    "719": {
+      "ES": {
+        "titol": "CANTAD Y BAILAD - Cor Nou",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 599
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Cantad y bailad, cantad y bailad,",
+              "Cantad para el Señor. (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al·leluia, al·leluia,     al·leluia, al·leluia",
+              "Al·leluia, al·leluia,     al·leluia, al·leluia"
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "CANTEM I BALLEM - Cor Nou",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 599
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Cantem i ballem, cantem i ballem,",
+              "cantem tots pel Senyor. (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Al·leluia, al·leluia,     al·leluia, al·leluia",
+              "Al·leluia, al·leluia,     al·leluia, al·leluia"
+            ]
+          }
+        ]
+      }
+    },
+    "720": {
+      "ES": {
+        "titol": "ALZAD LAS MANOS HACIA DIOS - Cor Nou",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 600
+        },
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alzad las manos hacia Dios",
+              "Invocando el Nombre del Señor",
+              "Alzad las manos, alzad las manos,",
+              "Gloria, gloria al Señor (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "1- Sólo Él hace maravillas",
+              "Sólo Él cambia el corazón",
+              "Sólo Él salva a su pueblo, es el Señor (x2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alzad las manos hacia Dios",
+              "Invocando el Nombre del Señor",
+              "Alzad las manos, alzad las manos,",
+              "Gloria, gloria al Señor (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "2- Sólo Él entre-ega la vida",
+              "Sólo Él ama de verdad",
+              "Sólo Él consue-ela tu alma, es el Señor(x2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alzad las manos hacia Dios",
+              "Invocando el Nombre del Señor",
+              "Alzad las manos, alzad las manos,",
+              "Gloria, gloria al Señor (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "3- Sólo Él perdona tu pecado",
+              "Sólo Él limpia el corazón",
+              "Sólo Él sana tus heridas, es el Señor(x2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Alzad las manos hacia Dios",
+              "Invocando el Nombre del Señor",
+              "Alzad las manos, alzad las manos,",
+              "Gloria, gloria al Señor (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Gloria, gloria, gloria al Señor",
+              "Gloria, gloria, gloria a nuestro Dios (x2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Alzad las manos hacia Dios",
+              "Invocando el Nombre del Señor",
+              "Alzad las manos, alzad las manos,",
+              "Gloria, gloria al Señor(x2)…FINAL:……AL SEÑOR"
             ]
           }
         ]
