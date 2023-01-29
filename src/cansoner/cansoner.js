@@ -2923,6 +2923,16 @@ cansoner=
               "es amor, (3)",
               "su signo sobre mí es amor"
             ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Él es mi padre",
+              "yo soy su hijo,",
+              "su signo sobre mí",
+              "es amor, (3)",
+              "su signo sobre mí es amor"
+            ]
           }
         ]
       }
@@ -11468,6 +11478,11 @@ cansoner=
             "tipus": "estrofa",
             "paragraf": [
               "¡Santo, Santo! ¡Hosanna! (2)",
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
               "¡Hosanna, hey! ¡Hosanna, hey!",
               "¡Hosanna a Cristo Jesús! (2)"
             ]
@@ -11475,11 +11490,32 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Los cielos y la tierra están llenos de tu gloria, Señor. (2)",
-              "",
-              "Bendito el que viene en el nombre, en el nombre tuyo, Señor."
+              "Los cielos y la tierra están llenos",
+              "de tu gloria, Señor. (2)",
+
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "¡Hosanna, hey! ¡Hosanna, hey!",
+              "¡Hosanna a Cristo Jesús! (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Bendito el que viene en el nombre,",
+              "en el nombre tuyo, Señor.(2)"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "¡Hosanna, hey! ¡Hosanna, hey!",
+              "¡Hosanna a Cristo Jesús! (2)"
+            ]
+          },
         ]
       },
       "CAT": {
@@ -37709,6 +37745,261 @@ cansoner=
               "Invocando el Nombre del Señor",
               "Alzad las manos, alzad las manos,",
               "Gloria, gloria al Señor(x2)…FINAL:……AL SEÑOR"
+            ]
+          }
+        ]
+      }
+    },
+    "721": {
+      "CAT": {
+        "titol": "Sigui la pau amb nosaltres",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 601
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Sigui la pau amb nosaltres (3)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Que resplandeixi sempre,",
+              "sempre en tots la pau"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "-------"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "La paz este con nosotros (3)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Que con nosotros siempre,",
+              "siempre esté la paz"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "--------"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Hevenu shalom alehem (3)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¡Hevenu shalom, shalom,",
+              "shalom alehem!"
+            ]
+          }
+        ]
+      }
+    },
+    "722": {
+      "ES": {
+        "titol": "¿Quién es ese?",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 603
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¿Quién es ese que camina por las aguas?",
+              "¿Quién es ese que a los sordos hace oír?",
+              "¿Quién es ese que a los muertos resucita?",
+              "¿Quién es ese que su nombre quiero oír?"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Es Jesús, es Jesús,",
+              "Dios y hombre que nos guía con su luz (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¿Quién es ese que los mares obedecen?",
+              "¿Quién es ese que a los mudos hace hablar?",
+              "¿Quién es ese que da paz al alma herida",
+              "y pecados con su muerte perdonó?"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Es Jesús, es Jesús,",
+              "Dios y hombre que nos guía con su luz (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "¿Quién es ese que a nosotros ha llegado?",
+              "¿Quién es ése, Salvador y Redentor?",
+              "¿Quién es ese que su Espíritu nos deja",
+              "y transforma nuestra vida con su amor?"
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Es Jesús, es Jesús,",
+              "Dios y hombre que nos guía con su luz (2)"
+            ]
+          }
+        ]
+      }
+    },
+    "723": {
+      "ES": {
+        "titol": "El victorioso (Juan Carlos Alvarado)",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 604
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "El victorioso vive en mi",
+              "El victorioso vive en mi",
+              "Las circunstancias no me mueven a mi",
+              "El victorioso vive en mi (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Yo cantaré y danzaré",
+              "Celebraré la victoria del Señor",
+              "No temeré al pelear",
+              "Pues la victoria es del Señor"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "El victorioso vive en mi",
+              "El victorioso vive en mi",
+              "Las circunstancias no me mueven a mi",
+              "El victorioso vive en mi (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Yo cantaré y danzaré",
+              "Celebraré la victoria del Señor",
+              "No temeré al pelear",
+              "Pues la victoria es del Señor (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Es del Señor",
+              "Es del Señor",
+              "Es del Señor"
+            ]
+          }
+        ]
+      }
+    },
+    "724": {
+      "ES": {
+        "titol": "Aclamad al Señor (Marcos Vidal)",
+        "audio": null,
+        "estat": "nova",
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 605
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "La tierra está llena de",
+              "La misericordia del Señor",
+              "Por su palabra fueron hechos los cielos",
+              "Y las aguas del mar"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aclamad al Señor con los instrumentos",
+              "Aclamad al Señor con jubilo",
+              "Aclamad al Señor con los instrumentos",
+              "Cantadle un cántico nuevo"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "La tierra está llena de",
+              "La misericordia del Señor",
+              "Por su palabra fueron hechos los cielos",
+              "Y las aguas del mar"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aclamad al Señor con los instrumentos",
+              "Aclamad al Señor con jubilo",
+              "Aclamad al Señor con los instrumentos",
+              "Cantadle un cántico nuevo"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "La tierra está llena de",
+              "La misericordia del Señor",
+              "Por su palabra fueron hechos los cielos",
+              "Y las aguas del mar"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Aclamad al Señor con los instrumentos",
+              "Aclamad al Señor con jubilo",
+              "Aclamad al Señor con los instrumentos",
+              "Cantadle un cántico nuevo",
+              "Aclamad al Señor con los instrumentos",
+              "Aclamad al Señor con jubilo",
+              "Aclamad al Señor con los instrumentos",
+              "Cantadle un cántico nuevo",
+              "Cantadle un cántico nuevo",
+              "Cantadle un cántico nuevo"
             ]
           }
         ]
