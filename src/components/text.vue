@@ -1,32 +1,35 @@
 <template>
   <div class="row justify-center">
     <div class="col-md-8 col-sm-10 col-xs-12">
-      <q-card class="text-center">
-        <div class="q-gutter-xs q-pb-xs">
-          <q-checkbox v-model="seleccioCansoners" val="vermell" label="C. Vermell" color="red" />
-          <q-checkbox
-            v-model="seleccioCansoners"
-            val="blau"
-            label="C. Blau"
-            color="blue-10"
-            class="q-ml-md"
-          />
-          <!-- 
-						<q-checkbox v-model="seleccioCansoners" val="nadales" label="Nadales" color="black" />
-          -->
-        </div>
-      </q-card>
+      <div class="row justify-center">
+        <q-card class="col-9">
+          <div class="row q-gutter-xs justify-around q-pb-xs">
+            <q-checkbox v-model="seleccioCansoners" val="vermell" label="C. Vermell" color="red" class="col-auto"/>
+            <q-checkbox
+              v-model="seleccioCansoners"
+              val="blau"
+              label="C. Blau"
+              color="blue-10"
+              class="col-auto"
+            />
+            <!--
+              <q-checkbox v-model="seleccioCansoners" val="nadales" label="Nadales" color="black" />
+            -->
+          </div>
+        </q-card>
+      </div>
 
       <div class="row justify-center q-mt-lg">
         <div class="col-sm-8 col-xs-12">
           <div class="row no-wrapq-gutter-md items-start justify-center">
             <q-input
               class="col"
+              outlined
               bottom-slots
               v-model="inputText"
               label="Introduir TEXT"
               dense
-              filled
+
               :rules="[val => !!val || 'tecleja algo...']"
               @keyup.enter="buscar"
             >
@@ -67,7 +70,7 @@
 
 
       <q-markup-table
-        
+
         dense
         bordered
         class="q-mx-sm"
@@ -106,12 +109,12 @@
 
             <td class="q-px-xs tdTitol">
               <!-- <router-link :to="'{ name: \'canso\', query: { idCanso: '+info.idCanso+', llibre: '+info.llibre+',numero: '+info.numero+',idioma: '+info.idioma+' } }'"> -->
-              
-              
+
+
               <q-icon name="fiber_new" color="green-14" size="sm" v-if="info.estat== 'nova'" />
               {{ info.titol }}
 
-              
+
             </td>
 
             <td class="text-center">
@@ -119,15 +122,15 @@
             </td>
             <td class="text-center">{{info.numero}}</td>
 
-          
-          </tr> 
+
+          </tr>
         </tbody>
       </q-markup-table>
 
 
       <q-page-sticky position="bottom-right" :offset="[10, 10]">
         <q-btn round size="md" icon="keyboard_double_arrow_up" color="primary" @click="vesAlComensament"/>
-      </q-page-sticky>      
+      </q-page-sticky>
     </div>
   </div>
 </template>
@@ -154,7 +157,7 @@ export default {
   destroyed(){
     this.guardarVariablesSessio();
   },
-  
+
   data() {
     return {
       seleccioCansoners: ["vermell", "blau"],

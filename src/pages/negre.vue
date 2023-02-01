@@ -4,30 +4,31 @@
     <div class="column  ">
       <div class="col text-right text-caption">{{seleccioCansoner}} - {{inputNumero}}</div>
     </div>
-    
+
     <div class="column items-center ">
       <div class="col q-gutter-lg ">
 
         <img v-if="imatgeJesus" class="col q-mr-md" src="~assets/Jesus.png" style="width: 89%"/>
+        <!-- <img v-if="imatgeJesus" class="col q-mr-md" src="~assets/JesusUlls.gif" style="width: 89%"/> -->
 
         <!-- <div class="row">
           <img class="col q-mr-md" style="height: 50px; max-width: 50px" src="~assets/www.png" />
-          <div class="col">www.bonanova.cat</div> 
+          <div class="col">www.bonanova.cat</div>
         </div>
         <div class="row">
           <q-img class="col q-mr-md" style="height: 50px; max-width: 50px" src="~assets/insta.png" />
-          <div class="col">@bonanova.cat</div> 
+          <div class="col">@bonanova.cat</div>
         </div>
         <div class="row">
           <q-img class="col q-mr-md" style="height: 50px; max-width: 50px" src="~assets/twitter.png" />
-          <div class="col">@bonanova.cat</div> 
+          <div class="col">@bonanova.cat</div>
         </div>
         <div class="row">
           <q-img class="col q-mr-md" style="height: 50px; max-width: 75px" src="~assets/youtube.png" />
-          <div class="col">canal "grup Bona Nova"</div> 
+          <div class="col">canal "grup Bona Nova"</div>
         </div>-->
 
-      </div> 
+      </div>
 
     </div>
 
@@ -60,7 +61,7 @@ export default {
 
   methods:{
     funcEventNegre: function(event){
-      
+
       switch( event.key ){
 
         case "T":
@@ -90,7 +91,7 @@ export default {
 
 
         case "VK_DELETE":   //windows
-        case "kVK_ForwardDelete":  // MAC        
+        case "kVK_ForwardDelete":  // MAC
         case "Delete":
           this.inputNumero = "";
           break;
@@ -107,7 +108,7 @@ export default {
           console.log(`tecla ${event.key}`)
           break;
 
-      } 
+      }
 
     },
 
@@ -122,7 +123,7 @@ export default {
 
       console.log("objIDCansoIdioma", objIDCansoIdioma)
       let {idCanso, idioma} = objIDCansoIdioma
-       
+
 
       if (idCanso === null) {
 
@@ -154,7 +155,7 @@ export default {
             stackButtons: true,
             persistent: true
           })
-          .onOk( data =>   { 
+          .onOk( data =>   {
             idioma = data;
             this.$router.push({ name: "cansoDesdeNegre", query: { idCanso,  idioma } });
           })
@@ -167,7 +168,7 @@ export default {
 
 
       // this.guardarVariablesSessio();
-      
+
 
 
 
@@ -188,7 +189,7 @@ export default {
       console.log("state.llibre MODIFICAT");
 
       // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma, segons el numero:
-      
+
       if (
         ! this.$store.getters["modulCansoner/getObjCansonsLlibre"][
           this.inputNumero + "_CAT"
@@ -197,7 +198,7 @@ export default {
           this.inputNumero + "_ES"
         ]
       ) {
-        
+
         console.log("No existeix numero al llibre")
         this.$q.notify({
           message: 'El número ' + this.inputNumero + ' no existeix',

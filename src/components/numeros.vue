@@ -1,32 +1,38 @@
 <template>
   <div class="row justify-center">
     <div class="col-md-8 col-sm-10 col-xs-12">
-      <q-card class="text-center ">
-        <div class="q-gutter-xs q-pb-xs">
-          <q-radio
-            v-model="seleccioCansoner"
-            val="vermell"
-            label="C. Vermell"
-            color="red"
-            
-          />
-          <q-radio
-            v-model="seleccioCansoner"
-            val="blau"
-            label="C. Blau"
-            color="blau"
-          
-          />
-          <!-- 						
-              <q-radio v-model="seleccioCansoner" val="nadales" label="Nadales" color="black" @input="mostrarNumerosLlibre" />
-          -->
-        </div>
-      </q-card>
+      <div class="row justify-center">
+        <q-card class="col-9 ">
+          <div class="q-gutter-xs q-pb-xs">
+            <div class="row justify-around">
+              <q-radio
+                class="col-auto"
+                v-model="seleccioCansoner"
+                val="vermell"
+                label="C. Vermell"
+                color="red"
 
-      
+              />
+              <q-radio
+                class="col-auto"
+                v-model="seleccioCansoner"
+                val="blau"
+                label="C. Blau"
+                color="blau"
+
+              />
+              <!--
+                  <q-radio v-model="seleccioCansoner" val="nadales" label="Nadales" color="black" @input="mostrarNumerosLlibre" />
+              -->
+            </div>
+          </div>
+        </q-card>
+      </div>
+
+
 
       <div v-if="seleccioCansoner != ''" class="column q-gutter-sm bordered">
-        
+
         <!-- resultat -->
         <div class="row justify-center">
           <transition name="shakeX" class="animated">
@@ -168,7 +174,7 @@ export default {
 
     funcEventKeydown: function(event){
       // if (event.) return
-      
+
       switch( event.key ){
         case "VK_RETURN":   //windows
         case "kVK_Return":  // MAC
@@ -178,7 +184,7 @@ export default {
           break;
 
         case "VK_DELETE":   //windows
-        case "kVK_ForwardDelete":  // MAC        
+        case "kVK_ForwardDelete":  // MAC
         case "Delete":
           this.inputNumero = "";
           break;
@@ -197,7 +203,7 @@ export default {
 
         // case "N":
         // case "n":
-        //   this.$router.push({ name: "negre" });         
+        //   this.$router.push({ name: "negre" });
         //   break;
 
         default:
@@ -205,7 +211,7 @@ export default {
           // this.inputNumero += event.key;
           console.log(`tecla ${event.key}`)
           break;
-      } 
+      }
 
     },
 
@@ -229,7 +235,7 @@ export default {
 
       console.log("objIDCansoIdioma", objIDCansoIdioma)
       let {idCanso, idioma} = objIDCansoIdioma
-       
+
 
       if (idCanso === null) {
 
@@ -261,7 +267,7 @@ export default {
             stackButtons: true,
             persistent: true
           })
-          .onOk( data =>   { 
+          .onOk( data =>   {
             idioma = data;
             this.$router.push({ name: "canso", query: { idCanso,  idioma } });
           })
@@ -274,7 +280,6 @@ export default {
 
 
       this.guardarVariablesSessio();
-      
 
 
 
@@ -282,7 +287,8 @@ export default {
 
 
 
-      
+
+
       return
 
       // Hi ha cançons que, per cada idioma, tenen mateix cançoner i
@@ -300,7 +306,7 @@ export default {
       console.log("getObjCansonsLlibre", this.$store.getters["modulCansoner/getObjCansonsLlibre"])
 
       // Un cop actualitzat, miro si existeixen les 2 propietats de l'idioma, segons el numero:
-      
+
       if (
         ! this.$store.getters["modulCansoner/getObjCansonsLlibre"][
           this.inputNumero + "_CAT"
@@ -309,7 +315,7 @@ export default {
           this.inputNumero + "_ES"
         ]
       ) {
-        
+
         console.log("No existeix numero al llibre")
         this.$q.notify({
           message: 'La cançó amb nº ' + this.inputNumero + ' no existeix',

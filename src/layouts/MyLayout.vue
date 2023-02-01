@@ -6,7 +6,7 @@
       class="bg-yellow-3"
     >
       <q-toolbar class="glossy">
-        <!-- 
+        <!--
         <q-btn
           flat
           dense
@@ -54,7 +54,7 @@
         position="top"
       >
         <q-card>
-          <q-card-section class="text-white bg-grey-8">
+          <q-card-section class="text-white bg-grey-9">
             Si vols pregar a Déu tot cantant amb nosaltres, pots venir al
             <a
               href="https://bonanova.cat/contacte/"
@@ -62,7 +62,7 @@
               class="text-weight-bold text-blue-2 text-uppercase"
             >lloc</a> on ens trobem cada dimarts de 18:30 a 20:30.
           </q-card-section>
-          <!-- 
+          <!--
         </q-card>
 
         <q-card>
@@ -107,7 +107,7 @@
 
     </q-header>
 
-    <!-- 
+    <!--
     <q-drawer
       v-model="leftDrawerOpen"
       show-if-above

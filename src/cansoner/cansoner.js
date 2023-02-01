@@ -1,6 +1,6 @@
 cansoner=
-  // nou id: 715
-  // ids lliures:
+
+  // ids lliures: 643
 
   {
     "1": {
@@ -15714,6 +15714,31 @@ cansoner=
             "paragraf": [
               "Yo celebraré, delante del Señor, cantaré un canto nuevo. (2)",
               "Yo le alabaré porque él ha hecho grandes cosas. (2)"
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Jo celebrare",
+        "audio": null,
+        "estat": null,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 530
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Jo celebraré,",
+              "el nom del Senyor,",
+              "cantaré un cant de lloança.   (2)"
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Jo el lloaré perque Ell ha fet obres grans arreu.     (2)"
             ]
           }
         ]
@@ -33201,58 +33226,9 @@ cansoner=
         ]
       }
     },
-    "643": {
-      "ES": {
-        "titol": "Yo celebrare",
-        "audio": null,
-        "estat": null,
-        "cansoner": {
-          "nom": "vermell",
-          "numero": 530
-        },
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Yo celebraré",
-              "el nombre del Señor,",
-              "cantaré un canto nuevo.   (2)"
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Yo le alabaré porque Él ha hecho grandes cosas. (2)"
-            ]
-          },
-        ]
-      },
-      "CAT": {
-        "titol": "Jo celebrare",
-        "audio": null,
-        "estat": null,
-        "cansoner": {
-          "nom": "vermell",
-          "numero": 530
-        },
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Jo celebraré,",
-              "el nom del Senyor,",
-              "cantaré un cant de lloança.   (2)"
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Jo el lloaré perque Ell ha fet obres grans arreu.     (2)"
-            ]
-          }
-        ]
-      }
-    },
+
+
+
     "644": {
       "ES": {
         "titol": "Vengo a ti Señor. Cambiame",
