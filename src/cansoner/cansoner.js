@@ -1,6 +1,6 @@
 cansoner=
 
-  // ids lliures: 643
+  // ids lliures: 643, 678
 
   {
     "1": {
@@ -14899,52 +14899,146 @@ cansoner=
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Vengo ante Ti mi Señor",
-              "con el peso de mi culpa",
-              "con la fe puesta en tu amor,",
-              "que me abraza como a hijo.",
-              "• Te abro mi corazón",
-              "y te ofrezco mi miseria",
+              "Vengo ante ti, mi Señor,",
+              "reconociendo mi culpa,",
+              "con la fe puesta en tu amor",
+              "que tú me das como a un hijo.",
+              "Te abro mi corazón",
+              "y te ofrezco mi miseria;",
               "despojado de mis cosas",
-              "quiero llenarme de Ti.",
-              "• Que tu Espíritu Señor",
-              "abrase todo mi ser\t",
-              "hazme dócil a tu voz",
-              "transforma mi vida entera.(2)"
+              "quiero llenarme de ti."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que tu Espíritu, Señor,",
+              "abrase todo mi ser.",
+              "Hazme dócil a tu voz,",
+              "transforma mi vida entera."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "Puesto en tus manos Señor reconozco que soy débil",
-              "mas tu me quieres así",
-              "y por eso yo te alabo",
-              "• Padre en mi debilidad",
-              "tú me das la fortaleza",
-              "buscas al pobre y sencillo,",
-              "le das tu paz y perdón.",
-              "• Que tu Espíritu Señor",
-              "abrase todo mi ser\t",
-              "hazme dócil a tu voz",
-              "transforma mi vida entera.(2)"
+              "Puesto en tus manos, Señor,",
+              "siento que soy pobre y débil,",
+              "mas tú me quieres asi",
+              "yo te bendigo y te alabo.",
+              "Padre, en mi debilidad,",
+              "tú me das la fortaleza;",
+              "amas al horribre sencillo,",
+              "le das tu paz y perdón."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que tu Espíritu, Señor,",
+              "abrase todo mi ser.",
+              "Hazme dócil a tu voz,",
+              "transforma mi vida entera."
             ]
           },
           {
             "tipus": "estrofa",
             "paragraf": [
-              "• Gracias porque ya lo haces, porque tu paz me libera,",
+              "Gracias porque ya lo haces,",
+              "porque tu paz me libera,",
               "porque acoges mi oración,",
               "por el don que es mi pobreza.",
-              "• Qué gozo siento al estar",
-              "en los brazos de mi Padre",
-              "canto y alabo tu amor,",
-              "porque curas al enfermo.",
-              "• Que tu Espíritu Señor",
-              "abrase todo mi ser\t",
-              "hazme dócil a tu voz",
-              "transforma mi vida entera.(2)"
+              "Qué gozo siento al estar",
+              "en los brazos de mi Padre;",
+              "canto y alabo tu amor",
+              "porque curas al enfermo."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que tu Espíritu, Señor,",
+              "abrase todo mi ser.",
+              "Hazme dócil a tu voz,",
+              "transforma mi vida entera."
             ]
           }
+        ]
+      },
+      "CAT": {
+        "titol": "VINC DAVANT TEU, OH SENYOR",
+        "audio": null,
+        "estat": null,
+        "cansoner": {
+          "nom": "vermell",
+          "numero": 563
+        },
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "Vinc davant teu, oh Senyor,",
+              "aclaparat per la culpa,",
+              "amb la fe en el teu amor",
+              "que m'abraça com a fill.",
+              "T'obro ben bé el meu cor,",
+              "t'ofereixo ma misèria",
+              "despullat del que és meu,",
+              "vull emplenar-me de Tu."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que el teu Esperit, Senyor,",
+              "abrasi tot el meu ser.",
+              "Fes-me dòcil a ta veu,",
+              "transforma la meva vida."
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "paragraf": [
+              "A les mans teves, Senyor,",
+              "reconec com sóc de dèbil,",
+              "però tu m'estimes així ",
+              "i és per això que jo et lloo.",
+              "Pare, en la debilitat,",
+              "Tu em dónes fortalesa.",
+              "Busques el pobre i senzill,",
+              "li dónes pau i perdó."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que el teu Esperit, Senyor,",
+              "abrasi tot el meu ser.",
+              "Fes-me dòcil a ta veu,",
+              "transforma la meva vida."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Gràcies perquè ja ho fas:",
+              "la teva pau m'allibera",
+              "perquè / aculls l'oració ",
+              "pel gran do que és ma pobresa.",
+              "Oh, quin goig sento d'estar",
+              "abraçat pel meu Pare.",
+              "El teu Amor canto i lloo,",
+              "perquè cures el malalt."
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "paragraf": [
+              "Que el teu Esperit, Senyor,",
+              "abrasi tot el meu ser.",
+              "Fes-me dòcil a ta veu,",
+              "transforma la meva vida."
+            ]
+          },
         ]
       }
     },
@@ -31252,8 +31346,8 @@ cansoner=
               "Només Déu em pot salvar,",
               "només Ell pot salvar.",
               "Per sempre, Font de salvació",
-              "Jesús la mort ha vençut,",
-              "Ell la mort ha vençut."
+              "Jesús la mort has vençut,",
+              "Tu la mort has vençut."
             ]
           },
           {
@@ -31272,8 +31366,8 @@ cansoner=
               "Només Déu em pot salvar,",
               "només Ell pot salvar.",
               "Per sempre, Font de salvació",
-              "Jesús la mort ha vençut,",
-              "Ell la mort ha vençut."
+              "Jesús la mort has vençut,",
+              "Tu la mort has vençut."
             ]
           },
           {
@@ -35122,162 +35216,6 @@ cansoner=
               "el seu nom és Jesús, el seu nom és Déu.",
               "Primer i darrer és l'Enviat,",
               "el Crist que ens salva, Déu immortal."
-            ]
-          },
-        ]
-      }
-    },
-    "678": {
-      "ES": {
-        "titol": "VENGO ANTE TI, MI SEÑOR",
-        "audio": null,
-        "estat": null,
-        "cansoner": {
-          "nom": "vermell",
-          "numero": 563
-        },
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Vengo ante ti, mi Señor,",
-              "reconociendo mi culpa,",
-              "con la fe puesta en tu amor",
-              "que tú me das como a un hijo.",
-              "Te abro mi corazón",
-              "y te ofrezco mi miseria;",
-              "despojado de mis cosas",
-              "quiero llenarme de ti."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que tu Espíritu, Señor,",
-              "abrase todo mi ser.",
-              "Hazme dócil a tu voz,",
-              "transforma mi vida entera."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Puesto en tus manos, Señor,",
-              "siento que soy pobre y débil,",
-              "mas tú me quieres asi",
-              "yo te bendigo y te alabo.",
-              "Padre, en mi debilidad,",
-              "tú me das la fortaleza;",
-              "amas al horribre sencillo,",
-              "le das tu paz y perdón."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que tu Espíritu, Señor,",
-              "abrase todo mi ser.",
-              "Hazme dócil a tu voz,",
-              "transforma mi vida entera."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Gracias porque ya lo haces,",
-              "porque tu paz me libera,",
-              "porque acoges mi oración,",
-              "por el don que es mi pobreza.",
-              "Qué gozo siento al estar",
-              "en los brazos de mi Padre;",
-              "canto y alabo tu amor",
-              "porque curas al enfermo."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que tu Espíritu, Señor,",
-              "abrase todo mi ser.",
-              "Hazme dócil a tu voz,",
-              "transforma mi vida entera."
-            ]
-          }
-        ]
-      },
-      "CAT": {
-        "titol": "VINC DAVANT TEU, OH SENYOR",
-        "audio": null,
-        "estat": null,
-        "cansoner": {
-          "nom": "vermell",
-          "numero": 563
-        },
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "Vinc davant teu, oh Senyor,",
-              "aclaparat per la culpa,",
-              "amb la fe en el teu amor",
-              "que m'abraça com a fill.",
-              "T'obro ben bé el meu cor,",
-              "t'ofereixo ma misèria",
-              "despullat del que és meu,",
-              "vull emplenar-me de Tu."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que el teu Esperit, Senyor,",
-              "abrasi tot el meu ser.",
-              "Fes-me dòcil a ta veu,",
-              "transforma la meva vida."
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "paragraf": [
-              "A les mans teves, Senyor,",
-              "reconec com sóc de dèbil,",
-              "però tu m'estimes així ",
-              "i és per això que jo et lloo.",
-              "Pare, en la debilitat,",
-              "Tu em dónes fortalesa.",
-              "Busques el pobre i senzill,",
-              "li dónes pau i perdó."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que el teu Esperit, Senyor,",
-              "abrasi tot el meu ser.",
-              "Fes-me dòcil a ta veu,",
-              "transforma la meva vida."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Gràcies perquè ja ho fas:",
-              "la teva pau m'allibera",
-              "perquè / aculls l'oració ",
-              "pel gran do que és ma pobresa.",
-              "Oh, quin goig sento d'estar",
-              "abraçat pel meu Pare.",
-              "El teu Amor canto i lloo,",
-              "perquè cures el malalt."
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "paragraf": [
-              "Que el teu Esperit, Senyor,",
-              "abrasi tot el meu ser.",
-              "Fes-me dòcil a ta veu,",
-              "transforma la meva vida."
             ]
           },
         ]
